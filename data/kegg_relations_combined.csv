@@ -1,0 +1,3208 @@
+starter,receiver,relation,pathway
+GPER1,GNAS,activation,Endocrine resistance
+GNAS,SRC,activation,Endocrine resistance
+SRC,MMP2,activation,Endocrine resistance
+SRC,MMP9,activation,Endocrine resistance
+MMP2,HBEGF,activation,Endocrine resistance
+MMP9,HBEGF,activation,Endocrine resistance
+HBEGF,HBEGF,activation,Endocrine resistance
+GNAS,ADCY1,activation,Endocrine resistance
+GNAS,ADCY2,activation,Endocrine resistance
+GNAS,ADCY3,activation,Endocrine resistance
+GNAS,ADCY5,activation,Endocrine resistance
+GNAS,ADCY6,activation,Endocrine resistance
+GNAS,ADCY7,activation,Endocrine resistance
+GNAS,ADCY8,activation,Endocrine resistance
+GNAS,ADCY9,activation,Endocrine resistance
+PRKACA,ARAF,activation,Endocrine resistance
+PRKACA,RAF1,activation,Endocrine resistance
+PRKACA,RAF1,activation,Endocrine resistance
+PRKACA,BRAF,activation,Endocrine resistance
+PRKACA,BRAF,activation,Endocrine resistance
+HBEGF,EGFR,activation,Endocrine resistance
+IGF1,IGF1R,activation,Endocrine resistance
+EGFR,SHC2,activation,Endocrine resistance
+EGFR,SHC4,activation,Endocrine resistance
+EGFR,SHC2,activation,Endocrine resistance
+EGFR,SHC4,activation,Endocrine resistance
+EGFR,SHC3,activation,Endocrine resistance
+EGFR,SHC1,activation,Endocrine resistance
+EGFR,PIK3CA,activation,Endocrine resistance
+EGFR,PIK3CB,activation,Endocrine resistance
+EGFR,PIK3CD,activation,Endocrine resistance
+EGFR,PIK3R1,activation,Endocrine resistance
+EGFR,PIK3R2,activation,Endocrine resistance
+EGFR,PIK3R3,activation,Endocrine resistance
+ERBB2,SHC2,activation,Endocrine resistance
+ERBB2,SHC4,activation,Endocrine resistance
+ERBB2,SHC3,activation,Endocrine resistance
+ERBB2,SHC1,activation,Endocrine resistance
+ERBB2,PIK3CA,activation,Endocrine resistance
+ERBB2,PIK3CB,activation,Endocrine resistance
+ERBB2,PIK3CD,activation,Endocrine resistance
+ERBB2,PIK3R1,activation,Endocrine resistance
+ERBB2,PIK3R2,activation,Endocrine resistance
+ERBB2,PIK3R3,activation,Endocrine resistance
+IGF1R,SHC2,activation,Endocrine resistance
+IGF1R,SHC4,activation,Endocrine resistance
+IGF1R,SHC3,activation,Endocrine resistance
+IGF1R,SHC1,activation,Endocrine resistance
+IGF1R,PIK3CA,activation,Endocrine resistance
+IGF1R,PIK3CB,activation,Endocrine resistance
+IGF1R,PIK3CD,activation,Endocrine resistance
+IGF1R,PIK3R1,activation,Endocrine resistance
+IGF1R,PIK3R2,activation,Endocrine resistance
+IGF1R,PIK3R3,activation,Endocrine resistance
+PRKACA,ARAF,inhibition,Endocrine resistance
+PRKACA,RAF1,inhibition,Endocrine resistance
+PRKACA,BRAF,inhibition,Endocrine resistance
+PRKACB,ARAF,inhibition,Endocrine resistance
+PRKACB,RAF1,inhibition,Endocrine resistance
+PRKACB,BRAF,inhibition,Endocrine resistance
+PRKACG,ARAF,inhibition,Endocrine resistance
+PRKACG,RAF1,inhibition,Endocrine resistance
+PRKACG,BRAF,inhibition,Endocrine resistance
+BCL2,BAX,inhibition,Endocrine resistance
+BCL2,BAD,inhibition,Endocrine resistance
+BCL2,BIK,inhibition,Endocrine resistance
+CDK4,RB1,inhibition,Endocrine resistance
+RB1,E2F1,inhibition,Endocrine resistance
+RB1,E2F2,inhibition,Endocrine resistance
+RB1,E2F3,inhibition,Endocrine resistance
+MDM2,TP53,inhibition,Endocrine resistance
+TP53,CDKN2A,inhibition,Endocrine resistance
+TP53,CDKN2C,inhibition,Endocrine resistance
+TP53,CDKN1A,inhibition,Endocrine resistance
+TP53,CDKN1B,inhibition,Endocrine resistance
+CDKN2A,CDK4,inhibition,Endocrine resistance
+CDKN2C,CDK4,inhibition,Endocrine resistance
+CDKN1A,CDK4,inhibition,Endocrine resistance
+CDKN1B,CDK4,inhibition,Endocrine resistance
+ARAF,MAP2K1,phosphorylation,Endocrine resistance
+ARAF,MAP2K2,phosphorylation,Endocrine resistance
+RAF1,MAP2K1,phosphorylation,Endocrine resistance
+RAF1,MAP2K2,phosphorylation,Endocrine resistance
+BRAF,MAP2K1,phosphorylation,Endocrine resistance
+BRAF,MAP2K2,phosphorylation,Endocrine resistance
+MAP2K1,MAPK1,phosphorylation,Endocrine resistance
+MAP2K2,MAPK1,phosphorylation,Endocrine resistance
+MAP2K2,MAPK3,phosphorylation,Endocrine resistance
+MAPK1,JUN,phosphorylation,Endocrine resistance
+MAPK3,JUN,phosphorylation,Endocrine resistance
+MAPK1,FOS,phosphorylation,Endocrine resistance
+MAPK3,FOS,phosphorylation,Endocrine resistance
+PRKACA,ESR1,phosphorylation,Endocrine resistance
+PRKACA,ESR2,phosphorylation,Endocrine resistance
+PRKACB,ESR1,phosphorylation,Endocrine resistance
+PRKACB,ESR2,phosphorylation,Endocrine resistance
+PRKACG,ESR1,phosphorylation,Endocrine resistance
+PRKACG,ESR2,phosphorylation,Endocrine resistance
+PRKACA,CARM1,phosphorylation,Endocrine resistance
+PRKACA,MED1,phosphorylation,Endocrine resistance
+PRKACA,NCOA3,phosphorylation,Endocrine resistance
+PRKACB,CARM1,phosphorylation,Endocrine resistance
+PRKACB,MED1,phosphorylation,Endocrine resistance
+PRKACB,NCOA3,phosphorylation,Endocrine resistance
+PRKACG,CARM1,phosphorylation,Endocrine resistance
+PRKACG,NCOA3,phosphorylation,Endocrine resistance
+PRKACA,JUN,phosphorylation,Endocrine resistance
+PRKACA,SP1,phosphorylation,Endocrine resistance
+PRKACB,JUN,phosphorylation,Endocrine resistance
+PRKACA,RPS6KB2,phosphorylation,Endocrine resistance
+FASLG,FAS,activation,Platinum drug resistance
+FAS,FADD,activation,Platinum drug resistance
+FADD,CASP8,activation,Platinum drug resistance
+CASP8,CASP3,activation,Platinum drug resistance
+CASP8,BID,activation,Platinum drug resistance
+ERBB2,PIK3CA,activation,Platinum drug resistance
+ERBB2,PIK3CB,activation,Platinum drug resistance
+ERBB2,PIK3CD,activation,Platinum drug resistance
+ERBB2,PIK3R1,activation,Platinum drug resistance
+ERBB2,PIK3R2,activation,Platinum drug resistance
+ERBB2,PIK3R3,activation,Platinum drug resistance
+PIK3CA,PDPK1,activation,Platinum drug resistance
+PIK3CB,PDPK1,activation,Platinum drug resistance
+PIK3CD,PDPK1,activation,Platinum drug resistance
+PIK3R1,PDPK1,activation,Platinum drug resistance
+PIK3R2,PDPK1,activation,Platinum drug resistance
+PIK3R3,PDPK1,activation,Platinum drug resistance
+PDPK1,AKT3,activation,Platinum drug resistance
+PDPK1,AKT1,activation,Platinum drug resistance
+PDPK1,AKT2,activation,Platinum drug resistance
+AKT3,CDKN1A,activation,Platinum drug resistance
+AKT1,CDKN1A,activation,Platinum drug resistance
+AKT2,CDKN1A,activation,Platinum drug resistance
+CASP8,ATM,activation,Platinum drug resistance
+CASP8,TP53,activation,Platinum drug resistance
+ERBB2,MAPK1,activation,Platinum drug resistance
+ERBB2,MAPK3,activation,Platinum drug resistance
+AKT3,BIRC2,activation,Platinum drug resistance
+AKT3,BIRC3,activation,Platinum drug resistance
+AKT3,XIAP,activation,Platinum drug resistance
+AKT3,BIRC5,activation,Platinum drug resistance
+AKT1,BIRC2,activation,Platinum drug resistance
+AKT1,BIRC3,activation,Platinum drug resistance
+AKT1,XIAP,activation,Platinum drug resistance
+AKT1,BIRC5,activation,Platinum drug resistance
+AKT2,BIRC2,activation,Platinum drug resistance
+AKT2,BIRC3,activation,Platinum drug resistance
+AKT2,XIAP,activation,Platinum drug resistance
+AKT2,BIRC5,activation,Platinum drug resistance
+CASP9,CASP3,activation,Platinum drug resistance
+AKT3,CDKN1A,phosphorylation,Platinum drug resistance
+AKT1,CDKN1A,phosphorylation,Platinum drug resistance
+AKT2,CDKN1A,phosphorylation,Platinum drug resistance
+CASP8,ATM,phosphorylation,Platinum drug resistance
+CASP8,TP53,phosphorylation,Platinum drug resistance
+MAPK1,BAD,phosphorylation,Platinum drug resistance
+AKT3,BAD,phosphorylation,Platinum drug resistance
+AKT1,BAD,phosphorylation,Platinum drug resistance
+AKT2,BAD,phosphorylation,Platinum drug resistance
+AKT3,CASP9,phosphorylation,Platinum drug resistance
+AKT1,CASP9,phosphorylation,Platinum drug resistance
+AKT2,CASP9,phosphorylation,Platinum drug resistance
+ATM,TP53,phosphorylation,Platinum drug resistance
+MAPK1,BAD,inhibition,Platinum drug resistance
+MAPK3,BAD,inhibition,Platinum drug resistance
+AKT3,BAD,inhibition,Platinum drug resistance
+AKT1,BAD,inhibition,Platinum drug resistance
+AKT2,BAD,inhibition,Platinum drug resistance
+BAD,BCL2L1,inhibition,Platinum drug resistance
+BAD,BCL2,inhibition,Platinum drug resistance
+BCL2L1,BAX,inhibition,Platinum drug resistance
+BCL2L1,BAK1,inhibition,Platinum drug resistance
+BCL2,BAX,inhibition,Platinum drug resistance
+BCL2,BAK1,inhibition,Platinum drug resistance
+PMAIP1,BCL2,inhibition,Platinum drug resistance
+PMAIP1,BCL2L1,inhibition,Platinum drug resistance
+AKT3,CASP9,inhibition,Platinum drug resistance
+AKT2,CASP9,inhibition,Platinum drug resistance
+BIRC2,CASP3,inhibition,Platinum drug resistance
+BIRC3,CASP3,inhibition,Platinum drug resistance
+XIAP,CASP3,inhibition,Platinum drug resistance
+BIRC5,CASP3,inhibition,Platinum drug resistance
+BIRC2,CASP9,inhibition,Platinum drug resistance
+BIRC3,CASP9,inhibition,Platinum drug resistance
+XIAP,CASP9,inhibition,Platinum drug resistance
+BIRC5,CASP9,inhibition,Platinum drug resistance
+CDKN1A,CASP3,inhibition,Platinum drug resistance
+CDKN1A,MAP3K5,inhibition,Platinum drug resistance
+CDKN2A,MDM2,inhibition,Platinum drug resistance
+MDM2,TP53,inhibition,Platinum drug resistance
+GNA12,RASA2,activation,MAPK
+GNG12,RASA2,activation,MAPK
+RAPGEF2,RRAS2,activation,MAPK
+RAPGEF2,RRAS2,activation,MAPK
+RAPGEF2,MRAS,activation,MAPK
+RAPGEF2,KRAS,activation,MAPK
+RAPGEF2,NRAS,activation,MAPK
+RAPGEF2,RRAS,activation,MAPK
+RASGRF1,RRAS2,activation,MAPK
+RASGRF1,MRAS,activation,MAPK
+RASGRF1,HRAS,activation,MAPK
+RASGRF1,KRAS,activation,MAPK
+RASGRF1,NRAS,activation,MAPK
+RASGRF1,RRAS,activation,MAPK
+RASGRF2,RRAS2,activation,MAPK
+RASGRF2,MRAS,activation,MAPK
+RASGRF2,HRAS,activation,MAPK
+RASGRF2,KRAS,activation,MAPK
+RASGRF2,NRAS,activation,MAPK
+RASGRF2,RRAS,activation,MAPK
+RASGRP1,RRAS2,activation,MAPK
+RASGRP1,MRAS,activation,MAPK
+RASGRP1,HRAS,activation,MAPK
+RASGRP1,NRAS,activation,MAPK
+RASGRP1,RRAS,activation,MAPK
+RASGRP1,RRAS,activation,MAPK
+RASGRP1,RRAS2,activation,MAPK
+RASGRP1,HRAS,activation,MAPK
+RASGRP1,KRAS,activation,MAPK
+RASGRP1,NRAS,activation,MAPK
+RASGRP1,RRAS,activation,MAPK
+RASGRP4,RRAS2,activation,MAPK
+RASGRP4,MRAS,activation,MAPK
+RASGRP4,KRAS,activation,MAPK
+RASGRP4,NRAS,activation,MAPK
+RASGRP4,RRAS,activation,MAPK
+RASGRP3,RRAS2,activation,MAPK
+RASGRP3,MRAS,activation,MAPK
+RASGRP3,HRAS,activation,MAPK
+RASGRP3,KRAS,activation,MAPK
+RASGRP3,NRAS,activation,MAPK
+RASGRP3,RRAS,activation,MAPK
+RAP1A,BRAF,activation,MAPK
+TNF,TNFRSF1A,activation,MAPK
+IL1A,IL1R1,activation,MAPK
+IL1A,IL1RAP,activation,MAPK
+IL1B,IL1R1,activation,MAPK
+IL1B,IL1RAP,activation,MAPK
+FASLG,FAS,activation,MAPK
+TGFB1,TGFBR1,activation,MAPK
+TGFB1,TGFBR2,activation,MAPK
+TGFB2,TGFBR1,activation,MAPK
+TGFB2,TGFBR2,activation,MAPK
+TGFB3,TGFBR1,activation,MAPK
+TGFB3,TGFBR2,activation,MAPK
+FAS,TGFBR2,activation,MAPK
+TGFBR1,DAXX,activation,MAPK
+TGFBR2,DAXX,activation,MAPK
+GRB2,CSF1R,activation,MAPK
+PRKACA,RAP1A,phosphorylation,MAPK
+PRKACA,RAP1B,phosphorylation,MAPK
+PRKACB,RAP1A,phosphorylation,MAPK
+PRKACB,RAP1B,phosphorylation,MAPK
+PRKACG,RAP1A,phosphorylation,MAPK
+RAP1A,RAP1B,phosphorylation,MAPK
+PRKCA,MRAS,phosphorylation,MAPK
+PRKCA,HRAS,phosphorylation,MAPK
+PRKCA,KRAS,phosphorylation,MAPK
+PRKCA,NRAS,phosphorylation,MAPK
+PRKCA,RRAS,phosphorylation,MAPK
+PRKCB,RRAS2,phosphorylation,MAPK
+PRKCB,MRAS,phosphorylation,MAPK
+PRKCB,KRAS,phosphorylation,MAPK
+PRKCB,NRAS,phosphorylation,MAPK
+PRKCB,RRAS,phosphorylation,MAPK
+PRKCG,RRAS2,phosphorylation,MAPK
+PRKCG,MRAS,phosphorylation,MAPK
+PRKCG,HRAS,phosphorylation,MAPK
+PRKCG,KRAS,phosphorylation,MAPK
+PRKCG,NRAS,phosphorylation,MAPK
+PRKCA,RAF1,phosphorylation,MAPK
+PRKCB,RAF1,phosphorylation,MAPK
+PRKCG,RAF1,phosphorylation,MAPK
+SOS1,RRAS2,activation,MAPK
+SOS1,MRAS,activation,MAPK
+SOS1,HRAS,activation,MAPK
+SOS1,KRAS,activation,MAPK
+SOS1,NRAS,activation,MAPK
+SOS1,RRAS,activation,MAPK
+RRAS2,BRAF,activation,MAPK
+MRAS,BRAF,activation,MAPK
+HRAS,BRAF,activation,MAPK
+KRAS,BRAF,activation,MAPK
+NRAS,BRAF,activation,MAPK
+RRAS,BRAF,activation,MAPK
+RRAS2,RAF1,activation,MAPK
+MRAS,RAF1,activation,MAPK
+HRAS,RAF1,activation,MAPK
+KRAS,RAF1,activation,MAPK
+NRAS,RAF1,activation,MAPK
+RRAS,RAF1,activation,MAPK
+BRAF,MAP2K2,phosphorylation,MAPK
+RAF1,MAP2K1,phosphorylation,MAPK
+RAF1,MAP2K2,phosphorylation,MAPK
+MAP2K1,MAPK1,phosphorylation,MAPK
+MAP2K2,MAPK3,phosphorylation,MAPK
+MAPK1,MAPT,phosphorylation,MAPK
+MAPK3,MAPT,phosphorylation,MAPK
+MAPK1,STMN1,phosphorylation,MAPK
+MAPK3,STMN1,phosphorylation,MAPK
+MAPK1,PLA2G4B,phosphorylation,MAPK
+MAPK1,PLA2G4E,phosphorylation,MAPK
+MAPK1,PLA2G4F,phosphorylation,MAPK
+MAPK1,PLA2G4D,phosphorylation,MAPK
+MAPK1,PLA2G4A,phosphorylation,MAPK
+MAPK1,PLA2G4C,phosphorylation,MAPK
+MAPK1,JMJD7-PLA2G4B,phosphorylation,MAPK
+MAPK3,PLA2G4B,phosphorylation,MAPK
+MAPK3,PLA2G4E,phosphorylation,MAPK
+MAPK3,PLA2G4F,phosphorylation,MAPK
+MAPK3,PLA2G4D,phosphorylation,MAPK
+MAPK3,PLA2G4A,phosphorylation,MAPK
+MAPK3,PLA2G4C,phosphorylation,MAPK
+MAPK3,JMJD7-PLA2G4B,phosphorylation,MAPK
+MAPK1,MKNK2,phosphorylation,MAPK
+MAPK1,MKNK1,phosphorylation,MAPK
+MAPK1,MKNK2,phosphorylation,MAPK
+MAPK1,MKNK1,phosphorylation,MAPK
+MAPK3,MKNK2,phosphorylation,MAPK
+MAPK3,MKNK1,phosphorylation,MAPK
+MAPK1,RPS6KA6,phosphorylation,MAPK
+MAPK1,RPS6KA1,phosphorylation,MAPK
+MAPK1,RPS6KA2,phosphorylation,MAPK
+MAPK1,RPS6KA3,phosphorylation,MAPK
+MAPK3,RPS6KA6,phosphorylation,MAPK
+MAPK3,RPS6KA1,phosphorylation,MAPK
+MAPK3,RPS6KA2,phosphorylation,MAPK
+MAPK3,RPS6KA3,phosphorylation,MAPK
+MAPK1,ELK1,phosphorylation,MAPK
+MAPK3,ELK1,phosphorylation,MAPK
+MAPK1,ELK4,phosphorylation,MAPK
+MAPK3,ELK4,phosphorylation,MAPK
+MKNK2,ATF4,phosphorylation,MAPK
+MKNK1,ATF4,phosphorylation,MAPK
+RPS6KA6,ATF4,phosphorylation,MAPK
+RPS6KA1,ATF4,phosphorylation,MAPK
+RPS6KA2,ATF4,phosphorylation,MAPK
+RPS6KA3,ATF4,phosphorylation,MAPK
+RAC1,MAP3K1,activation,MAPK
+RAC2,MAP3K1,activation,MAPK
+RAC3,MAP3K1,activation,MAPK
+CDC42,MAP3K1,activation,MAPK
+RAC1,PAK2,activation,MAPK
+RAC1,PAK1,activation,MAPK
+RAC2,PAK1,activation,MAPK
+RAC2,PAK2,activation,MAPK
+RAC3,PAK1,activation,MAPK
+RAC3,PAK2,activation,MAPK
+CDC42,PAK1,activation,MAPK
+CDC42,PAK2,activation,MAPK
+CASP3,STK3,activation,MAPK
+CASP3,STK4,activation,MAPK
+TRAF2,MAP4K2,activation,MAPK
+TRAF2,MAP3K1,activation,MAPK
+RASA2,RRAS2,inhibition,MAPK
+RASA2,MRAS,inhibition,MAPK
+RASA2,KRAS,inhibition,MAPK
+RASA2,NRAS,inhibition,MAPK
+RASA2,RRAS,inhibition,MAPK
+NF1,RRAS2,inhibition,MAPK
+NF1,MRAS,inhibition,MAPK
+NF1,HRAS,inhibition,MAPK
+NF1,KRAS,inhibition,MAPK
+NF1,NRAS,inhibition,MAPK
+NF1,RRAS,inhibition,MAPK
+RASA1,RRAS2,inhibition,MAPK
+RASA1,MRAS,inhibition,MAPK
+RASA1,HRAS,inhibition,MAPK
+RASA1,KRAS,inhibition,MAPK
+RASA1,NRAS,inhibition,MAPK
+RASA1,RRAS,inhibition,MAPK
+DUSP3,MAPK1,inhibition,MAPK
+DUSP3,MAPK3,inhibition,MAPK
+PTPN7,MAPK1,inhibition,MAPK
+PTPN7,MAPK3,inhibition,MAPK
+PTPRR,MAPK1,inhibition,MAPK
+PTPRR,MAPK3,inhibition,MAPK
+PTPN5,MAPK1,inhibition,MAPK
+PTPN5,MAPK3,inhibition,MAPK
+DUSP10,MAPK1,inhibition,MAPK
+DUSP10,MAPK3,inhibition,MAPK
+DUSP1,MAPK1,inhibition,MAPK
+DUSP1,MAPK3,inhibition,MAPK
+DUSP2,MAPK1,inhibition,MAPK
+DUSP2,MAPK3,inhibition,MAPK
+DUSP3,MAPK1,inhibition,MAPK
+DUSP4,MAPK3,inhibition,MAPK
+DUSP5,MAPK1,inhibition,MAPK
+DUSP5,MAPK3,inhibition,MAPK
+DUSP6,MAPK1,inhibition,MAPK
+DUSP6,MAPK3,inhibition,MAPK
+DUSP7,MAPK1,inhibition,MAPK
+DUSP7,MAPK3,inhibition,MAPK
+DUSP8,MAPK1,inhibition,MAPK
+DUSP8,MAPK3,inhibition,MAPK
+DUSP9,MAPK1,inhibition,MAPK
+DUSP9,MAPK3,inhibition,MAPK
+DUSP16,MAPK1,inhibition,MAPK
+DUSP16,MAPK3,inhibition,MAPK
+DUSP10,MAPK8,inhibition,MAPK
+DUSP10,MAPK9,inhibition,MAPK
+DUSP10,MAPK10,inhibition,MAPK
+DUSP2,MAPK8,inhibition,MAPK
+DUSP2,MAPK9,inhibition,MAPK
+DUSP2,MAPK10,inhibition,MAPK
+DUSP4,MAPK8,inhibition,MAPK
+DUSP4,MAPK9,inhibition,MAPK
+DUSP4,MAPK10,inhibition,MAPK
+DUSP5,MAPK8,inhibition,MAPK
+DUSP5,MAPK9,inhibition,MAPK
+DUSP5,MAPK10,inhibition,MAPK
+DUSP7,MAPK8,inhibition,MAPK
+DUSP7,MAPK9,inhibition,MAPK
+DUSP7,MAPK10,inhibition,MAPK
+DUSP8,MAPK8,inhibition,MAPK
+DUSP8,MAPK9,inhibition,MAPK
+DUSP8,MAPK10,inhibition,MAPK
+DUSP9,MAPK8,inhibition,MAPK
+DUSP9,MAPK9,inhibition,MAPK
+DUSP9,MAPK10,inhibition,MAPK
+DUSP16,MAPK8,inhibition,MAPK
+DUSP16,MAPK9,inhibition,MAPK
+DUSP16,MAPK10,inhibition,MAPK
+DUSP10,MAPK14,inhibition,MAPK
+DUSP2,MAPK14,inhibition,MAPK
+DUSP2,MAPK11,inhibition,MAPK
+DUSP2,MAPK13,inhibition,MAPK
+DUSP2,MAPK12,inhibition,MAPK
+DUSP4,MAPK14,inhibition,MAPK
+MECOM,MAPK9,inhibition,MAPK
+MECOM,MAPK10,inhibition,MAPK
+MECOM,MAPK8,inhibition,MAPK
+HSPA1A,MAPK9,inhibition,MAPK
+HSPA1A,MAPK10,inhibition,MAPK
+HSPA1A,MAPK8,inhibition,MAPK
+HSPA1B,MAPK9,inhibition,MAPK
+HSPA1B,MAPK10,inhibition,MAPK
+HSPA1B,MAPK8,inhibition,MAPK
+HSPA1L,MAPK9,inhibition,MAPK
+HSPA1L,MAPK10,inhibition,MAPK
+HSPA1L,MAPK8,inhibition,MAPK
+HSPA6,MAPK9,inhibition,MAPK
+HSPA6,MAPK10,inhibition,MAPK
+HSPA6,MAPK8,inhibition,MAPK
+HSPA8,MAPK9,inhibition,MAPK
+HSPA8,MAPK10,inhibition,MAPK
+HSPA8,MAPK8,inhibition,MAPK
+EGF,EGFR,activation,ErbB
+TGFA,EGFR,activation,ErbB
+AREG,EGFR,activation,ErbB
+BTC,EGFR,activation,ErbB
+BTC,ERBB4,activation,ErbB
+HBEGF,EGFR,activation,ErbB
+HBEGF,ERBB4,activation,ErbB
+EREG,EGFR,activation,ErbB
+EREG,ERBB4,activation,ErbB
+NRG1,ERBB3,activation,ErbB
+NRG1,ERBB4,activation,ErbB
+NRG2,ERBB3,activation,ErbB
+NRG2,ERBB4,activation,ErbB
+NRG3,ERBB3,activation,ErbB
+NRG3,ERBB4,activation,ErbB
+NRG4,ERBB3,activation,ErbB
+NRG4,ERBB4,activation,ErbB
+EGFR,SHC2,activation,ErbB
+EGFR,SHC4,activation,ErbB
+EGFR,SHC3,activation,ErbB
+EGFR,SHC1,activation,ErbB
+EGFR,PLCG1,activation,ErbB
+EGFR,PLCG2,activation,ErbB
+EGFR,STAT5A,activation,ErbB
+EGFR,STAT5B,activation,ErbB
+EGFR,CRKL,activation,ErbB
+EGFR,SRC,activation,ErbB
+EGFR,GRB2,activation,ErbB
+ERBB3,PIK3CA,activation,ErbB
+ERBB3,PIK3CB,activation,ErbB
+ERBB3,PIK3CD,activation,ErbB
+ERBB3,PIK3R1,activation,ErbB
+ERBB3,PIK3R2,activation,ErbB
+ERBB3,PIK3R3,activation,ErbB
+SRC,PTK2,activation,ErbB
+CRK,ABL1,activation,ErbB
+CRK,ABL2,activation,ErbB
+CRKL,ABL1,activation,ErbB
+CRKL,ABL2,activation,ErbB
+NCK1,PAK4,activation,ErbB
+NCK1,BUB1B-PAK6,activation,ErbB
+NCK1,PAK1,activation,ErbB
+NCK1,PAK2,activation,ErbB
+NCK1,PAK3,activation,ErbB
+NCK1,PAK6,activation,ErbB
+NCK1,PAK5,activation,ErbB
+NCK2,PAK4,activation,ErbB
+NCK2,BUB1B-PAK6,activation,ErbB
+NCK2,PAK1,activation,ErbB
+NCK2,PAK2,activation,ErbB
+NCK2,PAK3,activation,ErbB
+NCK2,PAK6,activation,ErbB
+NCK2,PAK5,activation,ErbB
+SHC2,GRB2,activation,ErbB
+SHC4,GRB2,activation,ErbB
+SHC3,GRB2,activation,ErbB
+SHC1,GRB2,activation,ErbB
+GRB2,SOS1,activation,ErbB
+GRB2,SOS2,activation,ErbB
+SOS1,HRAS,activation,ErbB
+SOS1,KRAS,activation,ErbB
+SOS1,NRAS,activation,ErbB
+SOS2,HRAS,activation,ErbB
+SOS2,KRAS,activation,ErbB
+SOS2,NRAS,activation,ErbB
+HRAS,ARAF,activation,ErbB
+HRAS,RAF1,activation,ErbB
+HRAS,BRAF,activation,ErbB
+KRAS,ARAF,activation,ErbB
+KRAS,RAF1,activation,ErbB
+KRAS,BRAF,activation,ErbB
+NRAS,ARAF,activation,ErbB
+NRAS,RAF1,activation,ErbB
+NRAS,BRAF,activation,ErbB
+EGFR,SHC2,phosphorylation,ErbB
+EGFR,SHC4,phosphorylation,ErbB
+EGFR,SHC3,phosphorylation,ErbB
+EGFR,SHC1,phosphorylation,ErbB
+EGFR,PLCG1,phosphorylation,ErbB
+EGFR,PLCG2,phosphorylation,ErbB
+EGFR,STAT5A,phosphorylation,ErbB
+EGFR,STAT5B,phosphorylation,ErbB
+EGFR,CRK,phosphorylation,ErbB
+EGFR,CRKL,phosphorylation,ErbB
+SRC,PTK2,phosphorylation,ErbB
+MAP2K7,MAPK8,phosphorylation,ErbB
+MAP2K7,MAPK9,phosphorylation,ErbB
+MAP2K7,MAPK10,phosphorylation,ErbB
+MAP2K4,MAPK8,phosphorylation,ErbB
+MAP2K4,MAPK9,phosphorylation,ErbB
+MAP2K4,MAPK10,phosphorylation,ErbB
+MAPK8,JUN,phosphorylation,ErbB
+MAPK9,JUN,phosphorylation,ErbB
+MAPK10,JUN,phosphorylation,ErbB
+MAPK8,ELK1,phosphorylation,ErbB
+MAPK9,ELK1,phosphorylation,ErbB
+MAPK10,ELK1,phosphorylation,ErbB
+ARAF,MAP2K1,phosphorylation,ErbB
+ARAF,MAP2K2,phosphorylation,ErbB
+RAF1,MAP2K1,phosphorylation,ErbB
+RAF1,MAP2K2,phosphorylation,ErbB
+BRAF,MAP2K1,phosphorylation,ErbB
+BRAF,MAP2K2,phosphorylation,ErbB
+MAP2K1,MAPK1,phosphorylation,ErbB
+MAP2K1,MAPK3,phosphorylation,ErbB
+MAP2K2,MAPK1,phosphorylation,ErbB
+MTOR,EIF4EBP1,inhibition,ErbB
+AKT3,BAD,inhibition,ErbB
+AKT1,BAD,inhibition,ErbB
+AKT2,BAD,inhibition,ErbB
+AKT3,GSK3B,inhibition,ErbB
+AKT1,GSK3B,inhibition,ErbB
+AKT2,GSK3B,inhibition,ErbB
+AKT3,CDKN1B,inhibition,ErbB
+AKT1,CDKN1B,inhibition,ErbB
+AKT2,CDKN1B,inhibition,ErbB
+AKT3,CDKN1A,inhibition,ErbB
+AKT1,CDKN1A,inhibition,ErbB
+AKT2,CDKN1A,inhibition,ErbB
+AKT3,BAD,inhibition,ErbB
+AKT1,BAD,inhibition,ErbB
+AKT2,BAD,inhibition,ErbB
+AKT3,GSK3B,inhibition,ErbB
+AKT1,GSK3B,inhibition,ErbB
+AKT2,GSK3B,inhibition,ErbB
+AKT3,CDKN1B,inhibition,ErbB
+AKT1,CDKN1B,inhibition,ErbB
+AKT2,CDKN1B,inhibition,ErbB
+AKT3,CDKN1A,inhibition,ErbB
+AKT1,CDKN1A,inhibition,ErbB
+AKT2,CDKN1A,inhibition,ErbB
+CNR1,GNAI1,activation,Rap1
+CNR1,GNAI2,activation,Rap1
+CNR1,GNAI3,activation,Rap1
+CNR1,GNAO1,activation,Rap1
+DRD2,GNAI1,activation,Rap1
+DRD2,GNAI2,activation,Rap1
+DRD2,GNAI3,activation,Rap1
+DRD2,GNAO1,activation,Rap1
+RAP1GAP,RAP1A,activation,Rap1
+RAP1GAP,RAP1B,activation,Rap1
+SIPA1L1,RAP1A,activation,Rap1
+SIPA1L1,RAP1B,activation,Rap1
+SIPA1,RAP1A,activation,Rap1
+SIPA1,RAP1B,activation,Rap1
+SIPA1L2,RAP1A,activation,Rap1
+SIPA1L2,RAP1B,activation,Rap1
+RAPGEF5,RAP1A,activation,Rap1
+RAPGEF5,RAP1B,activation,Rap1
+DOCK4,RAP1A,activation,Rap1
+DOCK4,RAP1B,activation,Rap1
+RAPGEF3,RAP1A,activation,Rap1
+RAPGEF3,RAP1B,activation,Rap1
+RAPGEF4,RAP1A,activation,Rap1
+RAPGEF4,RAP1B,activation,Rap1
+RASGRP3,RAP1A,activation,Rap1
+RASGRP3,RAP1B,activation,Rap1
+RASGRP2,RAP1A,activation,Rap1
+RASGRP2,RAP1B,activation,Rap1
+RAPGEF1,RAP1A,activation,Rap1
+RAPGEF1,RAP1B,activation,Rap1
+RAPGEF6,RAP1A,activation,Rap1
+RAPGEF6,RAP1B,activation,Rap1
+RAPGEF2,RAP1A,activation,Rap1
+RAPGEF2,RAP1B,activation,Rap1
+PRKD3,RAP1A,activation,Rap1
+PRKD3,RAP1B,activation,Rap1
+PRKD2,RAP1A,activation,Rap1
+PRKD2,RAP1B,activation,Rap1
+PRKD1,RAP1A,activation,Rap1
+PRKD1,RAP1B,activation,Rap1
+CALML6,ADCY1,activation,Rap1
+CALML6,ADCY2,activation,Rap1
+CALML6,ADCY3,activation,Rap1
+CALML6,ADCY5,activation,Rap1
+CALML6,ADCY6,activation,Rap1
+CALML6,ADCY7,activation,Rap1
+CALML6,ADCY8,activation,Rap1
+CALML6,CALML6,activation,Rap1
+CALML6,ADCY4,activation,Rap1
+CALML5,ADCY1,activation,Rap1
+CALML5,ADCY2,activation,Rap1
+CALML5,ADCY3,activation,Rap1
+CALML5,ADCY5,activation,Rap1
+CALML5,ADCY6,activation,Rap1
+CALML5,ADCY7,activation,Rap1
+CALML5,ADCY8,activation,Rap1
+CALML5,CALML6,activation,Rap1
+CALML5,ADCY4,activation,Rap1
+CALM1,ADCY1,activation,Rap1
+CALM1,ADCY2,activation,Rap1
+CALM1,ADCY3,activation,Rap1
+CALM1,ADCY5,activation,Rap1
+CALM1,ADCY6,activation,Rap1
+CALM1,ADCY7,activation,Rap1
+CALM1,ADCY8,activation,Rap1
+CALM1,CALML6,activation,Rap1
+CALM1,ADCY4,activation,Rap1
+CALM2,ADCY1,activation,Rap1
+CALM2,ADCY2,activation,Rap1
+CALM2,ADCY3,activation,Rap1
+CALM2,ADCY5,activation,Rap1
+CALM2,ADCY6,activation,Rap1
+CALM2,ADCY7,activation,Rap1
+CALM2,ADCY8,activation,Rap1
+CALM2,CALML6,activation,Rap1
+CALM2,ADCY4,activation,Rap1
+CALM3,ADCY1,activation,Rap1
+CALM3,ADCY2,activation,Rap1
+CALM3,ADCY3,activation,Rap1
+CALM3,ADCY5,activation,Rap1
+CALM3,ADCY6,activation,Rap1
+CALM3,ADCY7,activation,Rap1
+CALM3,ADCY8,activation,Rap1
+CALM3,CALML6,activation,Rap1
+CALM3,ADCY4,activation,Rap1
+CALML3,ADCY1,activation,Rap1
+CALML3,ADCY2,activation,Rap1
+CALML3,ADCY3,activation,Rap1
+CALML3,ADCY5,activation,Rap1
+CALML3,ADCY6,activation,Rap1
+CALML3,ADCY7,activation,Rap1
+CALML3,ADCY8,activation,Rap1
+CALML3,CALML6,activation,Rap1
+CALML3,ADCY4,activation,Rap1
+CALML4,ADCY1,activation,Rap1
+CALML4,ADCY2,activation,Rap1
+CALML4,ADCY3,activation,Rap1
+CALML4,ADCY5,activation,Rap1
+CALML4,ADCY6,activation,Rap1
+CALML4,ADCY7,activation,Rap1
+CALML4,ADCY8,activation,Rap1
+CALML4,CALML6,activation,Rap1
+CALML4,ADCY4,activation,Rap1
+MAP2K1,MAPK1,phosphorylation,Rap1
+MAP2K1,MAPK3,phosphorylation,Rap1
+MAP2K2,MAPK1,phosphorylation,Rap1
+MAP2K2,MAPK3,phosphorylation,Rap1
+MAP2K1,MAPK1,phosphorylation,Rap1
+MAP2K1,MAPK3,phosphorylation,Rap1
+MAP2K2,MAPK1,phosphorylation,Rap1
+MAP2K2,MAPK3,phosphorylation,Rap1
+MAP2K1,MAPK1,phosphorylation,Rap1
+MAP2K1,MAPK3,phosphorylation,Rap1
+MAP2K2,MAPK1,phosphorylation,Rap1
+MAP2K2,MAPK3,phosphorylation,Rap1
+MAP2K1,MAPK1,phosphorylation,Rap1
+MAP2K1,MAPK3,phosphorylation,Rap1
+MAP2K2,MAPK1,phosphorylation,Rap1
+MAP2K2,MAPK3,phosphorylation,Rap1
+MRAS,RAPGEF5,inhibition,Rap1
+RAP1A,ID1,inhibition,Rap1
+RAP1B,ID1,inhibition,Rap1
+RAP1A,RALGDS,inhibition,Rap1
+RAP1B,RALGDS,inhibition,Rap1
+ID1,THBS1,inhibition,Rap1
+AFDN,SIPA1,inhibition,Rap1
+MRAS,RAPGEF5,inhibition,Rap1
+RAP1A,ID1,inhibition,Rap1
+RAP1B,ID1,inhibition,Rap1
+RAP1A,RALGDS,inhibition,Rap1
+RAP1B,RALGDS,inhibition,Rap1
+ID1,THBS1,inhibition,Rap1
+AFDN,SIPA1,inhibition,Rap1
+MRAS,RAPGEF5,inhibition,Rap1
+RAP1A,ID1,inhibition,Rap1
+RAP1B,ID1,inhibition,Rap1
+RAP1A,RALGDS,inhibition,Rap1
+RAP1B,RALGDS,inhibition,Rap1
+ID1,THBS1,inhibition,Rap1
+AFDN,SIPA1,inhibition,Rap1
+MRAS,RAPGEF5,inhibition,Rap1
+RAP1A,ID1,inhibition,Rap1
+RAP1B,ID1,inhibition,Rap1
+RAP1A,RALGDS,inhibition,Rap1
+RAP1B,RALGDS,inhibition,Rap1
+ID1,THBS1,inhibition,Rap1
+AFDN,SIPA1,inhibition,Rap1
+MAP2K1,MAPK1,phosphorylation,Rap1
+MAP2K1,MAPK3,phosphorylation,Rap1
+MAP2K2,MAPK1,phosphorylation,Rap1
+MAP2K2,MAPK3,phosphorylation,Rap1
+MAP2K1,MAPK1,phosphorylation,Rap1
+MAP2K1,MAPK3,phosphorylation,Rap1
+MAP2K2,MAPK1,phosphorylation,Rap1
+MAP2K2,MAPK3,phosphorylation,Rap1
+MAP2K1,MAPK1,phosphorylation,Rap1
+MAP2K1,MAPK3,phosphorylation,Rap1
+MAP2K2,MAPK1,phosphorylation,Rap1
+MAP2K2,MAPK3,phosphorylation,Rap1
+MAP2K1,MAPK1,phosphorylation,Rap1
+MAP2K1,MAPK3,phosphorylation,Rap1
+MAP2K2,MAPK1,phosphorylation,Rap1
+MAP2K2,MAPK3,phosphorylation,Rap1
+ADRA1D,GNA11,activation,cGMP–PKG
+ADRA1D,GNAQ,activation,cGMP–PKG
+ADRA1B,GNA11,activation,cGMP–PKG
+ADRA1B,GNAQ,activation,cGMP–PKG
+ADRA1A,GNA11,activation,cGMP–PKG
+ADRA1A,GNAQ,activation,cGMP–PKG
+ADRA2A,GNA11,activation,cGMP–PKG
+ADRA2A,GNAQ,activation,cGMP–PKG
+ADRA2B,GNA11,activation,cGMP–PKG
+ADRA2B,GNAQ,activation,cGMP–PKG
+ADRA2C,GNA11,activation,cGMP–PKG
+ADRA2C,GNAQ,activation,cGMP–PKG
+AGTR1,GNA11,activation,cGMP–PKG
+AGTR1,GNAQ,activation,cGMP–PKG
+EDNRA,GNA11,activation,cGMP–PKG
+EDNRA,GNAQ,activation,cGMP–PKG
+EDNRB,GNA11,activation,cGMP–PKG
+EDNRB,GNAQ,activation,cGMP–PKG
+ADRA1D,GNA13,activation,cGMP–PKG
+ADRA1D,GNA12,activation,cGMP–PKG
+ADRA1B,GNA13,activation,cGMP–PKG
+ADRA1B,GNA12,activation,cGMP–PKG
+ADRA1A,GNA13,activation,cGMP–PKG
+ADRA1A,GNA12,activation,cGMP–PKG
+ADRA2A,GNA13,activation,cGMP–PKG
+ADRA2A,GNA12,activation,cGMP–PKG
+ADRA2B,GNA13,activation,cGMP–PKG
+ADRA2B,GNA12,activation,cGMP–PKG
+ADRA2C,GNA13,activation,cGMP–PKG
+ADRA2C,GNA12,activation,cGMP–PKG
+AGTR1,GNA13,activation,cGMP–PKG
+AGTR1,GNA12,activation,cGMP–PKG
+EDNRA,GNA13,activation,cGMP–PKG
+EDNRA,GNA12,activation,cGMP–PKG
+EDNRB,GNA13,activation,cGMP–PKG
+EDNRB,GNA12,activation,cGMP–PKG
+GNA11,PLCB1,activation,cGMP–PKG
+GNA11,PLCB2,activation,cGMP–PKG
+GNA11,PLCB3,activation,cGMP–PKG
+GNA11,PLCB4,activation,cGMP–PKG
+GNAQ,PLCB1,activation,cGMP–PKG
+GNAQ,PLCB2,activation,cGMP–PKG
+GNAQ,PLCB3,activation,cGMP–PKG
+GNAQ,PLCB4,activation,cGMP–PKG
+PRKG1,SLC8A2,activation,cGMP–PKG
+PRKG1,SLC8A1,activation,cGMP–PKG
+PRKG1,SLC8A3,activation,cGMP–PKG
+PRKG2,SLC8A2,activation,cGMP–PKG
+PRKG2,SLC8A1,activation,cGMP–PKG
+PRKG2,SLC8A3,activation,cGMP–PKG
+PRKG1,ATP1A1,activation,cGMP–PKG
+PRKG1,KCNMB2,phosphorylation,cGMP–PKG
+PRKG1,KCNMB3,phosphorylation,cGMP–PKG
+PRKG1,KCNMB4,phosphorylation,cGMP–PKG
+PRKG1,KCNMA1,phosphorylation,cGMP–PKG
+PRKG1,KCNMB1,phosphorylation,cGMP–PKG
+PRKG2,KCNMB2,phosphorylation,cGMP–PKG
+PRKG2,KCNU1,phosphorylation,cGMP–PKG
+PRKG2,KCNMB3,phosphorylation,cGMP–PKG
+PRKG2,KCNMB4,phosphorylation,cGMP–PKG
+PRKG2,KCNMA1,phosphorylation,cGMP–PKG
+PRKG2,KCNMB1,phosphorylation,cGMP–PKG
+PRKG2,RGS2,phosphorylation,cGMP–PKG
+PRKG2,RGS2,phosphorylation,cGMP–PKG
+PRKG1,GTF2I,phosphorylation,cGMP–PKG
+PRKG2,GTF2I,phosphorylation,cGMP–PKG
+PRKG1,IRAG1,phosphorylation,cGMP–PKG
+PRKG2,IRAG1,phosphorylation,cGMP–PKG
+PRKG1,PLN,phosphorylation,cGMP–PKG
+PRKG2,PLN,phosphorylation,cGMP–PKG
+MYLK4,MYL9,phosphorylation,cGMP–PKG
+MYLK,MYL9,phosphorylation,cGMP–PKG
+MYLK2,MYL9,phosphorylation,cGMP–PKG
+MYLK3,MYL9,phosphorylation,cGMP–PKG
+PRKG1,CREB3,phosphorylation,cGMP–PKG
+PRKG1,CREB1,phosphorylation,cGMP–PKG
+PRKG1,ATF2,phosphorylation,cGMP–PKG
+PRKG1,ATF6B,phosphorylation,cGMP–PKG
+PRKG1,CREB3L4,phosphorylation,cGMP–PKG
+PRKG1,TRPC6,inhibition,cGMP–PKG
+PRKG2,TRPC6,inhibition,cGMP–PKG
+PRKG1,CACNA1C,inhibition,cGMP–PKG
+PRKG1,CACNA1S,inhibition,cGMP–PKG
+PRKG2,CACNA1C,inhibition,cGMP–PKG
+PRKG2,CACNA1D,inhibition,cGMP–PKG
+PRKG2,CACNA1S,inhibition,cGMP–PKG
+ROCK1,PPP1R12A,inhibition,cGMP–PKG
+ROCK1,PPP1CA,inhibition,cGMP–PKG
+ROCK1,PPP1CB,inhibition,cGMP–PKG
+ROCK1,PPP1CC,inhibition,cGMP–PKG
+ROCK2,PPP1R12A,inhibition,cGMP–PKG
+ROCK2,PPP1CA,inhibition,cGMP–PKG
+ROCK2,PPP1CB,inhibition,cGMP–PKG
+ROCK2,PPP1CC,inhibition,cGMP–PKG
+PPP1R12A,MYL9,inhibition,cGMP–PKG
+PPP1CA,MYL9,inhibition,cGMP–PKG
+PPP1CB,MYL9,inhibition,cGMP–PKG
+PPP1CC,MYL9,inhibition,cGMP–PKG
+KCNMB2,CACNA1C,inhibition,cGMP–PKG
+KCNMB2,CACNA1D,inhibition,cGMP–PKG
+KCNMB2,CACNA1F,inhibition,cGMP–PKG
+KCNMB2,CACNA1S,inhibition,cGMP–PKG
+KCNU1,CACNA1C,inhibition,cGMP–PKG
+KCNU1,CACNA1D,inhibition,cGMP–PKG
+KCNU1,CACNA1F,inhibition,cGMP–PKG
+KCNU1,CACNA1S,inhibition,cGMP–PKG
+KCNMB3,CACNA1C,inhibition,cGMP–PKG
+KCNMB3,CACNA1D,inhibition,cGMP–PKG
+KCNMB3,CACNA1F,inhibition,cGMP–PKG
+KCNMB3,CACNA1S,inhibition,cGMP–PKG
+KCNMB4,CACNA1C,inhibition,cGMP–PKG
+KCNMB4,CACNA1D,inhibition,cGMP–PKG
+KCNMB4,CACNA1F,inhibition,cGMP–PKG
+KCNMB4,CACNA1S,inhibition,cGMP–PKG
+KCNMA1,CACNA1C,inhibition,cGMP–PKG
+KCNMA1,CACNA1D,inhibition,cGMP–PKG
+KCNMA1,CACNA1F,inhibition,cGMP–PKG
+KCNMA1,CACNA1S,inhibition,cGMP–PKG
+KCNMB1,CACNA1C,inhibition,cGMP–PKG
+KCNMB1,CACNA1D,inhibition,cGMP–PKG
+KCNMB1,CACNA1F,inhibition,cGMP–PKG
+KCNMB1,CACNA1S,inhibition,cGMP–PKG
+PRKCE,PPIF,inhibition,cGMP–PKG
+PRKCE,SLC25A4,inhibition,cGMP–PKG
+PRKCE,SLC25A5,inhibition,cGMP–PKG
+PRKCE,SLC25A6,inhibition,cGMP–PKG
+PRKCE,VDAC1,inhibition,cGMP–PKG
+PRKCE,VDAC2,inhibition,cGMP–PKG
+PRKCE,VDAC3,inhibition,cGMP–PKG
+PRKCE,SLC25A31,inhibition,cGMP–PKG
+IRAG1,ITPR1,inhibition,cGMP–PKG
+IRAG1,ITPR2,inhibition,cGMP–PKG
+IRAG1,ITPR3,inhibition,cGMP–PKG
+PRKG1,PLCB1,phosphorylation,cGMP–PKG
+PRKG1,PLCB2,phosphorylation,cGMP–PKG
+PRKG1,PLCB3,phosphorylation,cGMP–PKG
+PRKG1,PLCB4,phosphorylation,cGMP–PKG
+PRKG2,PLCB1,phosphorylation,cGMP–PKG
+PRKG2,PLCB2,phosphorylation,cGMP–PKG
+PRKG2,PLCB3,phosphorylation,cGMP–PKG
+PRKG2,PLCB4,phosphorylation,cGMP–PKG
+PPP3CA,NFATC1,phosphorylation,cGMP–PKG
+PRKG1,PPP1R12A,phosphorylation,cGMP–PKG
+PRKG1,PPP1CA,phosphorylation,cGMP–PKG
+PRKG1,PPP1CC,phosphorylation,cGMP–PKG
+PRKG2,PPP1CA,phosphorylation,cGMP–PKG
+PRKG2,PPP1CB,phosphorylation,cGMP–PKG
+PRKG2,PPP1CC,phosphorylation,cGMP–PKG
+PRKG1,PLCB4,phosphorylation,cGMP–PKG
+PRKG2,PLCB1,phosphorylation,cGMP–PKG
+PRKG2,PLCB2,phosphorylation,cGMP–PKG
+CGA,ADCYAP1R1,activation,cAMP
+CGA,ADORA2A,activation,cAMP
+CGA,CRHR1,activation,cAMP
+CGA,CRHR2,activation,cAMP
+CGA,GPR119,activation,cAMP
+CGA,ADRB1,activation,cAMP
+CGA,ADRB2,activation,cAMP
+CGA,DRD1,activation,cAMP
+CGA,DRD5,activation,cAMP
+CGA,FSHR,activation,cAMP
+CGA,GIPR,activation,cAMP
+CGA,GLP1R,activation,cAMP
+CGA,HTR4,activation,cAMP
+CGA,HTR6,activation,cAMP
+CGA,LHCGR,activation,cAMP
+CGA,MC2R,activation,cAMP
+CGA,NPR1,activation,cAMP
+CGA,PTGER2,activation,cAMP
+CGA,TSHR,activation,cAMP
+CGA,VIPR2,activation,cAMP
+FSHB,ADCYAP1R1,activation,cAMP
+FSHB,ADORA2A,activation,cAMP
+FSHB,CRHR1,activation,cAMP
+FSHB,CRHR2,activation,cAMP
+FSHB,GPR119,activation,cAMP
+FSHB,ADRB1,activation,cAMP
+FSHB,ADRB2,activation,cAMP
+FSHB,DRD1,activation,cAMP
+FSHB,DRD5,activation,cAMP
+FSHB,FSHR,activation,cAMP
+FSHB,GIPR,activation,cAMP
+FSHB,GLP1R,activation,cAMP
+FSHB,HTR4,activation,cAMP
+FSHB,HTR6,activation,cAMP
+FSHB,LHCGR,activation,cAMP
+FSHB,MC2R,activation,cAMP
+FSHB,NPR1,activation,cAMP
+FSHB,PTGER2,activation,cAMP
+FSHB,TSHR,activation,cAMP
+FSHB,VIPR2,activation,cAMP
+NPY,CHRM1,activation,cAMP
+NPY,CHRM2,activation,cAMP
+NPY,ADORA1,activation,cAMP
+NPY,ADRB2,activation,cAMP
+NPY,DRD2,activation,cAMP
+NPY,GABBR1,activation,cAMP
+NPY,GHSR,activation,cAMP
+NPY,HCAR1,activation,cAMP
+NPY,FFAR2,activation,cAMP
+NPY,HTR1A,activation,cAMP
+NPY,HTR1B,activation,cAMP
+NPY,HTR1D,activation,cAMP
+NPY,HTR1E,activation,cAMP
+NPY,HTR1F,activation,cAMP
+NPY,HCAR2,activation,cAMP
+NPY,NPY1R,activation,cAMP
+NPY,OXTR,activation,cAMP
+NPY,SUCNR1,activation,cAMP
+NPY,PTGER3,activation,cAMP
+NPY,SSTR1,activation,cAMP
+NPY,SSTR2,activation,cAMP
+NPY,SSTR5,activation,cAMP
+NPY,HCAR3,activation,cAMP
+NPY,GABBR2,activation,cAMP
+GNAI1,ADCY1,inhibition,cAMP
+GNAI1,ADCY2,inhibition,cAMP
+GNAI1,ADCY3,inhibition,cAMP
+GNAI1,ADCY5,inhibition,cAMP
+GNAI1,ADCY6,inhibition,cAMP
+GNAI1,ADCY7,inhibition,cAMP
+GNAI1,ADCY8,inhibition,cAMP
+GNAI1,ADCY9,inhibition,cAMP
+GNAI1,ADCY4,inhibition,cAMP
+GNAI2,ADCY1,inhibition,cAMP
+GNAI2,ADCY2,inhibition,cAMP
+GNAI2,ADCY3,inhibition,cAMP
+GNAI2,ADCY5,inhibition,cAMP
+GNAI2,ADCY6,inhibition,cAMP
+GNAI2,ADCY7,inhibition,cAMP
+GNAI2,ADCY8,inhibition,cAMP
+GNAI2,ADCY9,inhibition,cAMP
+GNAI2,ADCY4,inhibition,cAMP
+GNAI3,ADCY1,inhibition,cAMP
+GNAI3,ADCY2,inhibition,cAMP
+GNAI3,ADCY3,inhibition,cAMP
+GNAI3,ADCY5,inhibition,cAMP
+GNAI3,ADCY6,inhibition,cAMP
+GNAI3,ADCY7,inhibition,cAMP
+GNAI3,ADCY8,inhibition,cAMP
+GNAI3,ADCY9,inhibition,cAMP
+GNAI3,ADCY4,inhibition,cAMP
+CAMK4,ADCY1,inhibition,cAMP
+CAMK4,ADCY2,inhibition,cAMP
+CAMK4,ADCY3,inhibition,cAMP
+CAMK4,ADCY5,inhibition,cAMP
+CAMK4,ADCY6,inhibition,cAMP
+CAMK4,ADCY7,inhibition,cAMP
+CAMK4,ADCY8,inhibition,cAMP
+CAMK4,ADCY9,inhibition,cAMP
+CAMK4,ADCY4,inhibition,cAMP
+CAMK2A,ADCY1,inhibition,cAMP
+CAMK2A,ADCY2,inhibition,cAMP
+CAMK2A,ADCY3,inhibition,cAMP
+CAMK2A,ADCY5,inhibition,cAMP
+CAMK2A,ADCY6,inhibition,cAMP
+CAMK2A,ADCY7,inhibition,cAMP
+CAMK2A,ADCY8,inhibition,cAMP
+CAMK2A,ADCY9,inhibition,cAMP
+CAMK2A,ADCY4,inhibition,cAMP
+CAMK2B,ADCY1,inhibition,cAMP
+CAMK2B,ADCY2,inhibition,cAMP
+CAMK2B,ADCY3,inhibition,cAMP
+CAMK2B,ADCY5,inhibition,cAMP
+CAMK2B,ADCY6,inhibition,cAMP
+CAMK2B,ADCY7,inhibition,cAMP
+CAMK2B,ADCY8,inhibition,cAMP
+CAMK2B,ADCY9,inhibition,cAMP
+CAMK2B,ADCY4,inhibition,cAMP
+CAMK2D,ADCY1,inhibition,cAMP
+CAMK2D,ADCY2,inhibition,cAMP
+CAMK2D,ADCY3,inhibition,cAMP
+CAMK2D,ADCY5,inhibition,cAMP
+CAMK2D,ADCY6,inhibition,cAMP
+CAMK2D,ADCY7,inhibition,cAMP
+CAMK2D,ADCY8,inhibition,cAMP
+CAMK2D,ADCY9,inhibition,cAMP
+CAMK2D,ADCY4,inhibition,cAMP
+CAMK2G,ADCY1,inhibition,cAMP
+CAMK2G,ADCY2,inhibition,cAMP
+CAMK2G,ADCY3,inhibition,cAMP
+CAMK2G,ADCY5,inhibition,cAMP
+CAMK2G,ADCY6,inhibition,cAMP
+CAMK2G,ADCY7,inhibition,cAMP
+CAMK2G,ADCY8,inhibition,cAMP
+CAMK2G,ADCY9,inhibition,cAMP
+CAMK2G,ADCY4,inhibition,cAMP
+PRKACA,BAD,phosphorylation,cAMP
+PRKACB,BAD,phosphorylation,cAMP
+PRKACA,RHOA,phosphorylation,cAMP
+PRKACB,RHOA,phosphorylation,cAMP
+ROCK1,PPP1R12A,phosphorylation,cAMP
+ROCK2,PPP1R12A,phosphorylation,cAMP
+RAF1,MAP2K1,phosphorylation,cAMP
+RAF1,MAP2K2,phosphorylation,cAMP
+MAP2K1,MAPK1,phosphorylation,cAMP
+MAP2K1,MAP2K2,phosphorylation,cAMP
+MAP2K1,MAPK3,phosphorylation,cAMP
+MAP2K2,MAPK1,phosphorylation,cAMP
+MAP2K2,CREB3,phosphorylation,cAMP
+PRKACA,RHOA,phosphorylation,cAMP
+PRKACB,RHOA,phosphorylation,cAMP
+ROCK1,PPP1R12A,phosphorylation,cAMP
+ROCK2,PPP1R12A,phosphorylation,cAMP
+RAF1,MAP2K1,phosphorylation,cAMP
+RAF1,MAP2K1,phosphorylation,cAMP
+RAF1,MAP2K2,phosphorylation,cAMP
+MAP2K1,MAPK1,phosphorylation,cAMP
+MAP2K1,MAP2K2,phosphorylation,cAMP
+PRKACA,RHOA,phosphorylation,cAMP
+MAPK1,CREB1,phosphorylation,cAMP
+MAPK1,CREB3L4,phosphorylation,cAMP
+MAPK1,CREB3L2,phosphorylation,cAMP
+MAPK1,CREB3L3,phosphorylation,cAMP
+MAPK1,CREB3L1,phosphorylation,cAMP
+MAPK1,CREB5,phosphorylation,cAMP
+MAPK1,CREB3,phosphorylation,cAMP
+MAPK1,CREB1,phosphorylation,cAMP
+MAPK1,CREB3L4,phosphorylation,cAMP
+MAPK1,CREB3L2,phosphorylation,cAMP
+CAMK4,PDE10A,phosphorylation,cAMP
+CAMK4,PDE3A,phosphorylation,cAMP
+CAMK4,PDE3B,phosphorylation,cAMP
+CAMK4,PDE4A,phosphorylation,cAMP
+CAMK4,PDE4B,phosphorylation,cAMP
+CAMK4,PDE4C,phosphorylation,cAMP
+CAMK4,PDE4D,phosphorylation,cAMP
+CAMK2A,PDE10A,phosphorylation,cAMP
+CAMK2A,PDE10A,phosphorylation,cAMP
+CAMK2A,PDE3A,phosphorylation,cAMP
+CAMK2A,PDE3B,phosphorylation,cAMP
+CAMK2A,PDE4A,phosphorylation,cAMP
+CAMK2A,PDE4B,phosphorylation,cAMP
+CAMK2A,PDE4C,phosphorylation,cAMP
+CAMK2A,PDE4D,phosphorylation,cAMP
+CAMK2B,CAMK2B,phosphorylation,cAMP
+CAMK2B,PDE3A,phosphorylation,cAMP
+CAMK2B,PDE3B,phosphorylation,cAMP
+CAMK2B,PDE4A,phosphorylation,cAMP
+CAMK2B,PDE4B,phosphorylation,cAMP
+CAMK2B,PDE4C,phosphorylation,cAMP
+CAMK2B,PDE4D,phosphorylation,cAMP
+CAMK2D,PDE10A,phosphorylation,cAMP
+CAMK2D,PDE3A,phosphorylation,cAMP
+CAMK2D,PDE4A,phosphorylation,cAMP
+CAMK2D,PDE4B,phosphorylation,cAMP
+CAMK2D,PDE4C,phosphorylation,cAMP
+CAMK2D,PDE4D,phosphorylation,cAMP
+CAMK2G,PDE10A,phosphorylation,cAMP
+CAMK2G,PDE3A,phosphorylation,cAMP
+CAMK2G,PDE4A,phosphorylation,cAMP
+CAMK2G,PDE4B,phosphorylation,cAMP
+CAMK2G,PDE4C,phosphorylation,cAMP
+CAMK2G,PDE4D,phosphorylation,cAMP
+CXCL1,CXCR1,activation,Cytokine–receptor interaction
+CXCL2,CXCR1,activation,Cytokine–receptor interaction
+CXCL3,CXCR1,activation,Cytokine–receptor interaction
+CXCL6,CXCR1,activation,Cytokine–receptor interaction
+CXCL5,CXCR1,activation,Cytokine–receptor interaction
+CX3CL1,CXCR1,activation,Cytokine–receptor interaction
+CXCL1,CXCR2,activation,Cytokine–receptor interaction
+CXCL3,CXCR2,activation,Cytokine–receptor interaction
+CXCL6,CXCR2,activation,Cytokine–receptor interaction
+CXCL5,CXCR2,activation,Cytokine–receptor interaction
+CXCL8,CXCR2,activation,Cytokine–receptor interaction
+PPBP,CXCR2,activation,Cytokine–receptor interaction
+PF4,CXCR3,activation,Cytokine–receptor interaction
+PF4V1,CXCR3,activation,Cytokine–receptor interaction
+CXCL9,CXCR3,activation,Cytokine–receptor interaction
+CXCL10,CXCR3,activation,Cytokine–receptor interaction
+CXCL11,CXCR3,activation,Cytokine–receptor interaction
+CXCL13,CXCR3,activation,Cytokine–receptor interaction
+CXCL13,CXCR5,activation,Cytokine–receptor interaction
+CXCL12,CXCR4,activation,Cytokine–receptor interaction
+CXCL12,ACKR3,activation,Cytokine–receptor interaction
+CXCL16,CXCR6,activation,Cytokine–receptor interaction
+XCL1,XCR1,activation,Cytokine–receptor interaction
+XCL2,XCR1,activation,Cytokine–receptor interaction
+CX3CL1,CX3CR1,activation,Cytokine–receptor interaction
+IL4,IL4R,activation,Cytokine–receptor interaction
+IL13,IL13RA1,activation,Cytokine–receptor interaction
+IL13,IL13RA2,activation,Cytokine–receptor interaction
+EPO,EPOR,activation,Cytokine–receptor interaction
+CSH1,GHR,activation,Cytokine–receptor interaction
+CSH2,GHR,activation,Cytokine–receptor interaction
+GH1,GHR,activation,Cytokine–receptor interaction
+GH2,GHR,activation,Cytokine–receptor interaction
+PRL,PRLR,activation,Cytokine–receptor interaction
+THPO,MPL,activation,Cytokine–receptor interaction
+CSF3,CSF3R,activation,Cytokine–receptor interaction
+LEP,LEPR,activation,Cytokine–receptor interaction
+IL1A,IL1R2,activation,Cytokine–receptor interaction
+IL1B,IL1R2,activation,Cytokine–receptor interaction
+IL1RN,IL1R2,activation,Cytokine–receptor interaction
+IL17B,IL17RB,activation,Cytokine–receptor interaction
+IL17C,IL17RE,activation,Cytokine–receptor interaction
+IL16,CD4,activation,Cytokine–receptor interaction
+IL34,CSF1R,activation,Cytokine–receptor interaction
+CSF1,CSF1R,activation,Cytokine–receptor interaction
+TNF,TNFRSF1A,activation,Cytokine–receptor interaction
+TNF,TNFRSF1B,activation,Cytokine–receptor interaction
+LTA,TNFRSF1A,activation,Cytokine–receptor interaction
+LTA,TNFRSF1B,activation,Cytokine–receptor interaction
+LTA,LTBR,activation,Cytokine–receptor interaction
+LTA,TNFRSF14,activation,Cytokine–receptor interaction
+LTB,LTBR,activation,Cytokine–receptor interaction
+TNFSF14,LTBR,activation,Cytokine–receptor interaction
+TNFSF14,TNFRSF14,activation,Cytokine–receptor interaction
+TNFSF14,TNFRSF6B,activation,Cytokine–receptor interaction
+FASLG,TNFRSF6B,activation,Cytokine–receptor interaction
+FASLG,FAS,activation,Cytokine–receptor interaction
+TNFSF15,TNFRSF6B,activation,Cytokine–receptor interaction
+TNFSF15,TNFRSF25,activation,Cytokine–receptor interaction
+TNFSF10,TNFRSF10B,activation,Cytokine–receptor interaction
+TNFSF10,TNFRSF10A,activation,Cytokine–receptor interaction
+TNFSF10,TNFRSF10C,activation,Cytokine–receptor interaction
+TNFSF10,TNFRSF10D,activation,Cytokine–receptor interaction
+EDA,EDAR,activation,Cytokine–receptor interaction
+EDA,EDA2R,activation,Cytokine–receptor interaction
+NGF,NGFR,activation,Cytokine–receptor interaction
+TNFSF11,TNFRSF11B,activation,Cytokine–receptor interaction
+TNFSF11,TNFRSF11A,activation,Cytokine–receptor interaction
+TNFSF12,TNFRSF12A,activation,Cytokine–receptor interaction
+CD70,CD27,activation,Cytokine–receptor interaction
+TNFSF8,TNFRSF8,activation,Cytokine–receptor interaction
+CD40LG,CD40,activation,Cytokine–receptor interaction
+TNFSF9,TNFRSF9,activation,Cytokine–receptor interaction
+TNFSF4,TNFRSF4,activation,Cytokine–receptor interaction
+TNFSF18,TNFRSF18,activation,Cytokine–receptor interaction
+TNFSF13,TNFRSF17,activation,Cytokine–receptor interaction
+TNFSF13,TNFRSF13B,activation,Cytokine–receptor interaction
+TNFSF13B,TNFRSF17,activation,Cytokine–receptor interaction
+TNFSF13B,TNFRSF13B,activation,Cytokine–receptor interaction
+TNFSF13B,TNFRSF13C,activation,Cytokine–receptor interaction
+CCL1,CCR8,activation,Cytokine–receptor interaction
+CCL1,ACKR4,activation,Cytokine–receptor interaction
+CCL25,CCR9,activation,Cytokine–receptor interaction
+CCL25,ACKR4,activation,Cytokine–receptor interaction
+CCL19,ACKR4,activation,Cytokine–receptor interaction
+CCL19,CCR7,activation,Cytokine–receptor interaction
+CCL21,ACKR4,activation,Cytokine–receptor interaction
+CCL21,CCR7,activation,Cytokine–receptor interaction
+CCL3L3,CCR5,activation,Cytokine–receptor interaction
+CCL3,CCR5,activation,Cytokine–receptor interaction
+CCL3L1,CCR5,activation,Cytokine–receptor interaction
+CCL4L1,CCR5,activation,Cytokine–receptor interaction
+CCL4,CCR5,activation,Cytokine–receptor interaction
+CCL4L2,CCR5,activation,Cytokine–receptor interaction
+CCL17,CCR4,activation,Cytokine–receptor interaction
+CCL22,CCR4,activation,Cytokine–receptor interaction
+CCL5,CCR4,activation,Cytokine–receptor interaction
+CCL5,CCR5,activation,Cytokine–receptor interaction
+CCL5,CCR3,activation,Cytokine–receptor interaction
+CCL5,CCR1,activation,Cytokine–receptor interaction
+CCL3L3,CCR1,activation,Cytokine–receptor interaction
+CCL3,CCR1,activation,Cytokine–receptor interaction
+CCL3L1,CCR1,activation,Cytokine–receptor interaction
+CCL8,CCR5,activation,Cytokine–receptor interaction
+CCL8,ACKR4,activation,Cytokine–receptor interaction
+CCL8,CCR2,activation,Cytokine–receptor interaction
+CCL8,CCR1,activation,Cytokine–receptor interaction
+CCL14,CCR1,activation,Cytokine–receptor interaction
+CCL16,CCR1,activation,Cytokine–receptor interaction
+CCL15,CCR1,activation,Cytokine–receptor interaction
+CCL23,CCR1,activation,Cytokine–receptor interaction
+CCL15,CCR3,activation,Cytokine–receptor interaction
+CCL23,CCR3,activation,Cytokine–receptor interaction
+CCL13,CCR1,activation,Cytokine–receptor interaction
+CCL13,CCR3,activation,Cytokine–receptor interaction
+CCL13,ACKR4,activation,Cytokine–receptor interaction
+CCL13,CCR2,activation,Cytokine–receptor interaction
+CCL7,CCR1,activation,Cytokine–receptor interaction
+CCL7,CCR3,activation,Cytokine–receptor interaction
+CCL7,CCR2,activation,Cytokine–receptor interaction
+CCL2,CCR2,activation,Cytokine–receptor interaction
+CCL11,CCR3,activation,Cytokine–receptor interaction
+CCL24,CCR3,activation,Cytokine–receptor interaction
+CCL26,CCR3,activation,Cytokine–receptor interaction
+CCL27,CCR2,activation,Cytokine–receptor interaction
+CCL27,CCR3,activation,Cytokine–receptor interaction
+CCL27,CCR10,activation,Cytokine–receptor interaction
+CCL28,CCR3,activation,Cytokine–receptor interaction
+CCL28,CCR10,activation,Cytokine–receptor interaction
+CCL20,CCR6,activation,Cytokine–receptor interaction
+CCL3L3,CCR1,activation,Cytokine–receptor interaction
+CCL3,CCR1,activation,Viral–cytokine interaction
+CCL3L1,CCR1,activation,Viral–cytokine interaction
+CCL5,CCR1,activation,Viral–cytokine interaction
+CCL7,CCR1,activation,Viral–cytokine interaction
+CCL8,CCR1,activation,Viral–cytokine interaction
+CCL13,CCR1,activation,Viral–cytokine interaction
+CCL14,CCR1,activation,Viral–cytokine interaction
+CCL15,CCR1,activation,Viral–cytokine interaction
+CCL16,CCR1,activation,Viral–cytokine interaction
+CCL23,CCR1,activation,Viral–cytokine interaction
+CCL27,CCR2,activation,Viral–cytokine interaction
+CCL2,CCR2,activation,Viral–cytokine interaction
+CCL7,CCL7,activation,Viral–cytokine interaction
+CCL8,CCR2,activation,Viral–cytokine interaction
+CCL13,CCR2,activation,Viral–cytokine interaction
+CCL26,CCR3,activation,Viral–cytokine interaction
+CCL27,CCR3,activation,Viral–cytokine interaction
+CCL28,CCR3,activation,Viral–cytokine interaction
+CCL5,CCR3,activation,Viral–cytokine interaction
+CCL7,CCR3,activation,Viral–cytokine interaction
+CCL11,CCR3,activation,Viral–cytokine interaction
+CCL13,CCR3,activation,Viral–cytokine interaction
+CCL15,CCR3,activation,Viral–cytokine interaction
+CCL23,CCR3,activation,Viral–cytokine interaction
+CCL24,CCR3,activation,Viral–cytokine interaction
+CCL5,CCR4,activation,Viral–cytokine interaction
+CCL17,CCR4,activation,Viral–cytokine interaction
+CCL22,CCR4,activation,Viral–cytokine interaction
+CCL4L1,CCR5,activation,Viral–cytokine interaction
+CCL3L3,CCR5,activation,Viral–cytokine interaction
+CCL3,CCR5,activation,Viral–cytokine interaction
+CCL3L1,CCR5,activation,Viral–cytokine interaction
+CCL4,CCR5,activation,Viral–cytokine interaction
+CCL5,CCR5,activation,Viral–cytokine interaction
+CCL8,CCR5,activation,Viral–cytokine interaction
+CCL4L2,CCR5,activation,Viral–cytokine interaction
+CCL20,CCR6,activation,Viral–cytokine interaction
+CCL1,CCR8,activation,Viral–cytokine interaction
+CCL25,CCR9,activation,Viral–cytokine interaction
+CCL25,ACKR4,activation,Viral–cytokine interaction
+CCL27,CCR10,activation,Viral–cytokine interaction
+CCL28,CCR10,activation,Viral–cytokine interaction
+CCL19,CCL19,activation,Viral–cytokine interaction
+CCL19,ACKR4,activation,Viral–cytokine interaction
+CCL21,CCR7,activation,Viral–cytokine interaction
+CCL21,ACKR4,activation,Viral–cytokine interaction
+CXCL1,CXCR1,activation,Viral–cytokine interaction
+CXCL2,CXCR1,activation,Viral–cytokine interaction
+CXCL3,CXCR1,activation,Viral–cytokine interaction
+CXCL8,CXCR1,activation,Viral–cytokine interaction
+CXCL6,CXCR1,activation,Viral–cytokine interaction
+CXCL5,CXCR1,activation,Viral–cytokine interaction
+CXCL1,CXCR2,activation,Viral–cytokine interaction
+CXCL2,CXCR2,activation,Viral–cytokine interaction
+CXCL3,CXCR2,activation,Viral–cytokine interaction
+CXCL8,CXCR2,activation,Viral–cytokine interaction
+PPBP,CXCR2,activation,Viral–cytokine interaction
+CXCL6,CXCR2,activation,Viral–cytokine interaction
+CXCL5,CXCR2,activation,Viral–cytokine interaction
+CXCL13,CXCR3,activation,Viral–cytokine interaction
+CXCL10,CXCR3,activation,Viral–cytokine interaction
+CXCL9,CXCR3,activation,Viral–cytokine interaction
+PF4,CXCR3,activation,Viral–cytokine interaction
+PF4V1,CXCR3,activation,Viral–cytokine interaction
+CXCL11,CXCR3,activation,Viral–cytokine interaction
+CXCL13,CXCR5,activation,Viral–cytokine interaction
+CXCL12,ACKR3,activation,Viral–cytokine interaction
+CXCL12,CXCR4,activation,Viral–cytokine interaction
+XCL1,XCR1,activation,Viral–cytokine interaction
+XCL2,XCR1,activation,Viral–cytokine interaction
+CX3CL1,CX3CR1,activation,Viral–cytokine interaction
+IL6,IL6R,activation,Viral–cytokine interaction
+TNF,TNFRSF1A,activation,Viral–cytokine interaction
+TNF,TNFRSF1B,activation,Viral–cytokine interaction
+LTA,TNFRSF1A,activation,Viral–cytokine interaction
+LTA,LTBR,activation,Viral–cytokine interaction
+LTA,TNFRSF1B,activation,Viral–cytokine interaction
+LTA,TNFRSF14,activation,Viral–cytokine interaction
+TNFSF14,LTBR,activation,Viral–cytokine interaction
+TNFSF14,TNFRSF14,activation,Viral–cytokine interaction
+TNFSF10,TNFRSF10B,activation,Viral–cytokine interaction
+TNFSF10,TNFRSF10A,activation,Viral–cytokine interaction
+TNFSF10,TNFRSF10D,activation,Viral–cytokine interaction
+TNFSF10,TNFRSF10C,activation,Viral–cytokine interaction
+IL34,CSF1R,activation,Viral–cytokine interaction
+CSF1,CSF1R,activation,Viral–cytokine interaction
+CCL26,CXCR6,activation,Viral–cytokine interaction
+CCL26,CXCR6,activation,Viral–cytokine interaction
+CCL26,CCR9,activation,Viral–cytokine interaction
+CCL26,CCR9,activation,Viral–cytokine interaction
+CCL26,CCR1,activation,Viral–cytokine interaction
+CCL26,CCR1,activation,Viral–cytokine interaction
+IL34,CSF1R,activation,Viral–cytokine interaction
+CSF1,CSF1R,activation,Viral–cytokine interaction
+CCL26,CXCR6,activation,Viral–cytokine interaction
+CCL26,CXCR6,activation,Viral–cytokine interaction
+CCL26,CCR9,activation,Viral–cytokine interaction
+CCL26,CCR9,activation,Viral–cytokine interaction
+CCL26,CCR1,activation,Viral–cytokine interaction
+CCL26,CCR1,activation,Viral–cytokine interaction
+AURKA,CPEB2,activation,Oocyte meiosis
+AURKA,CPEB2,phosphorylation,Oocyte meiosis
+AURKA,CPEB3,activation,Oocyte meiosis
+AURKA,CPEB3,phosphorylation,Oocyte meiosis
+AURKA,CPEB1,activation,Oocyte meiosis
+AURKA,CPEB1,phosphorylation,Oocyte meiosis
+AURKA,CPEB4,activation,Oocyte meiosis
+AURKA,CPEB4,phosphorylation,Oocyte meiosis
+PLK1,CPEB2,activation,Oocyte meiosis
+PLK1,CPEB2,phosphorylation,Oocyte meiosis
+PLK1,CPEB3,activation,Oocyte meiosis
+PLK1,CPEB3,phosphorylation,Oocyte meiosis
+PLK1,CPEB1,activation,Oocyte meiosis
+PLK1,CPEB1,phosphorylation,Oocyte meiosis
+PLK1,CPEB4,activation,Oocyte meiosis
+PLK1,CPEB4,phosphorylation,Oocyte meiosis
+CDK2,CDC25C,activation,Oocyte meiosis
+CDK2,CDC25C,phosphorylation,Oocyte meiosis
+MAPK14,CDC25C,activation,Oocyte meiosis
+MAPK14,CDC25C,phosphorylation,Oocyte meiosis
+MAPK11,CDC25C,activation,Oocyte meiosis
+MAPK11,CDC25C,phosphorylation,Oocyte meiosis
+MAPK13,CDC25C,activation,Oocyte meiosis
+MAPK13,CDC25C,phosphorylation,Oocyte meiosis
+MAPK12,CDC25C,activation,Oocyte meiosis
+MAPK12,CDC25C,phosphorylation,Oocyte meiosis
+PPP1CA,CDC25C,activation,Oocyte meiosis
+PPP1CA,CDC25C,dephosphorylation,Oocyte meiosis
+PPP1CB,CDC25C,activation,Oocyte meiosis
+PPP1CB,CDC25C,dephosphorylation,Oocyte meiosis
+PPP1CC,CDC25C,activation,Oocyte meiosis
+PPP1CC,CDC25C,dephosphorylation,Oocyte meiosis
+PLK1,CDC25C,activation,Oocyte meiosis
+PLK1,CDC25C,phosphorylation,Oocyte meiosis
+SLK,PLK1,activation,Oocyte meiosis
+SLK,PLK1,phosphorylation,Oocyte meiosis
+PRKACA,CDC25C,inhibition,Oocyte meiosis
+PRKACA,CDC25C,phosphorylation,Oocyte meiosis
+PRKACB,CDC25C,inhibition,Oocyte meiosis
+PRKACB,CDC25C,phosphorylation,Oocyte meiosis
+PRKACG,CDC25C,inhibition,Oocyte meiosis
+PRKACG,CDC25C,phosphorylation,Oocyte meiosis
+FBXO5,CDC20,inhibition,Oocyte meiosis
+PTTG2,ESPL1,inhibition,Oocyte meiosis
+PTTG1,ESPL1,inhibition,Oocyte meiosis
+ESPL1,REC8,inhibition,Oocyte meiosis
+FBXO43,CDC20,inhibition,Oocyte meiosis
+MAD2L2,ANAPC10,inhibition,Oocyte meiosis
+MAD2L2,ANAPC10,phosphorylation,Oocyte meiosis
+MAD2L2,ANAPC16,inhibition,Oocyte meiosis
+MAD2L2,ANAPC16,phosphorylation,Oocyte meiosis
+MAD2L2,CDC26,inhibition,Oocyte meiosis
+MAD2L2,CDC26,phosphorylation,Oocyte meiosis
+MAD2L2,ANAPC13,inhibition,Oocyte meiosis
+MAD2L2,ANAPC13,phosphorylation,Oocyte meiosis
+MAD2L2,ANAPC15,inhibition,Oocyte meiosis
+MAD2L2,ANAPC15,phosphorylation,Oocyte meiosis
+MAD2L2,ANAPC2,inhibition,Oocyte meiosis
+MAD2L2,ANAPC2,phosphorylation,Oocyte meiosis
+MAD2L2,ANAPC4,inhibition,Oocyte meiosis
+MAD2L2,ANAPC4,phosphorylation,Oocyte meiosis
+MAD2L2,ANAPC5,inhibition,Oocyte meiosis
+MAD2L2,ANAPC5,phosphorylation,Oocyte meiosis
+MAD2L2,ANAPC7,inhibition,Oocyte meiosis
+MAD2L2,ANAPC7,phosphorylation,Oocyte meiosis
+MAD2L2,ANAPC11,inhibition,Oocyte meiosis
+MAD2L2,ANAPC11,phosphorylation,Oocyte meiosis
+MAD2L2,ANAPC1,inhibition,Oocyte meiosis
+MAD2L2,ANAPC1,phosphorylation,Oocyte meiosis
+MAD2L2,CDC23,inhibition,Oocyte meiosis
+MAD2L2,CDC23,phosphorylation,Oocyte meiosis
+MAD2L2,CDC16,inhibition,Oocyte meiosis
+MAD2L2,CDC16,phosphorylation,Oocyte meiosis
+MAD2L2,CDC27,inhibition,Oocyte meiosis
+MAD2L2,CDC27,phosphorylation,Oocyte meiosis
+MAD2L1,ANAPC10,inhibition,Oocyte meiosis
+MAD2L1,ANAPC10,phosphorylation,Oocyte meiosis
+MAD2L1,ANAPC16,inhibition,Oocyte meiosis
+MAD2L1,ANAPC16,phosphorylation,Oocyte meiosis
+MAD2L1,CDC26,inhibition,Oocyte meiosis
+MAD2L1,CDC26,phosphorylation,Oocyte meiosis
+MAD2L1,ANAPC13,inhibition,Oocyte meiosis
+MAD2L1,ANAPC13,phosphorylation,Oocyte meiosis
+MAD2L1,ANAPC15,inhibition,Oocyte meiosis
+MAD2L1,ANAPC15,phosphorylation,Oocyte meiosis
+MAD2L1,ANAPC2,inhibition,Oocyte meiosis
+MAD2L1,ANAPC2,phosphorylation,Oocyte meiosis
+MAD2L1,ANAPC4,inhibition,Oocyte meiosis
+MAD2L1,ANAPC4,phosphorylation,Oocyte meiosis
+MAD2L1,ANAPC5,inhibition,Oocyte meiosis
+MAD2L1,ANAPC5,phosphorylation,Oocyte meiosis
+MAD2L1,ANAPC7,inhibition,Oocyte meiosis
+MAD2L1,ANAPC7,phosphorylation,Oocyte meiosis
+MAD2L1,ANAPC11,inhibition,Oocyte meiosis
+MAD2L1,ANAPC11,phosphorylation,Oocyte meiosis
+MAD2L1,ANAPC1,inhibition,Oocyte meiosis
+MAD2L1,ANAPC1,phosphorylation,Oocyte meiosis
+MAD2L1,CDC23,inhibition,Oocyte meiosis
+MAD2L1,CDC23,phosphorylation,Oocyte meiosis
+MAD2L1,CDC16,inhibition,Oocyte meiosis
+MAD2L1,CDC16,phosphorylation,Oocyte meiosis
+MAD2L1,CDC27,inhibition,Oocyte meiosis
+MAD2L1,CDC27,phosphorylation,Oocyte meiosis
+MAD1L1,ANAPC10,inhibition,Oocyte meiosis
+MAD1L1,ANAPC10,phosphorylation,Oocyte meiosis
+MAD1L1,ANAPC16,inhibition,Oocyte meiosis
+MAD1L1,ANAPC16,phosphorylation,Oocyte meiosis
+MAD1L1,CDC26,inhibition,Oocyte meiosis
+MAD1L1,CDC26,phosphorylation,Oocyte meiosis
+MAD1L1,ANAPC13,inhibition,Oocyte meiosis
+MAD1L1,ANAPC13,phosphorylation,Oocyte meiosis
+MAD1L1,ANAPC15,inhibition,Oocyte meiosis
+MAD1L1,ANAPC15,phosphorylation,Oocyte meiosis
+MAD1L1,ANAPC2,inhibition,Oocyte meiosis
+MAD1L1,ANAPC2,phosphorylation,Oocyte meiosis
+MAD1L1,ANAPC4,inhibition,Oocyte meiosis
+MAD1L1,ANAPC4,phosphorylation,Oocyte meiosis
+MAD1L1,ANAPC5,inhibition,Oocyte meiosis
+MAD1L1,ANAPC5,phosphorylation,Oocyte meiosis
+MAD1L1,ANAPC7,inhibition,Oocyte meiosis
+MAD1L1,ANAPC7,phosphorylation,Oocyte meiosis
+MAD1L1,ANAPC11,inhibition,Oocyte meiosis
+MAD1L1,ANAPC11,phosphorylation,Oocyte meiosis
+MAD1L1,ANAPC1,inhibition,Oocyte meiosis
+MAD1L1,ANAPC1,phosphorylation,Oocyte meiosis
+MAD1L1,CDC23,inhibition,Oocyte meiosis
+MAD1L1,CDC23,phosphorylation,Oocyte meiosis
+MAD1L1,CDC16,inhibition,Oocyte meiosis
+MAD1L1,CDC16,phosphorylation,Oocyte meiosis
+MAD1L1,CDC27,inhibition,Oocyte meiosis
+PPP2CA,FBXO43,dephosphorylation,Oocyte meiosis
+PPP2CB,FBXO43,activation,Oocyte meiosis
+PPP2CB,FBXO43,dephosphorylation,Oocyte meiosis
+PPP2R1A,FBXO43,activation,Oocyte meiosis
+PPP2R1A,FBXO43,dephosphorylation,Oocyte meiosis
+PPP2R1B,FBXO43,activation,Oocyte meiosis
+PPP2R1B,FBXO43,dephosphorylation,Oocyte meiosis
+CAMK2A,FBXO43,inhibition,Oocyte meiosis
+CAMK2A,FBXO43,phosphorylation,Oocyte meiosis
+CAMK2B,FBXO43,inhibition,Oocyte meiosis
+CAMK2B,FBXO43,phosphorylation,Oocyte meiosis
+CAMK2D,FBXO43,inhibition,Oocyte meiosis
+CAMK2D,FBXO43,phosphorylation,Oocyte meiosis
+CAMK2G,FBXO43,inhibition,Oocyte meiosis
+CAMK2G,FBXO43,phosphorylation,Oocyte meiosis
+PLK1,FBXO43,inhibition,Oocyte meiosis
+PLK1,FBXO43,phosphorylation,Oocyte meiosis
+CAMK2A,CDC25C,inhibition,Oocyte meiosis
+CAMK2A,CDC25C,phosphorylation,Oocyte meiosis
+CAMK2B,CDC25C,inhibition,Oocyte meiosis
+CAMK2B,CDC25C,phosphorylation,Oocyte meiosis
+CDC25C,CDK1,activation,Oocyte meiosis
+CDC25C,CDK1,dephosphorylation,Oocyte meiosis
+MOS,PKMYT1,inhibition,Oocyte meiosis
+MOS,PKMYT1,phosphorylation,Oocyte meiosis
+TBK1,SQSTM1,activation,p53
+TBK1,SQSTM1,phosphorylation,p53
+TBK1,CALCOCO2,activation,p53
+TBK1,CALCOCO2,phosphorylation,p53
+TBK1,OPTN,activation,p53
+TBK1,OPTN,phosphorylation,p53
+USP15,FKBP8,inhibition,p53
+USP15,RHOT1,inhibition,p53
+USP15,MFN1,inhibition,p53
+USP15,RHOT2,inhibition,p53
+USP15,TOMM70,inhibition,p53
+USP15,MFN2,inhibition,p53
+USP30,FKBP8,inhibition,p53
+USP30,RHOT1,inhibition,p53
+USP30,MFN1,inhibition,p53
+USP30,RHOT2,inhibition,p53
+USP30,TOMM70,inhibition,p53
+USP30,MFN2,inhibition,p53
+USP8,PRKN,activation,p53
+PINK1,BCL2L1,activation,p53
+PINK1,BCL2L1,phosphorylation,p53
+PRKN,MFN2,inhibition,p53
+MFN2,OPA1,inhibition,p53
+CSNK2A1,FUNDC1,inhibition,p53
+CSNK2A1,FUNDC1,phosphorylation,p53
+CSNK2A2,FUNDC1,inhibition,p53
+CSNK2A2,FUNDC1,phosphorylation,p53
+CSNK2B,FUNDC1,inhibition,p53
+CSNK2B,FUNDC1,phosphorylation,p53
+CSNK2A3,FUNDC1,inhibition,p53
+CSNK2A3,FUNDC1,phosphorylation,p53
+SRC,FUNDC1,inhibition,p53
+SRC,FUNDC1,phosphorylation,p53
+ULK1,FUNDC1,activation,p53
+ULK1,FUNDC1,phosphorylation,p53
+ULK1,BNIP3,activation,p53
+ULK1,BNIP3,phosphorylation,p53
+ULK1,BNIP3L,activation,p53
+ULK1,BNIP3L,phosphorylation,p53
+PGAM5,FUNDC1,inhibition,p53
+PGAM5,FUNDC1,dephosphorylation,p53
+EIF2AK3,EIF2S1,activation,p53
+EIF2AK3,EIF2S1,phosphorylation,p53
+EIF2S1,ATF4,activation,p53
+MAPK8,JUN,activation,p53
+MAPK8,JUN,phosphorylation,p53
+MAPK9,JUN,activation,p53
+MAPK9,JUN,phosphorylation,p53
+MAPK10,JUN,activation,p53
+MAPK10,JUN,phosphorylation,p53
+RRAS2,HIF1A,activation,p53
+MRAS,HIF1A,activation,p53
+HRAS,HIF1A,activation,p53
+KRAS,HIF1A,activation,p53
+NRAS,HIF1A,activation,p53
+RRAS,HIF1A,activation,p53
+FOXO3,CITED2,activation,p53
+PRKN,MITF,activation,p53
+PRKN,TFEB,activation,p53
+PRKN,TFE3,activation,p53
+CSF1,EGFR,activation,Ras
+CSF1,EPHA2,activation,Ras
+CSF1,FGFR1,activation,Ras
+CSF1,FGFR3,activation,Ras
+CSF1,FGFR2,activation,Ras
+CSF1,FGFR4,activation,Ras
+CSF1,FLT1,activation,Ras
+CSF1,FLT3,activation,Ras
+CSF1,FLT4,activation,Ras
+CSF1,IGF1R,activation,Ras
+CSF1,INSR,activation,Ras
+CSF1,KDR,activation,Ras
+CSF1,KIT,activation,Ras
+CSF1,MET,activation,Ras
+CSF1,NGFR,activation,Ras
+CSF1,NTRK1,activation,Ras
+CSF1,NTRK2,activation,Ras
+CSF1,PDGFRA,activation,Ras
+CSF1,PDGFRB,activation,Ras
+CSF1,TEK,activation,Ras
+EFNA1,CSF1R,activation,Ras
+EFNA1,EGFR,activation,Ras
+EFNA1,EGFR,activation,Ras
+EFNA1,EPHA2,activation,Ras
+EFNA1,FGFR1,activation,Ras
+EFNA1,FGFR3,activation,Ras
+EFNA1,FGFR2,activation,Ras
+EFNA1,FGFR4,activation,Ras
+EFNA1,FLT1,activation,Ras
+EFNA1,FLT3,activation,Ras
+EFNA1,FLT4,activation,Ras
+EFNA1,IGF1R,activation,Ras
+EFNA1,INSR,activation,Ras
+EFNA1,KDR,activation,Ras
+EFNA1,KIT,activation,Ras
+EFNA1,MET,activation,Ras
+EFNA1,NGFR,activation,Ras
+EFNA1,NTRK1,activation,Ras
+EFNA1,NTRK2,activation,Ras
+EFNA1,PDGFRA,activation,Ras
+EFNA1,PDGFRB,activation,Ras
+EFNA1,TEK,activation,Ras
+EFNA2,CSF1R,activation,Ras
+EFNA2,EGFR,activation,Ras
+EFNA2,EGFR,activation,Ras
+EFNA2,EPHA2,activation,Ras
+EFNA2,FGFR1,activation,Ras
+EFNA2,FGFR3,activation,Ras
+EFNA2,FGFR2,activation,Ras
+EFNA2,FGFR4,activation,Ras
+EFNA2,FLT1,activation,Ras
+EFNA2,FLT3,activation,Ras
+EFNA2,FLT4,activation,Ras
+EFNA2,IGF1R,activation,Ras
+EFNA2,INSR,activation,Ras
+EFNA2,KDR,activation,Ras
+EFNA2,KIT,activation,Ras
+EFNA2,MET,activation,Ras
+EFNA2,NGFR,activation,Ras
+EFNA2,NTRK1,activation,Ras
+EFNA2,NTRK2,activation,Ras
+EFNA2,PDGFRA,activation,Ras
+EFNA2,PDGFRB,activation,Ras
+EFNA2,TEK,activation,Ras
+EFNA3,CSF1R,activation,Ras
+EFNA3,EGFR,activation,Ras
+EFNA3,EGFR,activation,Ras
+EFNA3,EPHA2,activation,Ras
+EFNA3,FGFR1,activation,Ras
+EFNA3,FGFR3,activation,Ras
+EFNA3,FGFR2,activation,Ras
+EFNA3,FGFR4,activation,Ras
+EFNA3,FLT1,activation,Ras
+EFNA3,FLT3,activation,Ras
+EFNA3,FLT4,activation,Ras
+EFNA3,IGF1R,activation,Ras
+EFNA3,INSR,activation,Ras
+EFNA3,KDR,activation,Ras
+EFNA3,KIT,activation,Ras
+EFNA3,MET,activation,Ras
+EFNA3,NGFR,activation,Ras
+EFNA3,NTRK1,activation,Ras
+EFNA3,NTRK2,activation,Ras
+EFNA3,PDGFRA,activation,Ras
+EFNA3,PDGFRB,activation,Ras
+EFNA3,TEK,activation,Ras
+EFNA4,CSF1R,activation,Ras
+EFNA4,EGFR,activation,Ras
+EFNA4,EGFR,activation,Ras
+EFNA4,EPHA2,activation,Ras
+EFNA4,FGFR1,activation,Ras
+EFNA4,FGFR3,activation,Ras
+EFNA4,FGFR2,activation,Ras
+EFNA4,FGFR4,activation,Ras
+EFNA4,FLT1,activation,Ras
+EFNA4,FLT3,activation,Ras
+EFNA4,FLT4,activation,Ras
+EFNA4,IGF1R,activation,Ras
+EFNA4,INSR,activation,Ras
+EFNA4,KDR,activation,Ras
+EFNA4,KIT,activation,Ras
+EFNA4,MET,activation,Ras
+EFNA4,NGFR,activation,Ras
+EFNA4,NTRK1,activation,Ras
+EFNA4,NTRK2,activation,Ras
+EFNA4,PDGFRA,activation,Ras
+EFNA4,PDGFRB,activation,Ras
+EFNA4,TEK,activation,Ras
+FGF23,CSF1R,activation,Ras
+FGF23,EGFR,activation,Ras
+FGF23,EGFR,activation,Ras
+FGF23,EPHA2,activation,Ras
+FGF23,FGFR1,activation,Ras
+FGF23,FGFR3,activation,Ras
+FGF23,FGFR2,activation,Ras
+FGF23,FGFR4,activation,Ras
+FGF23,FLT1,activation,Ras
+FGF23,FLT3,activation,Ras
+FGF23,FLT4,activation,Ras
+FGF23,IGF1R,activation,Ras
+FGF23,INSR,activation,Ras
+FGF23,KDR,activation,Ras
+FGF23,KIT,activation,Ras
+FGF23,MET,activation,Ras
+FGF23,NGFR,activation,Ras
+FGF23,NTRK1,activation,Ras
+FGF23,NTRK2,activation,Ras
+FGF23,PDGFRA,activation,Ras
+FGF23,PDGFRB,activation,Ras
+FGF23,TEK,activation,Ras
+FGF18,CSF1R,activation,Ras
+FGF18,EGFR,activation,Ras
+FGF18,EGFR,activation,Ras
+FGF18,EPHA2,activation,Ras
+FGF18,FGFR1,activation,Ras
+FGF18,FGFR3,activation,Ras
+FGF18,FGFR2,activation,Ras
+FGF18,FGFR4,activation,Ras
+FGF18,FLT1,activation,Ras
+FGF18,FLT3,activation,Ras
+FGF18,FLT4,activation,Ras
+FGF18,IGF1R,activation,Ras
+FGF18,INSR,activation,Ras
+FGF18,KDR,activation,Ras
+FGF18,KIT,activation,Ras
+FGF18,MET,activation,Ras
+FGF18,NGFR,activation,Ras
+FGF18,NTRK1,activation,Ras
+FGF18,NTRK2,activation,Ras
+FGF18,PDGFRA,activation,Ras
+FGF18,PDGFRB,activation,Ras
+FGF18,TEK,activation,Ras
+RRAS2,BRAP,inhibition,Ras
+MRAS,BRAP,inhibition,Ras
+HRAS,BRAP,inhibition,Ras
+KRAS,BRAP,inhibition,Ras
+NRAS,BRAP,inhibition,Ras
+RRAS,BRAP,inhibition,Ras
+RRAS2,RAPGEF5,inhibition,Ras
+MRAS,RAPGEF5,inhibition,Ras
+HRAS,RAPGEF5,inhibition,Ras
+KRAS,RAPGEF5,inhibition,Ras
+NRAS,RAPGEF5,inhibition,Ras
+RRAS,RAPGEF5,inhibition,Ras
+AKT3,BAD,inhibition,Ras
+AKT1,BAD,inhibition,Ras
+AKT2,BAD,inhibition,Ras
+BAD,BCL2L1,inhibition,Ras
+AKT3,FOXO4,inhibition,Ras
+AKT1,FOXO4,inhibition,Ras
+AKT2,FOXO4,inhibition,Ras
+RALGAPA1,RALA,inhibition,Ras
+RALGAPA1,RALB,inhibition,Ras
+RALGAPB,RALA,inhibition,Ras
+RALGAPB,RALB,inhibition,Ras
+RALGAPA2,RALA,inhibition,Ras
+RALGAPA2,RALB,inhibition,Ras
+AKT3,RALGAPA1,inhibition,Ras
+AKT3,RALGAPA1,inhibition,Ras
+AKT3,RALGAPA2,inhibition,Ras
+AKT1,RALGAPA1,inhibition,Ras
+AKT1,RALGAPB,inhibition,Ras
+AKT1,RALGAPA2,inhibition,Ras
+AKT2,RALGAPB,inhibition,Ras
+PRKACA,RASGRF1,phosphorylation,Ras
+PRKACA,RASGRF2,phosphorylation,Ras
+PRKACB,RASGRF1,phosphorylation,Ras
+PRKACB,RASGRF2,phosphorylation,Ras
+PRKACG,RASGRF1,phosphorylation,Ras
+NF1,RRAS2,phosphorylation,Ras
+AKT3,BAD,phosphorylation,Ras
+AKT1,BAD,phosphorylation,Ras
+AKT2,BAD,phosphorylation,Ras
+RAF1,MAP2K1,phosphorylation,Ras
+RAF1,MAP2K2,phosphorylation,Ras
+MAP2K1,MAPK1,phosphorylation,Ras
+MAP2K1,MAPK3,phosphorylation,Ras
+MAP2K2,MAPK1,phosphorylation,Ras
+MAP2K2,MAPK3,phosphorylation,Ras
+AKT3,RALGAPA1,phosphorylation,Ras
+AKT3,RALGAPB,phosphorylation,Ras
+AKT3,RALGAPA2,phosphorylation,Ras
+AKT1,RALGAPA1,phosphorylation,Ras
+AKT1,RALGAPB,phosphorylation,Ras
+AKT1,RALGAPA2,phosphorylation,Ras
+AKT2,RALGAPB,phosphorylation,Ras
+AKT2,RALGAPA2,phosphorylation,Ras
+NF1,RRAS2,phosphorylation,Ras
+AKT3,BAD,phosphorylation,Ras
+AKT1,BAD,phosphorylation,Ras
+AKT2,BAD,phosphorylation,Ras
+RAF1,MAP2K1,phosphorylation,Ras
+RAF1,MAP2K2,phosphorylation,Ras
+MAP2K1,MAPK1,phosphorylation,Ras
+MAP2K1,MAPK3,phosphorylation,Ras
+MAP2K2,MAPK1,phosphorylation,Ras
+MAP2K2,MAPK3,phosphorylation,Ras
+AKT3,RALGAPA1,phosphorylation,Ras
+AKT3,RALGAPB,phosphorylation,Ras
+AKT3,RALGAPA2,phosphorylation,Ras
+AKT1,RALGAPA1,phosphorylation,Ras
+AKT1,RALGAPB,phosphorylation,Ras
+AKT1,RALGAPA2,phosphorylation,Ras
+AKT2,RALGAPB,phosphorylation,Ras
+AKT2,RALGAPA2,phosphorylation,Ras
+PDPK1,AKT3,activation,Autophagy
+PDPK1,AKT3,phosphorylation,Autophagy
+PDPK1,AKT1,activation,Autophagy
+PDPK1,AKT1,phosphorylation,Autophagy
+PDPK1,AKT2,activation,Autophagy
+RRAS2,PDPK1,phosphorylation,Autophagy
+MRAS,PDPK1,activation,Autophagy
+HRAS,PDPK1,activation,Autophagy
+KRAS,PDPK1,activation,Autophagy
+NRAS,PDPK1,activation,Autophagy
+NRAS,PDPK1,activation,Autophagy
+RRAS,PDPK1,activation,Autophagy
+RRAS2,RAF1,activation,Autophagy
+MRAS,RAF1,activation,Autophagy
+HRAS,RAF1,activation,Autophagy
+KRAS,RAF1,activation,Autophagy
+NRAS,RAF1,activation,Autophagy
+RRAS,RAF1,activation,Autophagy
+MAP2K1,RAF1,activation,Autophagy
+RAF1,MAP2K2,phosphorylation,Autophagy
+RAF1,MAP2K2,activation,Autophagy
+MAP2K1,MAPK1,phosphorylation,Autophagy
+MAP2K1,MAPK1,activation,Autophagy
+MAP2K1,MAPK1,phosphorylation,Autophagy
+MAP2K1,MAPK3,activation,Autophagy
+MAP2K1,MAPK3,phosphorylation,Autophagy
+MAP2K2,MAPK1,activation,Autophagy
+MAP2K2,MAPK1,phosphorylation,Autophagy
+MAP2K2,MAPK3,activation,Autophagy
+MAP2K2,MAPK3,phosphorylation,Autophagy
+HIF1A,DDIT4,activation,Autophagy
+HIF1A,BNIP3,activation,Autophagy
+BNIP3,RHEB,inhibition,Autophagy
+IGBP1,PPP2CA,activation,Autophagy
+IGBP1,PPP2CB,activation,Autophagy
+PPP2CA,ULK1,inhibition,Autophagy
+PPP2CA,ULK1,dephosphorylation,Autophagy
+PPP2CA,ULK2,inhibition,Autophagy
+PPP2CA,ULK2,dephosphorylation,Autophagy
+PPP2CB,ULK1,inhibition,Autophagy
+PPP2CB,ULK1,dephosphorylation,Autophagy
+PPP2CB,ULK2,inhibition,Autophagy
+PPP2CB,ULK2,dephosphorylation,Autophagy
+RPS6KB1,IRS1,inhibition,Autophagy
+RPS6KB1,IRS4,inhibition,Autophagy
+RPS6KB1,IRS2,inhibition,Autophagy
+RPS6KB2,IRS1,inhibition,Autophagy
+RPS6KB2,IRS4,inhibition,Autophagy
+RPS6KB2,IRS2,inhibition,Autophagy
+ULK1,ATG2A,activation,Autophagy
+ULK1,ATG2A,phosphorylation,Autophagy
+ULK1,ATG2B,activation,Autophagy
+ULK1,ATG2B,phosphorylation,Autophagy
+ULK2,ATG2A,activation,Autophagy
+ULK2,ATG2A,phosphorylation,Autophagy
+ULK2,ATG2B,activation,Autophagy
+ULK2,ATG2B,phosphorylation,Autophagy
+SUPT20H,ATG9B,activation,Autophagy
+SUPT20H,ATG9A,activation,Autophagy
+ULK1,RB1CC1,activation,Autophagy
+ULK1,RB1CC1,phosphorylation,Autophagy
+ULK2,RB1CC1,activation,Autophagy
+ULK2,RB1CC1,phosphorylation,Autophagy
+ULK1,ATG13,activation,Autophagy
+ULK1,ATG13,phosphorylation,Autophagy
+ULK2,ATG13,activation,Autophagy
+ULK2,ATG13,phosphorylation,Autophagy
+ULK1,ATG14,activation,Autophagy
+ULK2,ATG14,activation,Autophagy
+ULK1,ATG101,binding/association,Autophagy
+ULK2,ATG101,binding/association,Autophagy
+ATG13,ATG9B,activation,Autophagy
+ATG13,ATG9A,activation,Autophagy
+ATG13,RB1CC1,activation,Autophagy
+ATG13,ATG101,activation,Autophagy
+ATG13,ATG14,activation,Autophagy
+ATG13,VMP1,activation,Autophagy
+ULK1,BECN2,activation,Autophagy
+ULK1,BECN2,phosphorylation,Autophagy
+ULK1,BECN1,activation,Autophagy
+ULK1,BECN1,phosphorylation,Autophagy
+ULK2,BECN2,activation,Autophagy
+ULK2,BECN2,phosphorylation,Autophagy
+STK11,PRKAA1,activation,Autophagy
+STK11,PRKAA1,phosphorylation,Autophagy
+STK11,PRKAA2,activation,Autophagy
+STK11,PRKAA2,phosphorylation,Autophagy
+PRKAA1,RPTOR,inhibition,Autophagy
+PRKAA1,RPTOR,phosphorylation,Autophagy
+PRKAA2,RPTOR,inhibition,Autophagy
+PRKAA2,RPTOR,phosphorylation,Autophagy
+PRKCD,MAPK8,activation,Autophagy
+PRKCD,MAPK9,activation,Autophagy
+PRKCD,MAPK10,activation,Autophagy
+CAMKK2,PRKAA1,activation,Autophagy
+CAMKK2,PRKAA1,phosphorylation,Autophagy
+CAMKK2,PRKAA2,activation,Autophagy
+CAMKK2,PRKAA2,phosphorylation,Autophagy
+MAP3K7,PRKAA1,activation,Autophagy
+MAP3K7,PRKAA1,phosphorylation,Autophagy
+MAP3K7,PRKAA2,activation,Autophagy
+MAP3K7,PRKAA2,phosphorylation,Autophagy
+ERN1,MAPK8,activation,Autophagy
+ERN1,MAPK9,activation,Autophagy
+ERN1,MAPK10,activation,Autophagy
+PRAP1,STK11,activation,Autophagy
+PRKACA,PRKAA1,inhibition,Autophagy
+PRKACA,PRKAA1,phosphorylation,Autophagy
+PRKACA,PRKAA2,inhibition,Autophagy
+PRKACA,PRKAA2,phosphorylation,Autophagy
+PRKACB,PRKAA1,inhibition,Autophagy
+PRKACB,PRKAA1,phosphorylation,Autophagy
+PRKACB,PRKAA2,inhibition,Autophagy
+PRKACB,PRKAA2,phosphorylation,Autophagy
+PRKACG,PRKAA1,inhibition,Autophagy
+PRKACG,PRKAA1,phosphorylation,Autophagy
+PRKACG,PRKAA2,inhibition,Autophagy
+PRKACG,PRKAA2,phosphorylation,Autophagy
+PRKACA,AKT1S1,activation,Autophagy
+PRKACA,AKT1S1,phosphorylation,Autophagy
+PRKACB,AKT1S1,activation,Autophagy
+PRKACB,AKT1S1,phosphorylation,Autophagy
+PRKACG,AKT1S1,activation,Autophagy
+PRKACG,AKT1S1,phosphorylation,Autophagy
+PRKACA,ULK1,inhibition,Autophagy
+PRKACA,ULK1,phosphorylation,Autophagy
+PRKACA,ULK2,inhibition,Autophagy
+PRKACA,ULK2,phosphorylation,Autophagy
+PRKACB,ULK1,inhibition,Autophagy
+PRKACB,ULK1,phosphorylation,Autophagy
+PRKACB,ULK2,inhibition,Autophagy
+PRKACB,ULK2,phosphorylation,Autophagy
+PRKACG,ULK1,inhibition,Autophagy
+PRKACG,ULK1,phosphorylation,Autophagy
+PRKACG,ULK2,inhibition,Autophagy
+PRKACG,ULK2,phosphorylation,Autophagy
+PRKACA,ATG13,inhibition,Autophagy
+PRKACA,ATG13,phosphorylation,Autophagy
+PRKACB,ATG13,inhibition,Autophagy
+PRKACB,ATG13,phosphorylation,Autophagy
+PRKACG,ATG13,inhibition,Autophagy
+PRKACG,ATG13,phosphorylation,Autophagy
+ITPR1,BECN2,inhibition,Autophagy
+ITPR1,BECN1,inhibition,Autophagy
+AMBRA1,BECN2,activation,Autophagy
+AMBRA1,BECN2,phosphorylation,Autophagy
+AMBRA1,BECN1,activation,Autophagy
+AMBRA1,BECN1,phosphorylation,Autophagy
+AMBRA1,TRAF6,activation,Autophagy
+TRAF6,ULK1,activation,Autophagy
+TRAF6,ULK1,ubiquitination,Autophagy
+TRAF6,ULK2,activation,Autophagy
+TRAF6,ULK2,ubiquitination,Autophagy
+VMP1,BECN2,activation,Autophagy
+VMP1,BECN1,activation,Autophagy
+TP53INP2,VMP1,activation,Autophagy
+STX17,ATG14,activation,Autophagy
+UVRAG,ATG14,inhibition,Autophagy
+UVRAG,RUBCN,activation,Autophagy
+BECN2,NRBF2,activation,Autophagy
+BECN1,NRBF2,activation,Autophagy
+BECN2,PIK3C3,activation,Autophagy
+BECN1,PIK3C3,activation,Autophagy
+NRBF2,PIK3C3,activation,Autophagy
+PIK3R4,PIK3C3,activation,Autophagy
+DAPK1,BECN2,activation,Autophagy
+DAPK1,BECN2,phosphorylation,Autophagy
+DAPK1,BECN1,activation,Autophagy
+DAPK1,BECN1,phosphorylation,Autophagy
+DAPK3,BECN2,activation,Autophagy
+DAPK3,BECN2,phosphorylation,Autophagy
+DAPK3,BECN1,activation,Autophagy
+DAPK3,BECN1,phosphorylation,Autophagy
+DAPK2,BECN2,activation,Autophagy
+DAPK2,BECN2,phosphorylation,Autophagy
+DAPK2,BECN1,activation,Autophagy
+DAPK2,BECN1,phosphorylation,Autophagy
+EIF2AK3,EIF2S1,activation,Autophagy
+EIF2AK3,EIF2S1,phosphorylation,Autophagy
+EIF2AK4,EIF2S1,activation,Autophagy
+EIF2AK4,EIF2S1,phosphorylation,Autophagy
+HMGB1,BECN2,activation,Autophagy
+HMGB1,BECN1,activation,Autophagy
+TP53INP2,GABARAP,activation,Autophagy
+TP53INP2,GABARAPL2,activation,Autophagy
+TP53INP2,GABARAPL1,activation,Autophagy
+TP53INP2,MAP1LC3C,activation,Autophagy
+TP53INP2,MAP1LC3B2,activation,Autophagy
+TP53INP2,MAP1LC3B,activation,Autophagy
+TP53INP2,MAP1LC3A,activation,Autophagy
+PRKACA,GABARAP,inhibition,Autophagy
+PRKACA,GABARAP,phosphorylation,Autophagy
+PRKACA,GABARAPL2,inhibition,Autophagy
+PRKACA,GABARAPL2,phosphorylation,Autophagy
+PRKACA,GABARAPL1,inhibition,Autophagy
+PRKACA,GABARAPL1,phosphorylation,Autophagy
+PRKACA,MAP1LC3C,inhibition,Autophagy
+PRKACA,MAP1LC3C,phosphorylation,Autophagy
+PRKACA,MAP1LC3B2,inhibition,Autophagy
+PRKACA,MAP1LC3B2,phosphorylation,Autophagy
+PRKACA,MAP1LC3B,inhibition,Autophagy
+PRKACA,MAP1LC3B,phosphorylation,Autophagy
+PRKACA,MAP1LC3A,inhibition,Autophagy
+PRKACA,MAP1LC3A,phosphorylation,Autophagy
+PRKACB,GABARAP,inhibition,Autophagy
+PRKACB,GABARAP,phosphorylation,Autophagy
+PRKACB,GABARAPL2,inhibition,Autophagy
+PRKACB,GABARAPL2,phosphorylation,Autophagy
+PRKACB,GABARAPL1,inhibition,Autophagy
+PRKACB,GABARAPL1,phosphorylation,Autophagy
+PRKACB,MAP1LC3C,inhibition,Autophagy
+PRKACB,MAP1LC3C,phosphorylation,Autophagy
+PRKACB,MAP1LC3B2,inhibition,Autophagy
+PRKACB,MAP1LC3B2,phosphorylation,Autophagy
+PRKACB,MAP1LC3B,inhibition,Autophagy
+PRKACB,MAP1LC3B,phosphorylation,Autophagy
+PRKACB,MAP1LC3A,inhibition,Autophagy
+PRKACB,MAP1LC3A,phosphorylation,Autophagy
+PRKACG,GABARAP,inhibition,Autophagy
+PRKACG,GABARAP,phosphorylation,Autophagy
+PRKACG,GABARAPL2,inhibition,Autophagy
+PRKACG,GABARAPL2,phosphorylation,Autophagy
+PRKACG,GABARAPL1,inhibition,Autophagy
+PRKACG,GABARAPL1,phosphorylation,Autophagy
+PRKACG,MAP1LC3C,inhibition,Autophagy
+PRKACG,MAP1LC3C,phosphorylation,Autophagy
+PRKACG,MAP1LC3B2,inhibition,Autophagy
+PRKACG,MAP1LC3B2,phosphorylation,Autophagy
+PRKACG,MAP1LC3B,inhibition,Autophagy
+PRKACG,MAP1LC3B,phosphorylation,Autophagy
+ATF6B,DDIT3,activation,ER protein processing
+ATF6,DDIT3,activation,ER protein processing
+ERN1,TRAF2,activation,ER protein processing
+TRAF2,MAP3K5,activation,ER protein processing
+MAP3K5,MAP2K7,activation,ER protein processing
+MAP2K7,MAPK8,activation,ER protein processing
+MAP2K7,MAPK9,activation,ER protein processing
+MAP2K7,MAPK10,activation,ER protein processing
+CAPN1,CASP12,activation,ER protein processing
+CAPN2,CASP12,activation,ER protein processing
+ERN1,XBP1,activation,ER protein processing
+XBP1,DDIT3,activation,ER protein processing
+ATF4,PPP1R15A,activation,ER protein processing
+PPP1R15A,EIF2S1,inhibition,ER protein processing
+PPP1R15A,EIF2S1,phosphorylation,ER protein processing
+DDIT3,BCL2,inhibition,ER protein processing
+BCL2,BAK1,inhibition,ER protein processing
+BCL2,BAX,inhibition,ER protein processing
+ERO1A,PDIA6,activation,ER protein processing
+ERO1A,ERP29,activation,ER protein processing
+ERO1A,P4HB,activation,ER protein processing
+ERO1A,TXNDC5,activation,ER protein processing
+ERO1A,PDIA4,activation,ER protein processing
+ERO1B,PDIA6,activation,ER protein processing
+ERO1B,ERP29,activation,ER protein processing
+ERO1B,P4HB,activation,ER protein processing
+ERO1B,TXNDC5,activation,ER protein processing
+ERO1B,PDIA4,activation,ER protein processing
+NPLOC4,VCP,binding/association,ER protein processing
+PREB,SAR1B,activation,ER protein processing
+PREB,SAR1A,activation,ER protein processing
+SVIP,UBXN2A,inhibition,ER protein processing
+SVIP,UBXN4,inhibition,ER protein processing
+SVIP,UBXN1,inhibition,ER protein processing
+SVIP,NSFL1C,inhibition,ER protein processing
+SVIP,UBXN8,inhibition,ER protein processing
+SVIP,UBXN6,inhibition,ER protein processing
+SVIP,VCP,binding/association,ER protein processing
+WFS1,ATF6B,inhibition,ER protein processing
+WFS1,ATF6,inhibition,ER protein processing
+NPLOC4,UFD1,binding/association,ER protein processing
+SVIP,NPLOC4,inhibition,ER protein processing
+BAK1,CAPN1,activation,ER protein processing
+BAK1,CAPN2,activation,ER protein processing
+BAX,CAPN1,activation,ER protein processing
+BAX,CAPN2,activation,ER protein processing
+CASP3,XKR7,activation,Endocytosis
+CASP3,XKR9,activation,Endocytosis
+CASP3,XKR8,activation,Endocytosis
+CASP3,ATP8A1,inhibition,Endocytosis
+CASP3,ATP11B,inhibition,Endocytosis
+CASP3,ATP11A,inhibition,Endocytosis
+CASP3,ATP11C,inhibition,Endocytosis
+CASP3,ATP8A2,inhibition,Endocytosis
+MFGE8,ITGAV,binding/association,Endocytosis
+ITGAV,ITGB3,binding/association,Endocytosis
+ITGAV,ITGB5,binding/association,Endocytosis
+ITGB3,PTK2,binding/association,Endocytosis
+ITGB5,PTK2,binding/association,Endocytosis
+PTK2,BCAR1,phosphorylation,Endocytosis
+BCAR1,CRK,binding/association,Endocytosis
+BCAR1,CRKL,binding/association,Endocytosis
+CRK,DOCK1,activation,Endocytosis
+CRK,DOCK1,binding/association,Endocytosis
+CRKL,DOCK1,activation,Endocytosis
+CRKL,DOCK1,binding/association,Endocytosis
+DNMT3A,DUSP2,inhibition,Endocytosis
+DNMT3A,DUSP4,inhibition,Endocytosis
+DNMT3A,DUSP5,inhibition,Endocytosis
+DNMT3A,DUSP7,inhibition,Endocytosis
+DNMT3A,DUSP8,inhibition,Endocytosis
+DNMT3A,DUSP16,inhibition,Endocytosis
+DUSP2,MAPK1,inhibition,Endocytosis
+DUSP2,MAPK3,inhibition,Endocytosis
+DUSP4,MAPK1,inhibition,Endocytosis
+DUSP4,MAPK3,inhibition,Endocytosis
+DUSP5,MAPK1,inhibition,Endocytosis
+DUSP5,MAPK3,inhibition,Endocytosis
+DUSP7,MAPK1,inhibition,Endocytosis
+DUSP7,MAPK3,inhibition,Endocytosis
+DUSP8,MAPK1,inhibition,Endocytosis
+DUSP8,MAPK3,inhibition,Endocytosis
+DUSP16,MAPK1,inhibition,Endocytosis
+DUSP16,MAPK3,inhibition,Endocytosis
+MERTK,MAPK1,activation,Endocytosis
+MERTK,MAPK3,activation,Endocytosis
+ADAM10,MERTK,inhibition,Endocytosis
+ADAM17,MERTK,inhibition,Endocytosis
+ADAM9,MERTK,inhibition,Endocytosis
+MAPK1,ATP2A1,expression,Endocytosis
+MAPK1,ATP2A2,expression,Endocytosis
+MAPK1,ATP2A3,expression,Endocytosis
+MAPK3,ATP2A1,expression,Endocytosis
+MAPK3,ATP2A2,expression,Endocytosis
+MAPK3,ATP2A3,expression,Endocytosis
+ATP2A1,CAMK2A,inhibition,Endocytosis
+ATP2A1,CAMK2B,inhibition,Endocytosis
+ATP2A1,CAMK2D,inhibition,Endocytosis
+ATP2A1,CAMK2G,inhibition,Endocytosis
+ATP2A2,CAMK2A,inhibition,Endocytosis
+ATP2A2,CAMK2B,inhibition,Endocytosis
+ATP2A2,CAMK2D,inhibition,Endocytosis
+ATP2A2,CAMK2G,inhibition,Endocytosis
+ATP2A3,CAMK2A,inhibition,Endocytosis
+ATP2A3,CAMK2B,inhibition,Endocytosis
+ATP2A3,CAMK2D,inhibition,Endocytosis
+ATP2A3,CAMK2G,inhibition,Endocytosis
+CAMK2A,MAPK14,phosphorylation,Endocytosis
+CAMK2A,MAPK11,phosphorylation,Endocytosis
+CAMK2A,MAPK13,phosphorylation,Endocytosis
+CAMK2A,MAPK12,phosphorylation,Endocytosis
+CAMK2B,MAPK14,phosphorylation,Endocytosis
+CAMK2B,MAPK11,phosphorylation,Endocytosis
+CAMK2B,MAPK13,phosphorylation,Endocytosis
+CAMK2B,MAPK12,phosphorylation,Endocytosis
+CAMK2D,MAPK14,phosphorylation,Endocytosis
+CAMK2D,MAPK11,phosphorylation,Endocytosis
+CAMK2D,MAPK13,phosphorylation,Endocytosis
+CAMK2D,MAPK12,phosphorylation,Endocytosis
+CAMK2G,MAPK14,phosphorylation,Endocytosis
+CAMK2G,MAPK11,phosphorylation,Endocytosis
+CAMK2G,MAPK13,phosphorylation,Endocytosis
+CAMK2G,MAPK12,phosphorylation,Endocytosis
+MAPK14,MAPKAPK2,phosphorylation,Endocytosis
+MAPK11,MAPKAPK2,phosphorylation,Endocytosis
+MAPK13,MAPKAPK2,phosphorylation,Endocytosis
+MAPK12,MAPKAPK2,phosphorylation,Endocytosis
+MAPKAPK2,ALOX5,phosphorylation,Endocytosis
+SIRPB1,PTPN6,activation,Endocytosis
+SIRPA,PTPN6,activation,Endocytosis
+SIRPG,PTPN6,activation,Endocytosis
+SIRPB1,PTPN11,activation,Endocytosis
+SIRPA,PTPN11,activation,Endocytosis
+SIRPG,PTPN11,activation,Endocytosis
+SIRPB1,SIGLEC10,activation,Endocytosis
+SIRPA,SIGLEC10,activation,Endocytosis
+SIRPG,SIGLEC10,activation,Endocytosis
+SIRPB1,PECAM1,activation,Endocytosis
+SIRPA,PECAM1,activation,Endocytosis
+SIRPG,PECAM1,activation,Endocytosis
+PECAM1,PTPN6,activation,Endocytosis
+SIGLEC10,PTPN6,activation,Endocytosis
+SIGLEC10,PTPN11,activation,Endocytosis
+RAF1,MAP2K1,phosphorylation,mTOR
+RAF1,MAP2K2,activation,mTOR
+RAF1,MAP2K2,phosphorylation,mTOR
+BRAF,MAP2K1,activation,mTOR
+BRAF,MAP2K1,phosphorylation,mTOR
+BRAF,MAP2K2,activation,mTOR
+BRAF,MAP2K2,phosphorylation,mTOR
+MAP2K1,MAPK1,activation,mTOR
+MAP2K1,MAPK1,phosphorylation,mTOR
+MAP2K1,MAPK3,activation,mTOR
+MAP2K1,MAPK3,phosphorylation,mTOR
+MAP2K2,MAPK1,activation,mTOR
+MAP2K2,MAPK1,phosphorylation,mTOR
+MAP2K2,MAPK3,activation,mTOR
+MAP2K2,MAPK3,phosphorylation,mTOR
+MAPK1,RPS6KA6,activation,mTOR
+MAPK1,RPS6KA6,phosphorylation,mTOR
+MAPK1,RPS6KA1,activation,mTOR
+MAPK1,RPS6KA1,phosphorylation,mTOR
+MAPK1,RPS6KA2,activation,mTOR
+MAPK1,RPS6KA2,phosphorylation,mTOR
+MAPK1,RPS6KA3,activation,mTOR
+MAPK1,RPS6KA3,phosphorylation,mTOR
+MAPK3,RPS6KA6,activation,mTOR
+MAPK3,RPS6KA6,phosphorylation,mTOR
+MAPK3,RPS6KA1,activation,mTOR
+MAPK3,RPS6KA1,phosphorylation,mTOR
+MAPK3,RPS6KA2,activation,mTOR
+MAPK3,RPS6KA2,phosphorylation,mTOR
+MAPK3,RPS6KA3,activation,mTOR
+MAPK3,RPS6KA3,phosphorylation,mTOR
+PDPK1,AKT3,activation,mTOR
+PDPK1,AKT3,phosphorylation,mTOR
+PDPK1,AKT1,activation,mTOR
+PDPK1,AKT1,phosphorylation,mTOR
+PDPK1,AKT2,activation,mTOR
+PDPK1,AKT2,phosphorylation,mTOR
+IRS1,PIK3CA,activation,mTOR
+IRS1,PIK3CA,phosphorylation,mTOR
+IRS1,PIK3CB,activation,mTOR
+IRS1,PIK3CB,phosphorylation,mTOR
+IRS1,PIK3CD,activation,mTOR
+IRS1,PIK3CD,phosphorylation,mTOR
+IRS1,PIK3R1,activation,mTOR
+IRS1,PIK3R1,phosphorylation,mTOR
+IRS1,PIK3R2,activation,mTOR
+IRS1,PIK3R2,phosphorylation,mTOR
+IRS1,PIK3R3,activation,mTOR
+IRS1,PIK3R3,phosphorylation,mTOR
+RPS6KB1,IRS1,inhibition,mTOR
+RPS6KB1,IRS1,phosphorylation,mTOR
+RPS6KB2,IRS1,inhibition,mTOR
+RPS6KB2,IRS1,phosphorylation,mTOR
+GRB10,IGF1R,inhibition,mTOR
+GRB10,INSR,inhibition,mTOR
+DVL1,GSK3B,inhibition,mTOR
+DVL2,GSK3B,inhibition,mTOR
+DVL3,GSK3B,inhibition,mTOR
+DEPTOR,MTOR,inhibition,mTOR
+AKT1S1,RPTOR,inhibition,mTOR
+AKT1S1,MTOR,inhibition,mTOR
+AKT3,AKT1S1,inhibition,mTOR
+AKT3,AKT1S1,phosphorylation,mTOR
+AKT1,AKT1S1,inhibition,mTOR
+AKT1,AKT1S1,phosphorylation,mTOR
+AKT2,AKT1S1,inhibition,mTOR
+AKT2,AKT1S1,phosphorylation,mTOR
+NPRL2,RRAGB,inhibition,mTOR
+NPRL2,RRAGA,inhibition,mTOR
+NPRL3,RRAGB,inhibition,mTOR
+NPRL3,RRAGA,inhibition,mTOR
+DEPDC5,RRAGB,inhibition,mTOR
+DEPDC5,RRAGA,inhibition,mTOR
+MIOS,NPRL2,inhibition,mTOR
+MIOS,NPRL3,inhibition,mTOR
+MIOS,DEPDC5,inhibition,mTOR
+SEC13,NPRL2,inhibition,mTOR
+SEC13,NPRL3,inhibition,mTOR
+SEC13,DEPDC5,inhibition,mTOR
+WDR59,NPRL2,inhibition,mTOR
+WDR59,NPRL3,inhibition,mTOR
+WDR59,DEPDC5,inhibition,mTOR
+SEH1L,NPRL2,inhibition,mTOR
+SEH1L,NPRL3,inhibition,mTOR
+SEH1L,DEPDC5,inhibition,mTOR
+WDR24,NPRL2,inhibition,mTOR
+WDR24,NPRL3,inhibition,mTOR
+WDR24,DEPDC5,inhibition,mTOR
+SESN2,MIOS,inhibition,mTOR
+SESN2,SEC13,inhibition,mTOR
+SESN2,WDR59,inhibition,mTOR
+SESN2,SEH1L,inhibition,mTOR
+SESN2,WDR24,inhibition,mTOR
+SKP2,RRAGB,inhibition,mTOR
+SKP2,RRAGB,ubiquitination,mTOR
+SKP2,RRAGA,inhibition,mTOR
+SKP2,RRAGA,ubiquitination,mTOR
+RNF152,RRAGB,inhibition,mTOR
+RNF152,RRAGB,ubiquitination,mTOR
+RNF152,RRAGA,inhibition,mTOR
+RNF152,RRAGA,ubiquitination,mTOR
+RPS6KB1,EIF4B,activation,mTOR
+RPS6KB1,EIF4B,phosphorylation,mTOR
+RPS6KB2,EIF4B,activation,mTOR
+RPS6KB2,EIF4B,phosphorylation,mTOR
+RPS6KB1,RPS6,activation,mTOR
+RHEB,AKT1S1,activation,AMPK
+MTOR,RPS6KB1,activation,AMPK
+MTOR,RPS6KB2,activation,AMPK
+RPTOR,RPS6KB1,activation,AMPK
+RPTOR,RPS6KB2,activation,AMPK
+AKT1S1,RPS6KB1,activation,AMPK
+AKT1S1,RPS6KB2,activation,AMPK
+MTOR,PPARG,activation,AMPK
+RPTOR,PPARG,activation,AMPK
+AKT1S1,PPARG,activation,AMPK
+PRKAG2,ELAVL1,inhibition,AMPK
+PRKAG3,ELAVL1,inhibition,AMPK
+PRKAA1,ELAVL1,inhibition,AMPK
+PRKAA2,ELAVL1,inhibition,AMPK
+PRKAB1,ELAVL1,inhibition,AMPK
+PRKAB2,ELAVL1,inhibition,AMPK
+EEF2K,EEF2,inhibition,AMPK
+MTOR,EIF4EBP1,inhibition,AMPK
+RPTOR,EIF4EBP1,inhibition,AMPK
+AKT1S1,EIF4EBP1,inhibition,AMPK
+MTOR,ULK1,inhibition,AMPK
+RPTOR,ULK1,inhibition,AMPK
+AKT1S1,ULK1,inhibition,AMPK
+CAMKK2,PRKAG2,activation,AMPK
+CAMKK2,PRKAG2,phosphorylation,AMPK
+CAMKK2,PRKAG3,activation,AMPK
+CAMKK2,PRKAG3,phosphorylation,AMPK
+CAMKK2,PRKAA1,activation,AMPK
+CAMKK2,PRKAA1,phosphorylation,AMPK
+CAMKK2,PRKAA2,activation,AMPK
+CAMKK2,PRKAA2,phosphorylation,AMPK
+CAMKK2,PRKAB1,activation,AMPK
+CAMKK2,PRKAB1,phosphorylation,AMPK
+CAMKK2,PRKAB2,activation,AMPK
+CAMKK2,PRKAB2,phosphorylation,AMPK
+CAMKK2,PRKAG1,activation,AMPK
+CAMKK2,PRKAG1,phosphorylation,AMPK
+MAP3K7,PRKAG2,activation,AMPK
+MAP3K7,PRKAG2,phosphorylation,AMPK
+MAP3K7,PRKAG3,activation,AMPK
+MAP3K7,PRKAG3,phosphorylation,AMPK
+MAP3K7,PRKAA1,activation,AMPK
+MAP3K7,PRKAA1,phosphorylation,AMPK
+MAP3K7,PRKAA2,activation,AMPK
+MAP3K7,PRKAA2,phosphorylation,AMPK
+MAP3K7,PRKAB1,activation,AMPK
+MAP3K7,PRKAB1,phosphorylation,AMPK
+MAP3K7,PRKAB2,activation,AMPK
+MAP3K7,PRKAB2,phosphorylation,AMPK
+MAP3K7,PRKAG1,activation,AMPK
+MAP3K7,PRKAG1,phosphorylation,AMPK
+PRKAG2,PFKFB1,activation,AMPK
+PRKAG2,PFKFB1,phosphorylation,AMPK
+PRKAG2,PFKFB2,activation,AMPK
+PRKAG2,PFKFB2,phosphorylation,AMPK
+PRKAG2,PFKFB3,activation,AMPK
+PRKAG2,PFKFB3,phosphorylation,AMPK
+PRKAG2,PFKFB4,activation,AMPK
+PRKAG2,PFKFB4,phosphorylation,AMPK
+PRKAG3,PFKFB1,activation,AMPK
+PRKAG3,PFKFB1,phosphorylation,AMPK
+PRKAG3,PFKFB2,activation,AMPK
+PRKAG3,PFKFB2,phosphorylation,AMPK
+PRKAG3,PFKFB3,activation,AMPK
+PRKAG3,PFKFB3,phosphorylation,AMPK
+PRKAG3,PFKFB4,activation,AMPK
+PRKAG3,PFKFB4,phosphorylation,AMPK
+PRKAA1,PFKFB1,activation,AMPK
+PRKAA1,PFKFB1,phosphorylation,AMPK
+PRKAA1,PFKFB2,activation,AMPK
+PRKAA1,PFKFB2,phosphorylation,AMPK
+PRKAA1,PFKFB3,activation,AMPK
+PRKAA1,PFKFB3,phosphorylation,AMPK
+PRKAA1,PFKFB4,activation,AMPK
+PRKAA1,PFKFB4,phosphorylation,AMPK
+PRKAA2,PFKFB1,activation,AMPK
+PRKAA2,PFKFB1,phosphorylation,AMPK
+PRKAA2,PFKFB2,activation,AMPK
+PRKAA2,PFKFB2,phosphorylation,AMPK
+PRKAA2,PFKFB3,activation,AMPK
+PRKAA2,PFKFB3,phosphorylation,AMPK
+PRKAA2,PFKFB4,activation,AMPK
+PRKAA2,PFKFB4,phosphorylation,AMPK
+PRKAB1,PFKFB1,activation,AMPK
+PRKAB1,PFKFB1,phosphorylation,AMPK
+PRKAB1,PFKFB2,activation,AMPK
+PRKAB1,PFKFB2,phosphorylation,AMPK
+PRKAB1,PFKFB3,activation,AMPK
+PRKAB1,PFKFB3,phosphorylation,AMPK
+PRKAB1,PFKFB4,activation,AMPK
+PRKAB1,PFKFB4,phosphorylation,AMPK
+PRKAB2,PFKFB1,activation,AMPK
+PRKAB2,PFKFB1,phosphorylation,AMPK
+PRKAB2,PFKFB2,activation,AMPK
+PRKAB2,PFKFB2,phosphorylation,AMPK
+PRKAB2,PFKFB3,activation,AMPK
+PRKAB2,PFKFB3,phosphorylation,AMPK
+PRKAB2,PFKFB4,activation,AMPK
+PRKAB2,PFKFB4,phosphorylation,AMPK
+PRKAG1,PFKFB1,activation,AMPK
+PRKAG1,PFKFB1,phosphorylation,AMPK
+PRKAG1,PFKFB2,activation,AMPK
+PRKAG1,PFKFB2,phosphorylation,AMPK
+PRKAG1,PFKFB3,activation,AMPK
+PRKAG1,PFKFB3,phosphorylation,AMPK
+PRKAG1,PFKFB4,activation,AMPK
+PRKAG1,PFKFB4,phosphorylation,AMPK
+PRKAG2,EEF2K,activation,AMPK
+PRKAG2,EEF2K,phosphorylation,AMPK
+PRKAG3,EEF2K,activation,AMPK
+PRKAG3,EEF2K,phosphorylation,AMPK
+PRKAA1,EEF2K,activation,AMPK
+PRKAA1,EEF2K,phosphorylation,AMPK
+PRKAA2,EEF2K,activation,AMPK
+PRKAA2,EEF2K,phosphorylation,AMPK
+PRKAB1,EEF2K,activation,AMPK
+PRKAB1,EEF2K,phosphorylation,AMPK
+PRKAB2,EEF2K,activation,AMPK
+PRKAB2,EEF2K,phosphorylation,AMPK
+PRKAG1,EEF2K,activation,AMPK
+PRKAG1,EEF2K,phosphorylation,AMPK
+PRKAG2,PPARGC1A,activation,AMPK
+PRKAG2,PPARGC1A,phosphorylation,AMPK
+PRKAG3,PPARGC1A,activation,AMPK
+PRKAG3,PPARGC1A,phosphorylation,AMPK
+PRKAA1,PPARGC1A,activation,AMPK
+PRKAA1,PPARGC1A,phosphorylation,AMPK
+PRKAA2,PPARGC1A,activation,AMPK
+PRKAA2,PPARGC1A,phosphorylation,AMPK
+PRKAB1,PPARGC1A,activation,AMPK
+PRKAB1,PPARGC1A,phosphorylation,AMPK
+PRKAB2,PPARGC1A,activation,AMPK
+PRKAB2,PPARGC1A,phosphorylation,AMPK
+PRKAG1,PPARGC1A,activation,AMPK
+PRKAG1,PPARGC1A,phosphorylation,AMPK
+PRKAG2,MLYCD,activation,AMPK
+PRKAG2,MLYCD,phosphorylation,AMPK
+PRKAG3,MLYCD,activation,AMPK
+PRKAG3,MLYCD,phosphorylation,AMPK
+PRKAG3,MLYCD,activation,AMPK
+PRKAA1,MLYCD,phosphorylation,AMPK
+PRKAA1,MLYCD,activation,AMPK
+PRKAA2,MLYCD,phosphorylation,AMPK
+PRKAA2,MLYCD,activation,AMPK
+PRKAB1,MLYCD,phosphorylation,AMPK
+PRKAB1,MLYCD,activation,AMPK
+PRKAB2,MLYCD,phosphorylation,AMPK
+PRKAB2,MLYCD,activation,AMPK
+PRKAG1,MLYCD,phosphorylation,AMPK
+PRKAG1,MLYCD,activation,AMPK
+PDPK1,AKT3,phosphorylation,AMPK
+PDPK1,AKT3,activation,AMPK
+PDPK1,AKT1,phosphorylation,AMPK
+PDPK1,AKT1,activation,AMPK
+PDPK1,AKT2,phosphorylation,AMPK
+PDPK1,AKT2,inhibition,AMPK
+PRKAG2,CRTC2,phosphorylation,AMPK
+PRKAG2,CRTC2,inhibition,AMPK
+PRKAG3,CRTC2,phosphorylation,AMPK
+PRKAG3,CRTC2,inhibition,AMPK
+PRKAA1,CRTC2,inhibition,AMPK
+PRKAA1,CRTC2,phosphorylation,AMPK
+PRKAA2,CRTC2,inhibition,AMPK
+PRKAA2,CRTC2,phosphorylation,AMPK
+PRKAB1,CRTC2,inhibition,AMPK
+PRKAB1,CRTC2,phosphorylation,AMPK
+PRKAB2,CRTC2,inhibition,AMPK
+PRKAB2,CRTC2,phosphorylation,AMPK
+PRKAG1,CRTC2,inhibition,AMPK
+PRKAG1,CRTC2,phosphorylation,AMPK
+PRKAG2,GYS1,inhibition,AMPK
+PRKAG2,GYS1,phosphorylation,AMPK
+PRKAG2,GYS2,inhibition,AMPK
+PRKAG2,GYS2,phosphorylation,AMPK
+PRKAG3,GYS1,inhibition,AMPK
+PRKAG3,GYS1,phosphorylation,AMPK
+PRKAG3,GYS2,inhibition,AMPK
+PRKAG3,GYS2,phosphorylation,AMPK
+PRKAA1,GYS1,inhibition,AMPK
+PRKAA1,GYS1,phosphorylation,AMPK
+PRKAA1,GYS2,inhibition,AMPK
+PRKAA1,GYS2,phosphorylation,AMPK
+PRKAA2,GYS1,inhibition,AMPK
+PRKAA2,GYS1,phosphorylation,AMPK
+PRKAA2,GYS2,inhibition,AMPK
+PRKAA2,GYS2,phosphorylation,AMPK
+PRKAB1,GYS1,inhibition,AMPK
+PRKAB1,GYS1,phosphorylation,AMPK
+PRKAB1,GYS2,inhibition,AMPK
+PRKAB1,GYS2,phosphorylation,AMPK
+PRKAB2,GYS1,inhibition,AMPK
+PRKAB2,GYS1,phosphorylation,AMPK
+PRKAB2,GYS2,inhibition,AMPK
+PRKAB2,GYS2,phosphorylation,AMPK
+PRKAG1,GYS1,inhibition,AMPK
+PRKAG1,GYS1,phosphorylation,AMPK
+PRKAG1,GYS2,inhibition,AMPK
+PRKAG1,GYS2,phosphorylation,AMPK
+PRKAG2,LIPE,inhibition,AMPK
+PRKAG2,LIPE,phosphorylation,AMPK
+PRKAG3,LIPE,inhibition,AMPK
+PRKAG3,LIPE,phosphorylation,AMPK
+PRKAA1,LIPE,inhibition,AMPK
+PRKAA1,LIPE,phosphorylation,AMPK
+PRKAA2,LIPE,inhibition,AMPK
+PRKAA2,LIPE,phosphorylation,AMPK
+PRKAB1,LIPE,inhibition,AMPK
+PRKAB1,LIPE,phosphorylation,AMPK
+PRKAB2,LIPE,inhibition,AMPK
+PRKAB2,LIPE,phosphorylation,AMPK
+PRKAG1,LIPE,inhibition,AMPK
+PRKAG1,LIPE,phosphorylation,AMPK
+PRKAG2,HMGCR,inhibition,AMPK
+PRKAG2,HMGCR,phosphorylation,AMPK
+PRKAG3,HMGCR,inhibition,AMPK
+PRKAG3,HMGCR,phosphorylation,AMPK
+PRKAA1,HMGCR,inhibition,AMPK
+PRKAA1,HMGCR,phosphorylation,AMPK
+PRKAA2,HMGCR,inhibition,AMPK
+PRKAA2,HMGCR,phosphorylation,AMPK
+PRKAB1,HMGCR,inhibition,AMPK
+PRKAB1,HMGCR,phosphorylation,AMPK
+PRKAB2,HMGCR,inhibition,AMPK
+PRKAB2,HMGCR,phosphorylation,AMPK
+PRKAG1,HMGCR,inhibition,AMPK
+PRKAG1,HMGCR,phosphorylation,AMPK
+PRKAG2,ACACB,inhibition,AMPK
+PRKAG2,ACACB,phosphorylation,AMPK
+PRKAG3,ACACB,inhibition,AMPK
+PRKAA1,ACACB,phosphorylation,AMPK
+PRKAA1,ACACB,inhibition,AMPK
+PRKAA2,ACACB,phosphorylation,AMPK
+PRKAA2,ACACB,inhibition,AMPK
+PRKAB1,ACACB,phosphorylation,AMPK
+PRKAB1,ACACB,inhibition,AMPK
+PRKAB2,ACACB,phosphorylation,AMPK
+PRKAB2,ACACB,inhibition,AMPK
+PRKAG1,ACACB,phosphorylation,AMPK
+PRKAG1,ACACB,inhibition,AMPK
+PRKAG1,ACACB,phosphorylation,AMPK
+PRKAG2,ACACA,inhibition,AMPK
+PRKAG2,ACACA,phosphorylation,AMPK
+PRKAG3,ACACA,inhibition,AMPK
+PRKAG3,ACACA,phosphorylation,AMPK
+PRKAA1,ACACA,inhibition,AMPK
+PRKAA1,ACACA,phosphorylation,AMPK
+PRKAA2,ACACA,inhibition,AMPK
+PRKAA2,ACACA,phosphorylation,AMPK
+PRKAB1,ACACA,inhibition,AMPK
+PRKAB1,ACACA,phosphorylation,AMPK
+PRKAG3,MTOR,inhibition,AMPK
+PRKAG3,MTOR,phosphorylation,AMPK
+PRKAG3,RPTOR,inhibition,AMPK
+PRKAG3,RPTOR,phosphorylation,AMPK
+PRKAG3,AKT1S1,inhibition,AMPK
+PRKAG3,AKT1S1,phosphorylation,AMPK
+PRKAA1,MTOR,inhibition,AMPK
+PRKAA1,MTOR,phosphorylation,AMPK
+PRKAA1,RPTOR,inhibition,AMPK
+PRKAA1,RPTOR,phosphorylation,AMPK
+PRKAA1,AKT1S1,inhibition,AMPK
+PRKAA1,AKT1S1,phosphorylation,AMPK
+PRKAA2,MTOR,inhibition,AMPK
+PRKAA2,MTOR,phosphorylation,AMPK
+PRKAA2,RPTOR,inhibition,AMPK
+PRKAA2,RPTOR,phosphorylation,AMPK
+PRKAA2,AKT1S1,inhibition,AMPK
+PRKAA2,AKT1S1,phosphorylation,AMPK
+PRKAB1,MTOR,inhibition,AMPK
+PRKAB1,MTOR,phosphorylation,AMPK
+PRKAB1,RPTOR,inhibition,AMPK
+PRKAB1,RPTOR,phosphorylation,AMPK
+PRKAB1,AKT1S1,inhibition,AMPK
+PRKAB1,AKT1S1,phosphorylation,AMPK
+PRKAB2,MTOR,inhibition,AMPK
+PRKAB2,MTOR,phosphorylation,AMPK
+PRKAB2,RPTOR,inhibition,AMPK
+PRKAB2,RPTOR,phosphorylation,AMPK
+PRKAB2,AKT1S1,inhibition,AMPK
+PRKAB2,AKT1S1,phosphorylation,AMPK
+PRKAG2,TBC1D1,inhibition,AMPK
+PRKAG2,TBC1D1,phosphorylation,AMPK
+PRKAG3,TBC1D1,inhibition,AMPK
+PRKAG3,TBC1D1,phosphorylation,AMPK
+PRKAA1,TBC1D1,inhibition,AMPK
+PRKAA1,TBC1D1,phosphorylation,AMPK
+PRKAA2,TBC1D1,inhibition,AMPK
+PRKAA2,TBC1D1,phosphorylation,AMPK
+PRKAB1,TBC1D1,inhibition,AMPK
+PRKAB1,TBC1D1,phosphorylation,AMPK
+PRKAB2,TBC1D1,inhibition,AMPK
+PRKAB2,TBC1D1,phosphorylation,AMPK
+PRKAG1,TBC1D1,inhibition,AMPK
+PRKAG1,TBC1D1,phosphorylation,AMPK
+TBC1D1,RAB10,inhibition,AMPK
+TBC1D1,RAB8A,inhibition,AMPK
+TBC1D1,RAB14,inhibition,AMPK
+TBC1D1,RAB2A,inhibition,AMPK
+TBC1D1,RAB11B,inhibition,AMPK
+ADRA1A,PRKAG2,activation,AMPK
+ADRA1A,PRKAG3,activation,AMPK
+FADD,CASP10,activation,Apoptosis
+FAS,DAXX,activation,Apoptosis
+DAXX,MAP3K5,activation,Apoptosis
+TNF,TNFRSF1A,activation,Apoptosis
+TRAF2,DAB2IP,activation,Apoptosis
+DAB2IP,MAP3K5,activation,Apoptosis
+TRAF2,MAP3K14,activation,Apoptosis
+MAP3K5,MAPK8,activation,Apoptosis
+MAP3K5,MAPK8,phosphorylation,Apoptosis
+MAP3K5,MAPK9,activation,Apoptosis
+MAP3K5,MAPK9,phosphorylation,Apoptosis
+MAP3K5,MAPK10,activation,Apoptosis
+MAP3K5,MAPK10,phosphorylation,Apoptosis
+EIF2AK3,EIF2S1,activation,Apoptosis
+EIF2AK3,EIF2S1,phosphorylation,Apoptosis
+EIF2S1,EIF2S1,activation,Apoptosis
+ATF4,CAPN1,activation,Apoptosis
+CASP12,CAPN2,activation,Apoptosis
+CASP12,CAPN2,inhibition,Apoptosis
+CFLAR,CASP8,inhibition,Apoptosis
+CFLAR,CASP10,inhibition,Apoptosis
+DDIT3,BCL2L1,inhibition,Apoptosis
+DDIT3,BCL2,inhibition,Apoptosis
+CTSC,BCL2L1,inhibition,Apoptosis
+CTSB,BCL2L1,inhibition,Apoptosis
+CTSD,BCL2L1,inhibition,Apoptosis
+CTSH,BCL2L1,inhibition,Apoptosis
+CTSK,BCL2L1,inhibition,Apoptosis
+CTSL,BCL2L1,inhibition,Apoptosis
+CTSV,BCL2L1,inhibition,Apoptosis
+CTSO,BCL2L1,inhibition,Apoptosis
+CTSS,BCL2L1,inhibition,Apoptosis
+CTSW,BCL2L1,inhibition,Apoptosis
+CTSZ,BCL2L1,inhibition,Apoptosis
+CTSF,BCL2L1,inhibition,Apoptosis
+CTSC,BCL2,inhibition,Apoptosis
+CTSB,BCL2,inhibition,Apoptosis
+CTSD,BCL2,inhibition,Apoptosis
+CTSH,BCL2,inhibition,Apoptosis
+CTSK,BCL2,inhibition,Apoptosis
+CTSL,BCL2,inhibition,Apoptosis
+CTSV,BCL2,inhibition,Apoptosis
+CTSO,BCL2,inhibition,Apoptosis
+CTSS,BCL2,inhibition,Apoptosis
+CTSW,BCL2,inhibition,Apoptosis
+CTSZ,BCL2,inhibition,Apoptosis
+CTSF,BCL2,inhibition,Apoptosis
+MCL1,BCL2L11,inhibition,Apoptosis
+BCL2L11,BCL2L1,inhibition,Apoptosis
+BCL2L11,BCL2,inhibition,Apoptosis
+MAPK8,BCL2L1,inhibition,Apoptosis
+MAPK8,BCL2L1,phosphorylation,Apoptosis
+MAPK9,BCL2L1,inhibition,Apoptosis
+MAPK9,BCL2L1,phosphorylation,Apoptosis
+MAPK10,BCL2L1,inhibition,Apoptosis
+MAPK10,BCL2L1,phosphorylation,Apoptosis
+MAPK8,BCL2,inhibition,Apoptosis
+MAPK8,BCL2,phosphorylation,Apoptosis
+MAPK9,BCL2,inhibition,Apoptosis
+MAPK9,BCL2,phosphorylation,Apoptosis
+MAPK10,BCL2,inhibition,Apoptosis
+MAPK10,BCL2,phosphorylation,Apoptosis
+MAPK8,BID,activation,Apoptosis
+MAPK9,BID,activation,Apoptosis
+MAPK10,BID,activation,Apoptosis
+MAPK8,BID,activation,Apoptosis
+MAPK8,BID,phosphorylation,Apoptosis
+MAPK9,BID,activation,Apoptosis
+MAPK9,BID,phosphorylation,Apoptosis
+MAPK10,BID,activation,Apoptosis
+MAPK10,BID,phosphorylation,Apoptosis
+MAP3K14,CHUK,activation,Apoptosis
+MAP3K14,CHUK,phosphorylation,Apoptosis
+MAP3K14,IKBKB,activation,Apoptosis
+MAP3K14,IKBKG,activation,Apoptosis
+CHUK,NFKBIA,activation,Apoptosis
+CHUK,NFKBIA,phosphorylation,Apoptosis
+IKBKB,NFKBIA,activation,Apoptosis
+IKBKB,NFKBIA,phosphorylation,Apoptosis
+IKBKG,NFKBIA,activation,Apoptosis
+IKBKG,NFKBIA,phosphorylation,Apoptosis
+NFKBIA,RELA,dissociation,Apoptosis
+NGF,NTRK1,dissociation,Apoptosis
+IL3,CSF2RB,activation,Apoptosis
+IL3,IL3RA,activation,Apoptosis
+CSF2RB,HRAS,activation,Apoptosis
+CSF2RB,KRAS,activation,Apoptosis
+CSF2RB,NRAS,activation,Apoptosis
+IL3RA,HRAS,activation,Apoptosis
+IL3RA,KRAS,activation,Apoptosis
+IL3RA,NRAS,activation,Apoptosis
+HRAS,RAF1,activation,Apoptosis
+KRAS,RAF1,activation,Apoptosis
+NRAS,RAF1,activation,Apoptosis
+PDPK1,AKT3,activation,Apoptosis
+PDPK1,AKT3,phosphorylation,Apoptosis
+PDPK1,AKT1,activation,Apoptosis
+PDPK1,AKT1,phosphorylation,Apoptosis
+PDPK1,AKT2,activation,Apoptosis
+PDPK1,AKT2,phosphorylation,Apoptosis
+RAF1,MAP2K1,activation,Apoptosis
+RAF1,MAP2K1,phosphorylation,Apoptosis
+RAF1,MAP2K2,activation,Apoptosis
+RAF1,MAP2K2,phosphorylation,Apoptosis
+MAP2K1,MAPK1,activation,Apoptosis
+MAP2K1,MAPK1,phosphorylation,Apoptosis
+MAP2K1,MAPK3,activation,Apoptosis
+MAP2K1,MAPK3,phosphorylation,Apoptosis
+MAP2K2,MAPK1,activation,Apoptosis
+MAP2K2,MAPK1,phosphorylation,Apoptosis
+MAP2K2,MAPK3,activation,Apoptosis
+MAP2K2,MAPK3,phosphorylation,Apoptosis
+NTRK1,PIK3CA,activation,Apoptosis
+NTRK1,PIK3CB,activation,Apoptosis
+NTRK1,PIK3CD,activation,Apoptosis
+NTRK1,PIK3R1,activation,Apoptosis
+NTRK1,PIK3R2,activation,Apoptosis
+NTRK1,PIK3R3,activation,Apoptosis
+AKT2,BAD,phosphorylation,Apoptosis
+AKT3,CHUK,activation,Apoptosis
+AKT3,CHUK,phosphorylation,Apoptosis
+AKT3,IKBKB,activation,Apoptosis
+AKT3,IKBKB,phosphorylation,Apoptosis
+AKT3,IKBKG,activation,Apoptosis
+AKT3,IKBKG,phosphorylation,Apoptosis
+AKT1,CHUK,activation,Apoptosis
+AKT1,CHUK,phosphorylation,Apoptosis
+AKT1,IKBKB,activation,Apoptosis
+AKT1,IKBKB,phosphorylation,Apoptosis
+AKT1,IKBKG,activation,Apoptosis
+AKT1,IKBKG,phosphorylation,Apoptosis
+AKT2,CHUK,activation,Apoptosis
+AKT2,CHUK,phosphorylation,Apoptosis
+AKT2,IKBKB,activation,Apoptosis
+AKT2,IKBKB,phosphorylation,Apoptosis
+AKT2,IKBKG,activation,Apoptosis
+AKT2,IKBKG,phosphorylation,Apoptosis
+MAPK8,JUN,phosphorylation,Apoptosis
+MAPK9,JUN,activation,Apoptosis
+MAPK9,JUN,phosphorylation,Apoptosis
+MAPK10,JUN,activation,Apoptosis
+MAPK10,JUN,phosphorylation,Apoptosis
+MAPK10,JUN,activation,Apoptosis
+MAPK8,FOS,phosphorylation,Apoptosis
+MAPK8,FOS,activation,Apoptosis
+MAPK9,FOS,phosphorylation,Apoptosis
+MAPK9,FOS,activation,Apoptosis
+MAPK10,FOS,phosphorylation,Apoptosis
+PMAIP1,BCL2,inhibition,Apoptosis
+PMAIP1,BCL2L1,inhibition,Apoptosis
+BBC3,BCL2,inhibition,Apoptosis
+BBC3,BCL2L1,inhibition,Apoptosis
+BCL2L1,BAX,inhibition,Apoptosis
+BCL2L1,BAK1,inhibition,Apoptosis
+BCL2,BAX,inhibition,Apoptosis
+BCL2,BAK1,inhibition,Apoptosis
+DIABLO,BIRC2,inhibition,Apoptosis
+DIABLO,BIRC3,inhibition,Apoptosis
+DIABLO,XIAP,inhibition,Apoptosis
+DIABLO,BIRC5,inhibition,Apoptosis
+SEPTIN4,BIRC2,inhibition,Apoptosis
+SEPTIN4,BIRC3,inhibition,Apoptosis
+SEPTIN4,XIAP,inhibition,Apoptosis
+SEPTIN4,BIRC5,inhibition,Apoptosis
+HTRA2,BIRC3,inhibition,Apoptosis
+HTRA2,XIAP,inhibition,Apoptosis
+HTRA2,BIRC5,inhibition,Apoptosis
+CTSC,BIRC2,inhibition,Apoptosis
+CTSC,BIRC3,inhibition,Apoptosis
+CTSC,XIAP,inhibition,Apoptosis
+CTSC,BIRC5,inhibition,Apoptosis
+CTSB,BIRC2,inhibition,Apoptosis
+CTSB,BIRC3,inhibition,Apoptosis
+CTSB,XIAP,inhibition,Apoptosis
+CTSB,BIRC5,inhibition,Apoptosis
+CTSD,BIRC2,inhibition,Apoptosis
+CTSD,BIRC3,inhibition,Apoptosis
+CTSD,XIAP,inhibition,Apoptosis
+CTSD,BIRC5,inhibition,Apoptosis
+CTSH,BIRC2,inhibition,Apoptosis
+CTSH,BIRC3,inhibition,Apoptosis
+CTSH,XIAP,inhibition,Apoptosis
+CTSK,BIRC2,inhibition,Apoptosis
+CTSK,BIRC3,inhibition,Apoptosis
+CTSK,XIAP,inhibition,Apoptosis
+CTSK,BIRC5,inhibition,Apoptosis
+CTSL,BIRC2,inhibition,Apoptosis
+CTSL,BIRC3,inhibition,Apoptosis
+CTSL,CTSL,inhibition,Apoptosis
+CTSL,BIRC5,inhibition,Apoptosis
+CTSV,BIRC2,inhibition,Apoptosis
+CTSV,BIRC3,inhibition,Apoptosis
+CTSV,XIAP,inhibition,Apoptosis
+CTSV,BIRC5,inhibition,Apoptosis
+CTSV,XIAP,inhibition,Apoptosis
+CTSO,BIRC5,inhibition,Apoptosis
+CTSO,BIRC2,inhibition,Apoptosis
+CTSO,BIRC3,inhibition,Apoptosis
+CTSO,XIAP,inhibition,Apoptosis
+CTSO,BIRC5,inhibition,Apoptosis
+CTSS,BIRC2,inhibition,Apoptosis
+CTSS,BIRC3,inhibition,Apoptosis
+CTSS,XIAP,inhibition,Apoptosis
+CTSS,BIRC5,inhibition,Apoptosis
+CTSW,BIRC2,inhibition,Apoptosis
+CTSW,BIRC3,inhibition,Apoptosis
+CTSW,XIAP,inhibition,Apoptosis
+CTSW,BIRC5,inhibition,Apoptosis
+CTSZ,BIRC2,inhibition,Apoptosis
+CTSZ,BIRC3,inhibition,Apoptosis
+CTSZ,XIAP,inhibition,Apoptosis
+CTSZ,BIRC5,inhibition,Apoptosis
+CTSF,BIRC2,inhibition,Apoptosis
+CTSF,BIRC3,inhibition,Apoptosis
+CTSF,XIAP,inhibition,Apoptosis
+CTSF,BIRC5,inhibition,Apoptosis
+BIRC2,CASP9,inhibition,Apoptosis
+BIRC3,CASP9,inhibition,Apoptosis
+XIAP,CASP9,inhibition,Apoptosis
+BIRC5,CASP9,inhibition,Apoptosis
+CTSC,BID,activation,Apoptosis
+CTSB,BID,activation,Apoptosis
+CTSD,BID,activation,Apoptosis
+CTSH,BID,activation,Apoptosis
+CTSK,BID,activation,Apoptosis
+CTSL,BID,activation,Apoptosis
+CTSV,BID,activation,Apoptosis
+CTSO,BID,activation,Apoptosis
+CTSS,BID,activation,Apoptosis
+BAD,BCL2,inhibition,Apoptosis
+GZMB,TUBA1B,inhibition,Apoptosis
+GZMB,TUBA3E,inhibition,Apoptosis
+GZMB,TUBA3D,inhibition,Apoptosis
+GZMB,TUBA8,inhibition,Apoptosis
+GZMB,TUBA4A,inhibition,Apoptosis
+GZMB,TUBA3C,inhibition,Apoptosis
+GZMB,TUBA1A,inhibition,Apoptosis
+GZMB,TUBAL3,inhibition,Apoptosis
+GZMB,TUBA1C,inhibition,Apoptosis
+GZMB,MCL1,inhibition,Apoptosis
+GZMB,LMNA,inhibition,Apoptosis
+GZMB,LMNB1,inhibition,Apoptosis
+GZMB,LMNB2,inhibition,Apoptosis
+GZMB,PARP2,inhibition,Apoptosis
+GZMB,PARP3,inhibition,Apoptosis
+GZMB,PARP1,inhibition,Apoptosis
+GZMB,PARP4,inhibition,Apoptosis
+GZMB,DFFA,inhibition,Apoptosis
+DFFA,CASP3,inhibition,Apoptosis
+DFFA,SPTAN1,inhibition,Apoptosis
+AKT2,ADCY5,activation,Longevity
+AKT2,ADCY6,activation,Longevity
+AKT2,ADCY7,activation,Longevity
+AKT2,ADCY8,activation,Longevity
+AKT2,ADCY9,activation,Longevity
+AKT2,ADCY4,activation,Longevity
+AKT3,MTOR,phosphorylation,Longevity
+AKT3,MTOR,activation,Longevity
+AKT3,RPTOR,phosphorylation,Longevity
+AKT3,RPTOR,activation,Longevity
+AKT3,AKT1S1,phosphorylation,Longevity
+AKT3,AKT1S1,activation,Longevity
+AKT1,MTOR,phosphorylation,Longevity
+AKT1,MTOR,activation,Longevity
+AKT1,RPTOR,phosphorylation,Longevity
+AKT1,RPTOR,activation,Longevity
+AKT1,AKT1S1,phosphorylation,Longevity
+AKT1,AKT1S1,activation,Longevity
+MTOR,MTOR,phosphorylation,Longevity
+MTOR,MTOR,activation,Longevity
+MTOR,RPTOR,phosphorylation,Longevity
+MTOR,RPTOR,activation,Longevity
+MTOR,AKT1S1,phosphorylation,Longevity
+MTOR,AKT1S1,activation,Longevity
+MTOR,RPS6KB1,phosphorylation,Longevity
+MTOR,RPS6KB1,activation,Longevity
+MTOR,RPS6KB2,phosphorylation,Longevity
+MTOR,RPS6KB2,activation,Longevity
+RPTOR,RPS6KB1,phosphorylation,Longevity
+RPTOR,RPS6KB2,activation,Longevity
+RPTOR,RPS6KB2,phosphorylation,Longevity
+AKT1S1,RPS6KB1,activation,Longevity
+AKT1S1,RPS6KB1,phosphorylation,Longevity
+AKT1S1,RPS6KB2,activation,Longevity
+AKT1S1,RPS6KB2,phosphorylation,Longevity
+RHEB,MTOR,activation,Longevity
+RHEB,RPTOR,activation,Longevity
+RHEB,AKT1S1,activation,Longevity
+ADIPOQ,ADIPOR1,activation,Longevity
+ADIPOQ,ADIPOR2,activation,Longevity
+ADIPOR1,APPL1,activation,Longevity
+APPL1,APPL1,activation,Longevity
+CAMKK2,PRKAG2,activation,Longevity
+CAMKK2,PRKAG3,phosphorylation,Longevity
+CAMKK2,PRKAG3,activation,Longevity
+CAMKK2,PRKAA1,phosphorylation,Longevity
+CAMKK2,PRKAG3,activation,Longevity
+CAMKK2,PRKAG3,phosphorylation,Longevity
+PRKAA2,CAMKK2,activation,Longevity
+PRKAA2,CAMKK2,phosphorylation,Longevity
+PRKAA2,CAMKK2,activation,Longevity
+PRKAB1,CAMKK2,phosphorylation,Longevity
+PRKAB1,CAMKK2,activation,Longevity
+PRKAB2,CAMKK2,phosphorylation,Longevity
+PRKAB2,CAMKK2,activation,Longevity
+CAMKK2,PRKAG1,phosphorylation,Longevity
+STK11,PRKAG2,activation,Longevity
+STK11,PRKAG2,phosphorylation,Longevity
+STK11,PRKAG3,activation,Longevity
+MTOR,EIF4EBP1,phosphorylation,Longevity
+RPTOR,EIF4EBP1,inhibition,Longevity
+RPTOR,EIF4EBP1,phosphorylation,Longevity
+AKT1S1,EIF4EBP1,inhibition,Longevity
+AKT1S1,EIF4EBP1,phosphorylation,Longevity
+EIF4EBP1,EIF4E,inhibition,Longevity
+EIF4EBP1,EIF4E1B,inhibition,Longevity
+EIF4EBP1,EIF4E2,inhibition,Longevity
+PRKACA,FOXO1,inhibition,Longevity
+PRKACA,FOXO1,phosphorylation,Longevity
+PRKACA,FOXO3,inhibition,Longevity
+PRKACA,FOXO3,phosphorylation,Longevity
+PRKACB,FOXO1,inhibition,Longevity
+PRKACB,FOXO1,phosphorylation,Longevity
+PRKACB,FOXO3,inhibition,Longevity
+PRKACB,FOXO3,phosphorylation,Longevity
+PRKACG,FOXO1,inhibition,Longevity
+PRKACG,FOXO1,phosphorylation,Longevity
+PRKACG,FOXO3,inhibition,Longevity
+PRKACG,FOXO3,phosphorylation,Longevity
+AKT3,FOXO1,inhibition,Longevity
+AKT3,FOXO1,phosphorylation,Longevity
+AKT3,FOXO3,inhibition,Longevity
+AKT3,FOXO3,phosphorylation,Longevity
+AKT1,FOXO1,inhibition,Longevity
+AKT1,FOXO1,phosphorylation,Longevity
+AKT1,FOXO3,inhibition,Longevity
+AKT1,FOXO3,phosphorylation,Longevity
+AKT2,FOXO1,inhibition,Longevity
+AKT2,FOXO1,phosphorylation,Longevity
+AKT2,FOXO3,inhibition,Longevity
+AKT2,FOXO3,phosphorylation,Longevity
+SIRT1,BAX,inhibition,Longevity
+SIRT1,TP53,inhibition,Longevity
+SIRT1,NFKB1,inhibition,Longevity
+SIRT1,RELA,inhibition,Longevity
+SIRT1,PPARG,inhibition,Longevity
+SIRT1,FOXO1,activation,Longevity
+SIRT1,FOXO3,activation,Longevity
+PRKAG2,FOXO1,activation,Longevity
+PRKAG2,FOXO3,activation,Longevity
+PRKAG3,FOXO1,activation,Longevity
+PRKAG3,FOXO3,activation,Longevity
+PRKAA1,FOXO1,activation,Longevity
+PRKAA1,FOXO3,activation,Longevity
+PRKAA2,FOXO1,activation,Longevity
+PRKAA2,FOXO3,activation,Longevity
+PRKAB1,FOXO1,activation,Longevity
+PRKAB1,FOXO3,activation,Longevity
+PRKAB2,FOXO1,activation,Longevity
+PRKAB2,FOXO3,activation,Longevity
+PRKAG1,FOXO1,activation,Longevity
+PRKACA,FOXO1,inhibition,Longevity
+PRKACA,FOXO1,phosphorylation,Longevity
+PRKACA,FOXO3,inhibition,Longevity
+PRKACA,FOXO3,phosphorylation,Longevity
+PRKACB,FOXO1,inhibition,Longevity
+PRKACB,FOXO1,phosphorylation,Longevity
+PRKACB,FOXO3,inhibition,Longevity
+PRKACB,FOXO3,phosphorylation,Longevity
+PRKACG,FOXO1,inhibition,Longevity
+PRKACG,FOXO1,phosphorylation,Longevity
+PRKACG,FOXO3,inhibition,Longevity
+PRKACG,FOXO3,phosphorylation,Longevity
+AKT3,FOXO1,inhibition,Longevity
+AKT3,FOXO1,phosphorylation,Longevity
+AKT3,FOXO3,inhibition,Longevity
+AKT3,FOXO3,phosphorylation,Longevity
+AKT1,FOXO1,inhibition,Longevity
+AKT1,FOXO1,phosphorylation,Longevity
+AKT1,FOXO3,inhibition,Longevity
+AKT1,FOXO3,phosphorylation,Longevity
+AKT2,FOXO1,inhibition,Longevity
+AKT2,FOXO1,phosphorylation,Longevity
+AKT2,FOXO3,inhibition,Longevity
+AKT2,FOXO3,phosphorylation,Longevity
+AKT3,MTOR,activation,Longevity
+AKT3,MTOR,phosphorylation,Longevity
+AKT3,RPTOR,activation,Longevity
+AKT3,RPTOR,phosphorylation,Longevity
+AKT3,AKT1S1,activation,Longevity
+AKT3,AKT1S1,phosphorylation,Longevity
+AKT1,MTOR,activation,Longevity
+AKT1,MTOR,phosphorylation,Longevity
+AKT1,RPTOR,activation,Longevity
+AKT1,RPTOR,phosphorylation,Longevity
+AKT1,AKT1S1,activation,Longevity
+AKT1,AKT1S1,phosphorylation,Longevity
+AKT2,MTOR,activation,Longevity
+AKT2,MTOR,phosphorylation,Longevity
+AKT2,RPTOR,activation,Longevity
+AKT2,AKT1S1,phosphorylation,Longevity
+AKT2,AKT1S1,activation,Longevity
+MTOR,RPS6KB1,phosphorylation,Longevity
+MTOR,RPS6KB1,activation,Longevity
+MTOR,RPS6KB2,phosphorylation,Longevity
+RPS6KB2,RPTOR,activation,Longevity
+RPS6KB1,RPTOR,phosphorylation,Longevity
+RPS6KB1,RPTOR,activation,Longevity
+RPS6KB2,RPTOR,phosphorylation,Longevity
+RPTOR,RPS6KB2,activation,Longevity
+AKT1S1,RPS6KB1,activation,Longevity
+AKT1S1,RPS6KB1,phosphorylation,Longevity
+AKT1S1,RPS6KB2,activation,Longevity
+AKT1S1,RPS6KB2,phosphorylation,Longevity
+AKT3,PRKAG2,activation,Longevity
+AKT3,PRKAG3,activation,Longevity
+AKT3,PRKAA1,activation,Longevity
+AKT3,PRKAA2,activation,Longevity
+AKT3,PRKAB1,activation,Longevity
+AKT3,PRKAB2,activation,Longevity
+AKT3,PRKAG1,activation,Longevity
+AKT1,PRKAG2,activation,Longevity
+AKT1,PRKAG3,activation,Longevity
+AKT1,PRKAA1,activation,Longevity
+AKT1,PRKAA2,activation,Longevity
+AKT1,PRKAB1,activation,Longevity
+AKT1,PRKAB2,activation,Longevity
+AKT1,PRKAG1,activation,Longevity
+AKT2,PRKAG2,activation,Longevity
+AKT2,PRKAG3,activation,Longevity
+AKT2,PRKAA1,activation,Longevity
+AKT2,PRKAA2,activation,Longevity
+AKT2,PRKAB1,activation,Longevity
+AKT2,PRKAB2,activation,Longevity
+AKT2,PRKAG1,activation,Longevity
+PRKAG2,MTOR,inhibition,Longevity
+RPTOR,PRKAG2,inhibition,Longevity
+AKT1S1,PRKAG3,inhibition,Longevity
+PRKAG3,RPTOR,inhibition,Longevity
+PRKAG3,AKT1S1,inhibition,Longevity
+PRKAA1,MTOR,inhibition,Longevity
+PRKAA1,RPTOR,inhibition,Longevity
+PRKAA1,AKT1S1,inhibition,Longevity
+PRKAA2,MTOR,inhibition,Longevity
+PRKAA2,RPTOR,inhibition,Longevity
+PRKAA2,AKT1S1,inhibition,Longevity
+PRKAB1,MTOR,inhibition,Longevity
+PRKAB1,RPTOR,inhibition,Longevity
+PRKAB1,AKT1S1,inhibition,Longevity
+PRKAB2,MTOR,inhibition,Longevity
+PRKAB2,RPTOR,inhibition,Longevity
+PRKAB2,AKT1S1,inhibition,Longevity
+PRKAG1,MTOR,inhibition,Longevity
+PRKAG1,RPTOR,inhibition,Longevity
+PRKAG1,AKT1S1,inhibition,Longevity
+MTOR,EIF4EBP2,inhibition,Longevity
+RPTOR,EIF4EBP2,inhibition,Longevity
+RPS6KB1,FOXA2,inhibition,Longevity
+RPS6KB2,FOXA2,inhibition,Longevity
+HDAC1,SIRT1,inhibition,Longevity
+HDAC2,SIRT1,inhibition,Longevity
+TNFRSF1A,FADD,activation,Apoptosis (multiple species)
+FADD,CASP8,activation,Apoptosis (multiple species)
+CASP8,CASP7,activation,Apoptosis (multiple species)
+CYCS,APAF1,activation,Apoptosis (multiple species)
+APAF1,CASP9,activation,Apoptosis (multiple species)
+CASP9,CASP7,activation,Apoptosis (multiple species)
+CASP9,CASP3,activation,Apoptosis (multiple species)
+BCL2L11,BCL2,inhibition,Apoptosis (multiple species)
+BCL2L11,BCL2L1,inhibition,Apoptosis (multiple species)
+BBC3,BCL2,inhibition,Apoptosis (multiple species)
+BBC3,BCL2L1,inhibition,Apoptosis (multiple species)
+PMAIP1,BCL2,inhibition,Apoptosis (multiple species)
+PMAIP1,BCL2L1,inhibition,Apoptosis (multiple species)
+BID,BCL2,inhibition,Apoptosis (multiple species)
+BID,BCL2L1,inhibition,Apoptosis (multiple species)
+BCL2,BAX,inhibition,Apoptosis (multiple species)
+BCL2L1,BAX,inhibition,Apoptosis (multiple species)
+BCL2,BAK1,inhibition,Apoptosis (multiple species)
+BCL2L1,BAK1,inhibition,Apoptosis (multiple species)
+DIABLO,BIRC2,inhibition,Apoptosis (multiple species)
+DIABLO,BIRC3,inhibition,Apoptosis (multiple species)
+DIABLO,XIAP,inhibition,Apoptosis (multiple species)
+DIABLO,BIRC5,inhibition,Apoptosis (multiple species)
+HTRA2,BIRC2,inhibition,Apoptosis (multiple species)
+HTRA2,BIRC3,inhibition,Apoptosis (multiple species)
+HTRA2,XIAP,inhibition,Apoptosis (multiple species)
+HTRA2,BIRC5,inhibition,Apoptosis (multiple species)
+SEPTIN4,BIRC2,inhibition,Apoptosis (multiple species)
+SEPTIN4,BIRC3,inhibition,Apoptosis (multiple species)
+SEPTIN4,XIAP,inhibition,Apoptosis (multiple species)
+BAX,AIFM1,activation,Necroptosis
+HSP90AA1,MLKL,activation,Necroptosis
+HSP90AB1,MLKL,activation,Necroptosis
+RIPK3,CYBB,activation,Necroptosis
+MLKL,PGAM5,activation,Necroptosis
+MLKL,NLRP3,activation,Necroptosis
+CASP1,IL1B,activation,Necroptosis
+MLKL,TRPM7,activation,Necroptosis
+RIPK3,CAMK2A,activation,Necroptosis
+RIPK3,CAMK2A,activation,Necroptosis
+RIPK3,CAMK2B,phosphorylation,Necroptosis
+RIPK3,CAMK2D,activation,Necroptosis
+RIPK3,CAMK2D,phosphorylation,Necroptosis
+RIPK3,CAMK2G,activation,Necroptosis
+RIPK3,CAMK2G,phosphorylation,Necroptosis
+RIPK3,GLUD1,activation,Necroptosis
+RIPK3,GLUD1,phosphorylation,Necroptosis
+RIPK3,GLUD2,activation,Necroptosis
+RIPK3,GLUD2,phosphorylation,Necroptosis
+RIPK3,GLUL,activation,Necroptosis
+RIPK3,GLUL,phosphorylation,Necroptosis
+RIPK3,RIPK3,activation,Necroptosis
+RIPK3,PYGB,phosphorylation,Necroptosis
+RIPK3,PYGB,activation,Necroptosis
+RIPK3,PYGL,phosphorylation,Necroptosis
+RIPK3,PYGM,activation,Necroptosis
+RIPK3,PYGM,phosphorylation,Necroptosis
+RIPK3,MLKL,activation,Necroptosis
+CAMK2A,SCN4B,activation,Adrenergic signalling (cardiac)
+CAMK2A,SCN4B,phosphorylation,Adrenergic signalling (cardiac)
+CAMK2A,SCN4B,activation,Adrenergic signalling (cardiac)
+CAMK2A,SCN5A,phosphorylation,Adrenergic signalling (cardiac)
+CAMK2A,SCN5A,activation,Adrenergic signalling (cardiac)
+CAMK2A,SCN7A,phosphorylation,Adrenergic signalling (cardiac)
+CAMK2B,SCN7A,activation,Adrenergic signalling (cardiac)
+CAMK2B,SCN1B,phosphorylation,Adrenergic signalling (cardiac)
+CAMK2B,SCN1B,activation,Adrenergic signalling (cardiac)
+CAMK2B,SCN4B,phosphorylation,Adrenergic signalling (cardiac)
+CAMK2B,SCN5A,activation,Adrenergic signalling (cardiac)
+CAMK2D,SCN5A,phosphorylation,Adrenergic signalling (cardiac)
+CAMK2D,SCN7A,activation,Adrenergic signalling (cardiac)
+CAMK2D,SCN7A,phosphorylation,Adrenergic signalling (cardiac)
+CAMK2G,SCN1B,activation,Adrenergic signalling (cardiac)
+CAMK2G,SCN1B,phosphorylation,Adrenergic signalling (cardiac)
+CAMK2G,SCN4B,activation,Adrenergic signalling (cardiac)
+CAMK2G,SCN4B,phosphorylation,Adrenergic signalling (cardiac)
+CAMK2G,SCN5A,activation,Adrenergic signalling (cardiac)
+CAMK2G,SCN5A,phosphorylation,Adrenergic signalling (cardiac)
+CAMK2G,SCN7A,activation,Adrenergic signalling (cardiac)
+CAMK2G,SCN7A,phosphorylation,Adrenergic signalling (cardiac)
+EGF,EGFR,activation,EGFR-TKI resistance
+TGFA,EGFR,activation,EGFR-TKI resistance
+TGFA,MET,activation,EGFR-TKI resistance
+HGF,MET,activation,EGFR-TKI resistance
+MET,ERBB3,activation,EGFR-TKI resistance
+IGF1,IGF1R,activation,EGFR-TKI resistance
+VEGFA,KDR,activation,EGFR-TKI resistance
+PDGFA,PDGFRA,activation,EGFR-TKI resistance
+PDGFA,PDGFRB,activation,EGFR-TKI resistance
+PDGFB,PDGFRA,activation,EGFR-TKI resistance
+PDGFA,PDGFRB,activation,EGFR-TKI resistance
+PDGFB,PDGFRA,activation,EGFR-TKI resistance
+PDGFB,PDGFRB,activation,EGFR-TKI resistance
+PDGFC,PDGFRA,activation,EGFR-TKI resistance
+PDGFC,PDGFRB,activation,EGFR-TKI resistance
+PDGFD,PDGFRA,activation,EGFR-TKI resistance
+PDGFD,PDGFRB,activation,EGFR-TKI resistance
+FGF2,FGFR3,activation,EGFR-TKI resistance
+FGF2,FGFR2,activation,EGFR-TKI resistance
+GAS6,AXL,activation,EGFR-TKI resistance
+IL6,IL6R,activation,EGFR-TKI resistance
+EGFR,JAK1,activation,EGFR-TKI resistance
+EGFR,JAK2,activation,EGFR-TKI resistance
+EGFR,SRC,activation,EGFR-TKI resistance
+EGFR,GAB1,activation,EGFR-TKI resistance
+EGFR,SHC4,activation,EGFR-TKI resistance
+EGFR,SHC1,activation,EGFR-TKI resistance
+MET,JAK1,activation,EGFR-TKI resistance
+MET,JAK2,activation,EGFR-TKI resistance
+MET,SRC,activation,EGFR-TKI resistance
+MET,GAB1,activation,EGFR-TKI resistance
+MET,PLCG1,activation,EGFR-TKI resistance
+MET,PLCG2,activation,EGFR-TKI resistance
+MET,SHC2,activation,EGFR-TKI resistance
+MET,SHC4,activation,EGFR-TKI resistance
+MET,SHC3,activation,EGFR-TKI resistance
+MET,SHC1,activation,EGFR-TKI resistance
+IGF1R,JAK1,activation,EGFR-TKI resistance
+IGF1R,JAK2,activation,EGFR-TKI resistance
+IGF1R,SRC,activation,EGFR-TKI resistance
+IGF1R,GAB1,activation,EGFR-TKI resistance
+IGF1R,PLCG1,activation,EGFR-TKI resistance
+IGF1R,PLCG2,activation,EGFR-TKI resistance
+IGF1R,SHC2,activation,EGFR-TKI resistance
+IGF1R,SHC4,activation,EGFR-TKI resistance
+IGF1R,SHC3,activation,EGFR-TKI resistance
+IGF1R,SHC1,activation,EGFR-TKI resistance
+KDR,JAK1,activation,EGFR-TKI resistance
+KDR,JAK2,activation,EGFR-TKI resistance
+KDR,SRC,activation,EGFR-TKI resistance
+KDR,GAB1,activation,EGFR-TKI resistance
+KDR,PLCG1,activation,EGFR-TKI resistance
+KDR,PLCG2,activation,EGFR-TKI resistance
+KDR,SHC2,activation,EGFR-TKI resistance
+KDR,SHC4,activation,EGFR-TKI resistance
+KDR,SHC3,activation,EGFR-TKI resistance
+KDR,SHC1,activation,EGFR-TKI resistance
+PDGFRA,JAK1,activation,EGFR-TKI resistance
+PDGFRA,JAK2,activation,EGFR-TKI resistance
+PDGFRB,JAK1,activation,EGFR-TKI resistance
+PDGFRB,JAK2,activation,EGFR-TKI resistance
+PDGFRB,SRC,activation,EGFR-TKI resistance
+PDGFRB,GAB1,activation,EGFR-TKI resistance
+PDGFRB,PLCG1,activation,EGFR-TKI resistance
+PDGFRB,PLCG2,activation,EGFR-TKI resistance
+PDGFRB,SHC2,activation,EGFR-TKI resistance
+PDGFRB,SHC4,activation,EGFR-TKI resistance
+PDGFRB,SHC3,activation,EGFR-TKI resistance
+PDGFRB,SHC1,activation,EGFR-TKI resistance
+JAK1,STAT3,phosphorylation,EGFR-TKI resistance
+JAK2,STAT3,phosphorylation,EGFR-TKI resistance
+SRC,STAT3,phosphorylation,EGFR-TKI resistance
+AKT3,MTOR,phosphorylation,EGFR-TKI resistance
+AKT1,MTOR,phosphorylation,EGFR-TKI resistance
+AKT2,MTOR,phosphorylation,EGFR-TKI resistance
+MTOR,RPS6KB1,phosphorylation,EGFR-TKI resistance
+MTOR,RPS6KB2,phosphorylation,EGFR-TKI resistance
+MTOR,EIF4EBP1,phosphorylation,EGFR-TKI resistance
+AKT3,BAD,phosphorylation,EGFR-TKI resistance
+AKT1,BAD,phosphorylation,EGFR-TKI resistance
+AKT3,GSK3B,phosphorylation,EGFR-TKI resistance
+AKT1,GSK3B,phosphorylation,EGFR-TKI resistance
+AKT2,GSK3B,phosphorylation,EGFR-TKI resistance
+AKT3,FOXO3,phosphorylation,EGFR-TKI resistance
+AKT1,FOXO3,phosphorylation,EGFR-TKI resistance
+AKT2,FOXO3,phosphorylation,EGFR-TKI resistance
+AKT2,FOXO3,phosphorylation,EGFR-TKI resistance
+ARAF,MAP2K2,phosphorylation,EGFR-TKI resistance
+RAF1,MAP2K1,phosphorylation,EGFR-TKI resistance
+RAF1,MAP2K2,phosphorylation,EGFR-TKI resistance
+BRAF,MAP2K1,phosphorylation,EGFR-TKI resistance
+BRAF,MAP2K2,phosphorylation,EGFR-TKI resistance
+MAP2K1,MAPK1,phosphorylation,EGFR-TKI resistance
+MAP2K1,MAPK3,phosphorylation,EGFR-TKI resistance
+MAP2K2,MAPK1,phosphorylation,EGFR-TKI resistance
+MAP2K2,MAPK3,phosphorylation,EGFR-TKI resistance
+MAPK1,BCL2L11,phosphorylation,EGFR-TKI resistance
+MAPK3,BCL2L11,phosphorylation,EGFR-TKI resistance
+MTOR,EIF4EBP1,inhibition,EGFR-TKI resistance
+EIF4EBP1,EIF4E,inhibition,EGFR-TKI resistance
+EIF4EBP1,EIF4E1B,inhibition,EGFR-TKI resistance
+EIF4EBP1,EIF4E2,inhibition,EGFR-TKI resistance
+AKT3,BAD,inhibition,EGFR-TKI resistance
+AKT1,BAD,inhibition,EGFR-TKI resistance
+AKT2,BAD,inhibition,EGFR-TKI resistance
+AKT3,GSK3B,inhibition,EGFR-TKI resistance
+AKT1,GSK3B,inhibition,EGFR-TKI resistance
+AKT2,GSK3B,inhibition,EGFR-TKI resistance
+AKT3,FOXO3,inhibition,EGFR-TKI resistance
+AKT1,FOXO3,inhibition,EGFR-TKI resistance
+AKT2,FOXO3,inhibition,EGFR-TKI resistance
+NF1,HRAS,inhibition,EGFR-TKI resistance
+NF1,KRAS,inhibition,EGFR-TKI resistance
+NF1,NRAS,inhibition,EGFR-TKI resistance
+MAPK1,BCL2L11,inhibition,EGFR-TKI resistance
+MAPK3,BCL2L11,inhibition,EGFR-TKI resistance
+BCL2L11,BAX,inhibition,EGFR-TKI resistance
+BCL2L11,BCL2L1,inhibition,EGFR-TKI resistance
+BCL2L11,BCL2,inhibition,EGFR-TKI resistance
+BCL2L11,BAX,inhibition,EGFR-TKI resistance

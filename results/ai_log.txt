@@ -1,0 +1,72 @@
+pair-disjoint 0 [np.float64(0.99), np.float64(0.99)]
+pair-disjoint 1 [np.float64(0.987), np.float64(0.99)]
+pair-disjoint 2 [np.float64(0.99), np.float64(0.987)]
+pair-disjoint 3 [np.float64(0.991), np.float64(0.986)]
+pair-disjoint 4 [np.float64(0.973), np.float64(0.982)]
+pair-disjoint 5 [np.float64(0.99), np.float64(0.987)]
+pair-disjoint 6 [np.float64(0.983), np.float64(0.984)]
+pair-disjoint 7 [np.float64(0.988), np.float64(0.986)]
+pair-disjoint 8 [np.float64(0.982), np.float64(0.986)]
+pair-disjoint 9 [np.float64(0.987), np.float64(0.993)]
+gene-disjoint 0 [np.float64(0.942), np.float64(0.883)]
+gene-disjoint 1 [np.float64(0.93), np.float64(0.878)]
+gene-disjoint 2 [np.float64(0.923), np.float64(0.909)]
+gene-disjoint 3 [np.float64(0.928), np.float64(0.912)]
+gene-disjoint 4 [np.float64(0.916), np.float64(0.895)]
+gene-disjoint 5 [np.float64(0.943), np.float64(0.905)]
+gene-disjoint 6 [np.float64(0.912), np.float64(0.864)]
+gene-disjoint 7 [np.float64(0.927), np.float64(0.875)]
+gene-disjoint 8 [np.float64(0.936), np.float64(0.916)]
+gene-disjoint 9 [np.float64(0.932), np.float64(0.914)]
+family-disjoint 0 [np.float64(0.759), np.float64(0.766)]
+family-disjoint 1 [np.float64(0.721), np.float64(0.779)]
+family-disjoint 2 [np.float64(0.702), np.float64(0.704)]
+family-disjoint 3 [np.float64(0.836), np.float64(0.789)]
+family-disjoint 4 [np.float64(0.89), np.float64(0.907)]
+family-disjoint 5 [np.float64(0.689), np.float64(0.694)]
+family-disjoint 6 [np.float64(0.712), np.float64(0.733)]
+family-disjoint 7 [np.float64(0.779), np.float64(0.803)]
+family-disjoint 8 [np.float64(0.777), np.float64(0.789)]
+family-disjoint 9 [np.float64(0.844), np.float64(0.829)]
+pathway-held-out 0 [np.float64(0.833), np.float64(0.747)]
+pathway-held-out 1 [np.float64(0.632), np.float64(0.707)]
+pathway-held-out 2 [np.float64(0.688), np.float64(0.779)]
+pathway-held-out 3 [np.float64(0.783), np.float64(0.811)]
+pathway-held-out 4 [np.float64(0.718), np.float64(0.64)]
+pathway-held-out 5 [np.float64(0.658), np.float64(0.51)]
+pathway-held-out 6 [np.float64(0.676), np.float64(0.569)]
+pathway-held-out 7 [np.float64(nan), np.float64(nan)]
+pathway-held-out 8 [np.float64(nan), np.float64(nan)]
+pathway-held-out 9 [np.float64(0.584), np.float64(0.473)]
+pathway-held-out 10 [np.float64(0.914), np.float64(0.782)]
+pathway-held-out 11 [np.float64(0.76), np.float64(0.643)]
+pathway-held-out 12 [np.float64(0.808), np.float64(0.783)]
+pathway-held-out 13 [np.float64(0.672), np.float64(0.86)]
+pathway-held-out 14 [np.float64(0.698), np.float64(0.753)]
+pathway-held-out 15 [np.float64(0.651), np.float64(0.578)]
+pathway-held-out 16 [np.float64(0.58), np.float64(0.567)]
+pathway-held-out 17 [np.float64(0.703), np.float64(0.63)]
+pathway-held-out 18 [np.float64(0.544), np.float64(0.578)]
+pathway-held-out 19 [np.float64(0.668), np.float64(0.929)]
+pathway-held-out 20 [np.float64(0.573), np.float64(0.601)]
+pathway-held-out 21 [np.float64(0.296), np.float64(0.545)]
+pathway-held-out 22 [np.float64(0.825), np.float64(0.906)]
+pair-disjoint          AUROC        macroF1       
+          mean    std    mean    std
+model                               
+CharCNN  0.986  0.006   0.949  0.012
+GNN      0.987  0.003   0.948  0.008
+gene-disjoint          AUROC        macroF1       
+          mean    std    mean    std
+model                               
+CharCNN  0.929  0.010   0.838  0.016
+GNN      0.895  0.019   0.772  0.020
+family-disjoint          AUROC        macroF1       
+          mean    std    mean    std
+model                               
+CharCNN  0.771  0.068   0.651  0.073
+GNN      0.779  0.062   0.631  0.070
+         AUROC  macroF1  AUC_activation  AUC_inhibition  AUC_phosphorylation
+model                                                                       
+CharCNN  0.697     0.52           0.652           0.627                0.817
+GNN      0.674     0.51           0.613           0.591                0.816

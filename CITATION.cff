@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this benchmark or code, please cite the paper below."
+title: "KEGG-Shortcut-Benchmark"
+authors:
+  - family-names: Azam
+    given-names: Muhammad
+    affiliation: The University of Texas Health Science Center at Houston
+  - family-names: Arowolo
+    given-names: Michael Olaolu
+    affiliation: Xavier University of Louisiana
+license: MIT
+repository-code: "https://github.com/Muh-aza/aaa"
+preferred-citation:
+  type: article
+  title: "AI Models Memorize Gene Names Instead of Learning Pathway Biology"
+  authors:
+    - family-names: Azam
+      given-names: Muhammad
+    - family-names: Arowolo
+      given-names: Michael Olaolu
+  journal: "IEEE Journal of Biomedical and Health Informatics"
+  year: 2026
+  notes: "Under review"

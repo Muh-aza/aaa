@@ -1,0 +1,52 @@
+                           macroF1        microF1         AUROC         exact         ntest          ntrain        
+                              mean    std    mean    std   mean    std   mean    std   mean     std    mean     std
+split         model                                                                                                
+gene-disjoint GBDT-Graph     0.712  0.024   0.732  0.021  0.878  0.015  0.591  0.043  784.4  76.095  1391.6  76.095
+              LR-Graph       0.686  0.041   0.724  0.034  0.871  0.016  0.620  0.051  784.4  76.095  1391.6  76.095
+              LR-Lex         0.844  0.019   0.849  0.020  0.939  0.011  0.767  0.029  784.4  76.095  1391.6  76.095
+              LR-Lex+Graph   0.691  0.040   0.732  0.031  0.878  0.016  0.639  0.042  784.4  76.095  1391.6  76.095
+              Lookup         0.738  0.017   0.750  0.014  0.891  0.014  0.587  0.029  784.4  76.095  1391.6  76.095
+              Prior          0.560  0.011   0.571  0.010  0.500  0.000  0.003  0.003  784.4  76.095  1391.6  76.095
+pair-disjoint GBDT-Graph     0.931  0.008   0.936  0.007  0.987  0.002  0.883  0.016  435.2   1.398  1740.8   1.398
+              LR-Graph       0.922  0.009   0.926  0.007  0.982  0.003  0.877  0.010  435.2   1.398  1740.8   1.398
+              LR-Lex         0.909  0.011   0.914  0.012  0.978  0.005  0.855  0.011  435.2   1.398  1740.8   1.398
+              LR-Lex+Graph   0.926  0.008   0.930  0.007  0.983  0.003  0.884  0.012  435.2   1.398  1740.8   1.398
+              Lookup         0.863  0.011   0.871  0.011  0.974  0.004  0.777  0.015  435.2   1.398  1740.8   1.398
+              Prior          0.562  0.008   0.571  0.007  0.500  0.000  0.003  0.002  435.2   1.398  1740.8   1.398
+pathway-held-out (test-size weighted)
+               macroF1  microF1  AUROC  exact
+model                                       
+GBDT-Graph      0.471    0.553  0.606  0.269
+LR-Graph        0.447    0.569  0.620  0.452
+LR-Lex          0.509    0.609  0.683  0.443
+LR-Lex+Graph    0.445    0.571  0.609  0.452
+Lookup          0.484    0.540  0.597  0.243
+Prior           0.540    0.579  0.500  0.007
+    pathway  ntest  macroF1  AUROC
+64    Endocrine_resistance    103    0.592  0.808
+70    Platinum_drug_resistance     69    0.484  0.655
+76    MAPK    248    0.370  0.524
+82    ErbB    109    0.603  0.794
+88    Rap1    114    0.093  0.447
+94    cGMP–PKG    147    0.218  0.351
+100   cAMP    189    0.489  0.479
+106   Cytokine–receptor_interaction    130    0.333    NaN
+112   Viral–cytokine_interaction     89    0.333    NaN
+118   Oocyte_meiosis     80    0.280  0.572
+124   p53     43    0.327  0.598
+130    Ras    191    0.570  0.577
+136   Autophagy    146    0.756  0.824
+142   ER_protein_processing     42    0.414  0.856
+148   Endocytosis     82    0.397  0.643
+154   mTOR     71    0.400  0.537
+160   AMPK    165    0.276  0.435
+166   Apoptosis    202    0.590  0.792
+172   Longevity    127    0.502  0.562
+178   Apoptosis_(multiple_species)     30    0.328  0.736
+184   Necroptosis     20    0.294  0.521
+190   Adrenergic_signalling_(cardiac)     13    0.306  0.376
+196    EGFR-TKI_resistance    105    0.727  0.858
+
+real	16m55.045s
+user	22m21.119s
+sys	5m1.840s
