@@ -1,0 +1,63 @@
+pair-disjoint 0 {'LR-Lex_AUROC': 0.981, 'BioBERT-Frozen_AUROC': 0.987, 'BioBERT-Frozen_AUPRC': 0.972, 'BioBERT-Frozen-Scr_AUROC': 0.903, 'Frozen_activation': 0.986, 'Frozen_inhibition': 0.985, 'Frozen_phosphorylation': 0.991}
+pair-disjoint 1 {'LR-Lex_AUROC': 0.97, 'BioBERT-Frozen_AUROC': 0.983, 'BioBERT-Frozen_AUPRC': 0.965, 'BioBERT-Frozen-Scr_AUROC': 0.929, 'Frozen_activation': 0.982, 'Frozen_inhibition': 0.981, 'Frozen_phosphorylation': 0.986}
+pair-disjoint 2 {'LR-Lex_AUROC': 0.977, 'BioBERT-Frozen_AUROC': 0.986, 'BioBERT-Frozen_AUPRC': 0.979, 'BioBERT-Frozen-Scr_AUROC': 0.924, 'Frozen_activation': 0.989, 'Frozen_inhibition': 0.985, 'Frozen_phosphorylation': 0.985}
+pair-disjoint 3 {'LR-Lex_AUROC': 0.98, 'BioBERT-Frozen_AUROC': 0.989, 'BioBERT-Frozen_AUPRC': 0.98, 'BioBERT-Frozen-Scr_AUROC': 0.924, 'Frozen_activation': 0.985, 'Frozen_inhibition': 0.989, 'Frozen_phosphorylation': 0.992}
+pair-disjoint 4 {'LR-Lex_AUROC': 0.983, 'BioBERT-Frozen_AUROC': 0.982, 'BioBERT-Frozen_AUPRC': 0.972, 'BioBERT-Frozen-Scr_AUROC': 0.914, 'Frozen_activation': 0.977, 'Frozen_inhibition': 0.981, 'Frozen_phosphorylation': 0.989}
+pair-disjoint 5 {'LR-Lex_AUROC': 0.984, 'BioBERT-Frozen_AUROC': 0.993, 'BioBERT-Frozen_AUPRC': 0.986, 'BioBERT-Frozen-Scr_AUROC': 0.93, 'Frozen_activation': 0.993, 'Frozen_inhibition': 0.993, 'Frozen_phosphorylation': 0.992}
+pair-disjoint 6 {'LR-Lex_AUROC': 0.976, 'BioBERT-Frozen_AUROC': 0.985, 'BioBERT-Frozen_AUPRC': 0.975, 'BioBERT-Frozen-Scr_AUROC': 0.935, 'Frozen_activation': 0.982, 'Frozen_inhibition': 0.979, 'Frozen_phosphorylation': 0.992}
+pair-disjoint 7 {'LR-Lex_AUROC': 0.971, 'BioBERT-Frozen_AUROC': 0.982, 'BioBERT-Frozen_AUPRC': 0.974, 'BioBERT-Frozen-Scr_AUROC': 0.909, 'Frozen_activation': 0.98, 'Frozen_inhibition': 0.977, 'Frozen_phosphorylation': 0.99}
+pair-disjoint 8 {'LR-Lex_AUROC': 0.978, 'BioBERT-Frozen_AUROC': 0.986, 'BioBERT-Frozen_AUPRC': 0.978, 'BioBERT-Frozen-Scr_AUROC': 0.922, 'Frozen_activation': 0.986, 'Frozen_inhibition': 0.981, 'Frozen_phosphorylation': 0.991}
+pair-disjoint 9 {'LR-Lex_AUROC': 0.982, 'BioBERT-Frozen_AUROC': 0.984, 'BioBERT-Frozen_AUPRC': 0.96, 'BioBERT-Frozen-Scr_AUROC': 0.916, 'Frozen_activation': 0.99, 'Frozen_inhibition': 0.984, 'Frozen_phosphorylation': 0.977}
+gene-disjoint 0 {'LR-Lex_AUROC': 0.952, 'BioBERT-Frozen_AUROC': 0.947, 'BioBERT-Frozen_AUPRC': 0.922, 'BioBERT-Frozen-Scr_AUROC': 0.756, 'Frozen_activation': 0.922, 'Frozen_inhibition': 0.945, 'Frozen_phosphorylation': 0.975}
+gene-disjoint 1 {'LR-Lex_AUROC': 0.954, 'BioBERT-Frozen_AUROC': 0.937, 'BioBERT-Frozen_AUPRC': 0.884, 'BioBERT-Frozen-Scr_AUROC': 0.719, 'Frozen_activation': 0.927, 'Frozen_inhibition': 0.918, 'Frozen_phosphorylation': 0.967}
+gene-disjoint 2 {'LR-Lex_AUROC': 0.927, 'BioBERT-Frozen_AUROC': 0.939, 'BioBERT-Frozen_AUPRC': 0.9, 'BioBERT-Frozen-Scr_AUROC': 0.717, 'Frozen_activation': 0.923, 'Frozen_inhibition': 0.929, 'Frozen_phosphorylation': 0.964}
+gene-disjoint 3 {'LR-Lex_AUROC': 0.941, 'BioBERT-Frozen_AUROC': 0.957, 'BioBERT-Frozen_AUPRC': 0.934, 'BioBERT-Frozen-Scr_AUROC': 0.699, 'Frozen_activation': 0.953, 'Frozen_inhibition': 0.941, 'Frozen_phosphorylation': 0.976}
+gene-disjoint 4 {'LR-Lex_AUROC': 0.919, 'BioBERT-Frozen_AUROC': 0.921, 'BioBERT-Frozen_AUPRC': 0.892, 'BioBERT-Frozen-Scr_AUROC': 0.76, 'Frozen_activation': 0.931, 'Frozen_inhibition': 0.913, 'Frozen_phosphorylation': 0.918}
+gene-disjoint 5 {'LR-Lex_AUROC': 0.948, 'BioBERT-Frozen_AUROC': 0.939, 'BioBERT-Frozen_AUPRC': 0.898, 'BioBERT-Frozen-Scr_AUROC': 0.703, 'Frozen_activation': 0.937, 'Frozen_inhibition': 0.926, 'Frozen_phosphorylation': 0.953}
+gene-disjoint 6 {'LR-Lex_AUROC': 0.934, 'BioBERT-Frozen_AUROC': 0.93, 'BioBERT-Frozen_AUPRC': 0.897, 'BioBERT-Frozen-Scr_AUROC': 0.692, 'Frozen_activation': 0.926, 'Frozen_inhibition': 0.889, 'Frozen_phosphorylation': 0.974}
+gene-disjoint 7 {'LR-Lex_AUROC': 0.932, 'BioBERT-Frozen_AUROC': 0.935, 'BioBERT-Frozen_AUPRC': 0.9, 'BioBERT-Frozen-Scr_AUROC': 0.711, 'Frozen_activation': 0.932, 'Frozen_inhibition': 0.915, 'Frozen_phosphorylation': 0.958}
+gene-disjoint 8 {'LR-Lex_AUROC': 0.943, 'BioBERT-Frozen_AUROC': 0.944, 'BioBERT-Frozen_AUPRC': 0.923, 'BioBERT-Frozen-Scr_AUROC': 0.744, 'Frozen_activation': 0.936, 'Frozen_inhibition': 0.941, 'Frozen_phosphorylation': 0.956}
+gene-disjoint 9 {'LR-Lex_AUROC': 0.943, 'BioBERT-Frozen_AUROC': 0.922, 'BioBERT-Frozen_AUPRC': 0.895, 'BioBERT-Frozen-Scr_AUROC': 0.695, 'Frozen_activation': 0.898, 'Frozen_inhibition': 0.889, 'Frozen_phosphorylation': 0.979}
+family-disjoint 0 {'LR-Lex_AUROC': 0.804, 'BioBERT-Frozen_AUROC': 0.786, 'BioBERT-Frozen_AUPRC': 0.749, 'BioBERT-Frozen-Scr_AUROC': 0.649, 'Frozen_activation': 0.782, 'Frozen_inhibition': 0.752, 'Frozen_phosphorylation': 0.824}
+family-disjoint 1 {'LR-Lex_AUROC': 0.775, 'BioBERT-Frozen_AUROC': 0.771, 'BioBERT-Frozen_AUPRC': 0.741, 'BioBERT-Frozen-Scr_AUROC': 0.612, 'Frozen_activation': 0.678, 'Frozen_inhibition': 0.733, 'Frozen_phosphorylation': 0.902}
+family-disjoint 2 {'LR-Lex_AUROC': 0.713, 'BioBERT-Frozen_AUROC': 0.717, 'BioBERT-Frozen_AUPRC': 0.612, 'BioBERT-Frozen-Scr_AUROC': 0.595, 'Frozen_activation': 0.576, 'Frozen_inhibition': 0.695, 'Frozen_phosphorylation': 0.88}
+family-disjoint 3 {'LR-Lex_AUROC': 0.846, 'BioBERT-Frozen_AUROC': 0.841, 'BioBERT-Frozen_AUPRC': 0.703, 'BioBERT-Frozen-Scr_AUROC': 0.646, 'Frozen_activation': 0.826, 'Frozen_inhibition': 0.793, 'Frozen_phosphorylation': 0.905}
+family-disjoint 4 {'LR-Lex_AUROC': 0.904, 'BioBERT-Frozen_AUROC': 0.856, 'BioBERT-Frozen_AUPRC': 0.78, 'BioBERT-Frozen-Scr_AUROC': 0.652, 'Frozen_activation': 0.836, 'Frozen_inhibition': 0.797, 'Frozen_phosphorylation': 0.934}
+family-disjoint 5 {'LR-Lex_AUROC': 0.797, 'BioBERT-Frozen_AUROC': 0.813, 'BioBERT-Frozen_AUPRC': 0.734, 'BioBERT-Frozen-Scr_AUROC': 0.708, 'Frozen_activation': 0.749, 'Frozen_inhibition': 0.757, 'Frozen_phosphorylation': 0.933}
+family-disjoint 6 {'LR-Lex_AUROC': 0.749, 'BioBERT-Frozen_AUROC': 0.752, 'BioBERT-Frozen_AUPRC': 0.638, 'BioBERT-Frozen-Scr_AUROC': 0.637, 'Frozen_activation': 0.692, 'Frozen_inhibition': 0.735, 'Frozen_phosphorylation': 0.83}
+family-disjoint 7 {'LR-Lex_AUROC': 0.862, 'BioBERT-Frozen_AUROC': 0.867, 'BioBERT-Frozen_AUPRC': 0.789, 'BioBERT-Frozen-Scr_AUROC': 0.647, 'Frozen_activation': 0.856, 'Frozen_inhibition': 0.818, 'Frozen_phosphorylation': 0.928}
+family-disjoint 8 {'LR-Lex_AUROC': 0.8, 'BioBERT-Frozen_AUROC': 0.765, 'BioBERT-Frozen_AUPRC': 0.679, 'BioBERT-Frozen-Scr_AUROC': 0.677, 'Frozen_activation': 0.734, 'Frozen_inhibition': 0.682, 'Frozen_phosphorylation': 0.878}
+family-disjoint 9 {'LR-Lex_AUROC': 0.857, 'BioBERT-Frozen_AUROC': 0.809, 'BioBERT-Frozen_AUPRC': 0.783, 'BioBERT-Frozen-Scr_AUROC': 0.641, 'Frozen_activation': 0.773, 'Frozen_inhibition': 0.756, 'Frozen_phosphorylation': 0.898}
+pathway-held-out 0 {'LR-Lex_AUROC': 0.784, 'BioBERT-Frozen_AUROC': 0.696, 'BioBERT-Frozen_AUPRC': 0.565, 'BioBERT-Frozen-Scr_AUROC': 0.716, 'Frozen_activation': 0.754, 'Frozen_inhibition': 0.56, 'Frozen_phosphorylation': 0.776}
+pathway-held-out 1 {'LR-Lex_AUROC': 0.67, 'BioBERT-Frozen_AUROC': 0.552, 'BioBERT-Frozen_AUPRC': 0.499, 'BioBERT-Frozen-Scr_AUROC': 0.696, 'Frozen_activation': 0.528, 'Frozen_inhibition': 0.531, 'Frozen_phosphorylation': 0.597}
+pathway-held-out 2 {'LR-Lex_AUROC': 0.714, 'BioBERT-Frozen_AUROC': 0.79, 'BioBERT-Frozen_AUPRC': 0.691, 'BioBERT-Frozen-Scr_AUROC': 0.512, 'Frozen_activation': 0.737, 'Frozen_inhibition': 0.685, 'Frozen_phosphorylation': 0.947}
+pathway-held-out 3 {'LR-Lex_AUROC': 0.783, 'BioBERT-Frozen_AUROC': 0.762, 'BioBERT-Frozen_AUPRC': 0.684, 'BioBERT-Frozen-Scr_AUROC': 0.648, 'Frozen_activation': 0.75, 'Frozen_inhibition': 0.854, 'Frozen_phosphorylation': 0.68}
+pathway-held-out 4 {'LR-Lex_AUROC': 0.55, 'BioBERT-Frozen_AUROC': 0.452, 'BioBERT-Frozen_AUPRC': 0.397, 'BioBERT-Frozen-Scr_AUROC': 0.51, 'Frozen_activation': 0.136, 'Frozen_inhibition': 0.275, 'Frozen_phosphorylation': 0.945}
+pathway-held-out 5 {'LR-Lex_AUROC': 0.738, 'BioBERT-Frozen_AUROC': 0.714, 'BioBERT-Frozen_AUPRC': 0.572, 'BioBERT-Frozen-Scr_AUROC': 0.589, 'Frozen_activation': 0.622, 'Frozen_inhibition': 0.69, 'Frozen_phosphorylation': 0.831}
+pathway-held-out 6 {'LR-Lex_AUROC': 0.509, 'BioBERT-Frozen_AUROC': 0.703, 'BioBERT-Frozen_AUPRC': 0.527, 'BioBERT-Frozen-Scr_AUROC': 0.614, 'Frozen_activation': 0.753, 'Frozen_inhibition': 0.567, 'Frozen_phosphorylation': 0.79}
+pathway-held-out 7 {'LR-Lex_AUROC': nan, 'BioBERT-Frozen_AUROC': nan, 'BioBERT-Frozen_AUPRC': nan, 'BioBERT-Frozen-Scr_AUROC': nan}
+pathway-held-out 8 {'LR-Lex_AUROC': nan, 'BioBERT-Frozen_AUROC': nan, 'BioBERT-Frozen_AUPRC': nan, 'BioBERT-Frozen-Scr_AUROC': nan}
+pathway-held-out 9 {'LR-Lex_AUROC': 0.599, 'BioBERT-Frozen_AUROC': 0.494, 'BioBERT-Frozen_AUPRC': 0.646, 'BioBERT-Frozen-Scr_AUROC': 0.408, 'Frozen_activation': 0.381, 'Frozen_inhibition': 0.498, 'Frozen_phosphorylation': 0.604}
+pathway-held-out 10 {'LR-Lex_AUROC': 0.784, 'BioBERT-Frozen_AUROC': 0.74, 'BioBERT-Frozen_AUPRC': 0.704, 'BioBERT-Frozen-Scr_AUROC': 0.437, 'Frozen_activation': 0.637, 'Frozen_inhibition': 0.685, 'Frozen_phosphorylation': 0.898}
+pathway-held-out 11 {'LR-Lex_AUROC': 0.663, 'BioBERT-Frozen_AUROC': 0.767, 'BioBERT-Frozen_AUPRC': 0.635, 'BioBERT-Frozen-Scr_AUROC': 0.634, 'Frozen_activation': 0.718, 'Frozen_inhibition': 0.647, 'Frozen_phosphorylation': 0.936}
+pathway-held-out 12 {'LR-Lex_AUROC': 0.786, 'BioBERT-Frozen_AUROC': 0.81, 'BioBERT-Frozen_AUPRC': 0.759, 'BioBERT-Frozen-Scr_AUROC': 0.686, 'Frozen_activation': 0.859, 'Frozen_inhibition': 0.65, 'Frozen_phosphorylation': 0.921}
+pathway-held-out 13 {'LR-Lex_AUROC': 0.807, 'BioBERT-Frozen_AUROC': 0.802, 'BioBERT-Frozen_AUPRC': 0.714, 'BioBERT-Frozen-Scr_AUROC': 0.486, 'Frozen_activation': 0.674, 'Frozen_inhibition': 0.804, 'Frozen_phosphorylation': 0.928}
+pathway-held-out 14 {'LR-Lex_AUROC': 0.707, 'BioBERT-Frozen_AUROC': 0.686, 'BioBERT-Frozen_AUPRC': 0.62, 'BioBERT-Frozen-Scr_AUROC': 0.637, 'Frozen_activation': 0.527, 'Frozen_inhibition': 0.532, 'Frozen_phosphorylation': 1.0}
+pathway-held-out 15 {'LR-Lex_AUROC': 0.646, 'BioBERT-Frozen_AUROC': 0.616, 'BioBERT-Frozen_AUPRC': 0.671, 'BioBERT-Frozen-Scr_AUROC': 0.464, 'Frozen_activation': 0.341, 'Frozen_inhibition': 0.676, 'Frozen_phosphorylation': 0.83}
+pathway-held-out 16 {'LR-Lex_AUROC': 0.66, 'BioBERT-Frozen_AUROC': 0.633, 'BioBERT-Frozen_AUPRC': 0.741, 'BioBERT-Frozen-Scr_AUROC': 0.529, 'Frozen_activation': 0.614, 'Frozen_inhibition': 0.719, 'Frozen_phosphorylation': 0.567}
+pathway-held-out 17 {'LR-Lex_AUROC': 0.684, 'BioBERT-Frozen_AUROC': 0.733, 'BioBERT-Frozen_AUPRC': 0.705, 'BioBERT-Frozen-Scr_AUROC': 0.63, 'Frozen_activation': 0.589, 'Frozen_inhibition': 0.654, 'Frozen_phosphorylation': 0.957}
+pathway-held-out 18 {'LR-Lex_AUROC': 0.584, 'BioBERT-Frozen_AUROC': 0.636, 'BioBERT-Frozen_AUPRC': 0.645, 'BioBERT-Frozen-Scr_AUROC': 0.634, 'Frozen_activation': 0.69, 'Frozen_inhibition': 0.56, 'Frozen_phosphorylation': 0.658}
+pathway-held-out 19 {'LR-Lex_AUROC': 0.801, 'BioBERT-Frozen_AUROC': 0.717, 'BioBERT-Frozen_AUPRC': 0.76, 'BioBERT-Frozen-Scr_AUROC': 0.835, 'Frozen_activation': 0.733, 'Frozen_inhibition': 0.702}
+pathway-held-out 20 {'LR-Lex_AUROC': 0.681, 'BioBERT-Frozen_AUROC': 0.669, 'BioBERT-Frozen_AUPRC': 0.826, 'BioBERT-Frozen-Scr_AUROC': 0.593, 'Frozen_activation': 0.611, 'Frozen_phosphorylation': 0.727}
+pathway-held-out 21 {'LR-Lex_AUROC': 0.444, 'BioBERT-Frozen_AUROC': 0.533, 'BioBERT-Frozen_AUPRC': 0.873, 'BioBERT-Frozen-Scr_AUROC': 0.72, 'Frozen_activation': 0.567, 'Frozen_phosphorylation': 0.5}
+pathway-held-out 22 {'LR-Lex_AUROC': 0.819, 'BioBERT-Frozen_AUROC': 0.752, 'BioBERT-Frozen_AUPRC': 0.683, 'BioBERT-Frozen-Scr_AUROC': 0.746, 'Frozen_activation': 0.633, 'Frozen_inhibition': 0.766, 'Frozen_phosphorylation': 0.858}
+split                     family-disjoint  gene-disjoint  pair-disjoint  pathway-held-out
+fold                                4.500          4.500          4.500            11.000
+ntest                             768.500        784.400        435.200           109.348
+LR-Lex_AUROC                        0.811          0.939          0.978             0.686
+BioBERT-Frozen_AUROC                0.798          0.937          0.986             0.679
+BioBERT-Frozen_AUPRC                0.721          0.904          0.974             0.663
+BioBERT-Frozen-Scr_AUROC            0.646          0.720          0.920             0.606
+Frozen_activation                   0.750          0.928          0.985             0.612
+Frozen_inhibition                   0.752          0.921          0.984             0.634
+Frozen_phosphorylation              0.891          0.962          0.988             0.798

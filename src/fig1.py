@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt, numpy as np
 from matplotlib.patches import FancyBboxPatch, Circle, Rectangle, Polygon
 from matplotlib.lines import Line2D
 ACT,INH,PHO=nstyle.REL["activation"],nstyle.REL["inhibition"],nstyle.REL["phosphorylation"]
-INK="#1F1F1F"; SUB="#666666"; LG="#C9C9C9"; RED="#D1495B"; BLUE="#2B7BB9"; CARD="#F6F7F9"; EDGE="#D5D9DF"
+INK="#1F1F1F"; SUB="#666666"; LG="#C9C9C9"; RED=nstyle.ACC; BLUE=nstyle.MOD["LR-Lex"]; CARD="#F6F7F9"; EDGE="#D5D9DF"
 NUM=json.load(open("res/fig1_numbers.json"))
 W,H=180,98
 fig=plt.figure(figsize=(7.1,7.1*H/W)); ax=fig.add_axes([0,0,1,1]); ax.set_xlim(0,W); ax.set_ylim(0,H); ax.set_aspect("equal"); ax.axis("off")
@@ -17,8 +17,8 @@ def arrow(p,q,c=INK,lw=0.7,hl=1.3,hw=0.6,sA=0,sB=0,ls="-",bar=False,z=5):
     ax.add_patch(Polygon([b,b-u*hl+n*hw,b-u*hl-n*hw],fc=c,ec="none",zorder=z))
 def rbox(x,y,w,h,fc="white",ec=EDGE,lw=0.6,r=1.2,z=1): ax.add_patch(FancyBboxPatch((x,y),w,h,boxstyle=f"round,pad=0,rounding_size={r}",fc=fc,ec=ec,lw=lw,zorder=z))
 CW,CH=57,45; X=[1.5,61.5,121.5]; Y=[51.5,2]
-cards=[("a","KEGG pathway data","Curated human signalling maps"),("b","Hidden shortcuts","What random splits do not show"),("c","Leakage-aware splits","Four levels of held-out knowledge"),
-       ("d","AI predictors","Seven models, symbol and graph inputs"),("e","Stress tests","Probing what the models rely on"),("f","Key finding","Names transfer; signalling sign does not")]
+cards=[("a","KEGG pathway data","Curated human signaling maps"),("b","Hidden shortcuts","What random splits do not show"),("c","Leakage-aware splits","Four levels of held-out knowledge"),
+       ("d","AI and language models","Seven models, symbol and graph inputs"),("e","Stress tests","Probing what the models rely on"),("f","Key finding","Names transfer; signaling sign does not")]
 for i,(l,t,s) in enumerate(cards):
     x0=X[i%3]; y0=Y[i//3]
     T(x0+0.5,y0+CH-4.0,l,fontsize=9,fontweight="bold",va="top"); T(x0+5.2,y0+CH-4.35,t,fontsize=6.8,va="top")
@@ -95,17 +95,21 @@ arrow((ix+5.5,iy+2.7),(ix+5.5,iy-2.7),c="#5F6B76",lw=0.6,hl=0.9,hw=0.45)
 T(ix+6.5,iy+0.1,"?",fontsize=7,fontweight="bold",color=RED,va="center")
 T(ix,iy+8.3,"gene pair",fontsize=5.2,color=SUB)
 mx=x0+20.5
-rbox(mx,y0+20.5,17.5,13,fc="#F2F4F7",ec="none",lw=0,r=1.0,z=2)
-T(mx+8.75,y0+31.4,"Symbol models",fontsize=5.6,fontweight="bold",ha="center",va="center",zorder=4)
+rbox(mx,y0+25.3,17.5,8.6,fc="#F2F4F7",ec="none",lw=0,r=1.0,z=2)
+T(mx+8.75,y0+32.3,"Symbol models",fontsize=5.4,fontweight="bold",ha="center",va="center",zorder=4)
 for k,(nm,c) in enumerate([("LR-Lex",nstyle.MOD["LR-Lex"]),("CharCNN",nstyle.MOD["CharCNN"])]):
-    ax.add_patch(Circle((mx+2.4,y0+27.4-k*3.6),0.8,fc=c,ec="none",zorder=4)); T(mx+4,y0+27.4-k*3.6,nm,fontsize=5.2,va="center",zorder=4)
-rbox(mx,y0+3.5,17.5,15.5,fc="#F2F4F7",ec="none",lw=0,r=1.0,z=2)
-T(mx+8.75,y0+16.6,"Graph models",fontsize=5.6,fontweight="bold",ha="center",va="center",zorder=4)
+    ax.add_patch(Circle((mx+2.4,y0+29.4-k*2.5),0.7,fc=c,ec="none",zorder=4)); T(mx+4,y0+29.4-k*2.5,nm,fontsize=5.0,va="center",zorder=4)
+rbox(mx,y0+15.2,17.5,8.9,fc="#F2F4F7",ec="none",lw=0,r=1.0,z=2)
+T(mx+8.75,y0+22.5,"Language models",fontsize=5.4,fontweight="bold",ha="center",va="center",zorder=4)
+for k,(nm,c) in enumerate([("BioBERT v1.1, v1.0",nstyle.MOD["BioBERT"]),("SciBERT, SPECTER",nstyle.MOD["SciBERT"])]):
+    ax.add_patch(Circle((mx+2.4,y0+19.6-k*2.5),0.7,fc=c,ec="none",zorder=4)); T(mx+4,y0+19.6-k*2.5,nm,fontsize=5.0,va="center",zorder=4)
+rbox(mx,y0+1.2,17.5,12.8,fc="#F2F4F7",ec="none",lw=0,r=1.0,z=2)
+T(mx+8.75,y0+12.4,"Graph models",fontsize=5.4,fontweight="bold",ha="center",va="center",zorder=4)
 for k,(nm,c) in enumerate([("Lookup",nstyle.MOD["Lookup"]),("LR-Graph",nstyle.MOD["LR-Graph"]),("GBDT-Graph",nstyle.MOD["GBDT-Graph"]),("GraphSAGE GNN",nstyle.MOD["GNN"])]):
-    ax.add_patch(Circle((mx+2.4,y0+13.2-k*2.85),0.75,fc=c,ec="none",zorder=4)); T(mx+4,y0+13.2-k*2.85,nm,fontsize=5.0,va="center",zorder=4)
-for yy in (y0+27,y0+11): arrow((ix+13.5,iy),(mx-0.3,yy),c="#9AA3AE",lw=0.55,hl=0.9,hw=0.45)
+    ax.add_patch(Circle((mx+2.4,y0+9.6-k*2.4),0.7,fc=c,ec="none",zorder=4)); T(mx+4,y0+9.6-k*2.4,nm,fontsize=5.0,va="center",zorder=4)
+for yy in (y0+29.6,y0+19.6,y0+7.6): arrow((ix+13.5,iy),(mx-0.3,yy),c="#9AA3AE",lw=0.55,hl=0.9,hw=0.45)
 ox=x0+44
-for yy in (y0+27,y0+11): arrow((mx+17.8,yy),(ox-0.5,y0+19),c="#9AA3AE",lw=0.55,hl=0.9,hw=0.45)
+for yy in (y0+29.6,y0+19.6,y0+7.6): arrow((mx+17.8,yy),(ox-0.5,y0+19),c="#9AA3AE",lw=0.55,hl=0.9,hw=0.45)
 for k,(lab,c,v) in enumerate([("act.",ACT,0.78),("inh.",INH,0.12),("phos.",PHO,0.91)]):
     yy=y0+25-k*5.5; ax.add_patch(Rectangle((ox,yy-1),8*v,2,fc=c,ec="none")); ax.add_patch(Rectangle((ox,yy-1),8,2,fc="none",ec="#BFC5CC",lw=0.4))
     T(ox,yy+2.4,lab,fontsize=5,color=c,va="center")
@@ -136,7 +140,7 @@ def pairbars(tx,ty,title,key2,c2,lab2):
     for k,(lab,c) in enumerate((("original",nstyle.MOD["LR-Lex"]),(lab2,c2))):
         yy=ty+th-2.1-k*2.2 if False else ty+th-2.1
     T(tx+tw-1.2,ty+th-4.9,lab2,fontsize=4.1,color=c2,ha="right",va="center",zorder=3); T(tx+tw-11.0,ty+th-4.9,"original",fontsize=4.1,color=nstyle.MOD["LR-Lex"],ha="right",va="center",zorder=3)
-pairbars(*tiles[0],"Scrambled names","LR-Lex-scr_AUROC","#B5446E","scrambled")
+pairbars(*tiles[0],"Scrambled names","LR-Lex-scr_AUROC",nstyle.ACC,"scrambled")
 pairbars(*tiles[1],"Swapped roles","LR-Lex_swapAUROC",nstyle.MOD["GBDT-Graph"],"swapped")
 # calibration: ECE lines
 tx,ty=tiles[2]; px,py,pw,ph,xs,Yv=frame(tx,ty,"Calibration (ECE)",0,0.4,[0,0.2,0.4],lambda t:f"{t:g}")
@@ -149,7 +153,7 @@ T(tx+tw-12.6,ty+th-4.9,"LR-Lex",fontsize=4.3,color=nstyle.MOD["LR-Lex"],ha="righ
 tx,ty=tiles[3]; px,py,pw,ph,xs,Yv=frame(tx,ty,"Conformal coverage",0,1.0,[0,0.5,1.0],lambda t:f"{t:g}")
 bw=pw/4*0.68
 for k,s in enumerate(SPL):
-    v=PL[s]["conf_cov"]; ax.add_patch(Rectangle((xs[k]-bw/2,py),bw,Yv(v)-py,fc="#5F6B76" if k==0 else RED,ec="none",zorder=4))
+    v=PL[s]["conf_cov"]; ax.add_patch(Rectangle((xs[k]-bw/2,py),bw,Yv(v)-py,fc=nstyle.MOD["LR-Lex"] if k==0 else RED,ec="none",zorder=4))
     T(xs[k],Yv(v)-0.5,f"{v*100:.0f}",fontsize=4.0,ha="center",va="top",color="white",fontweight="bold",zorder=7)
 ax.add_line(Line2D([px,px+pw],[Yv(0.9)]*2,color=INK,lw=0.5,ls=(0,(1.5,1)),zorder=6))
 T(tx+tw-1.2,ty+th-4.9,"--- 90% target",fontsize=4.3,color=SUB,ha="right",va="center",zorder=3)
@@ -157,7 +161,7 @@ T(tx+tw-1.2,ty+th-4.9,"--- 90% target",fontsize=4.3,color=SUB,ha="right",va="cen
 x0,y0=X[2],Y[1]
 gx,gy,gw,gh=x0+9,y0+6.5,33,27
 def YP(v): return gy+(v-0.5)/0.5*gh
-ax.add_patch(Rectangle((gx,YP(0.5)),gw,YP(0.6)-YP(0.5),fc="#F3D6DA",ec="none",zorder=1))
+ax.add_patch(Rectangle((gx,YP(0.5)),gw,YP(0.6)-YP(0.5),fc="#F7DCDC",ec="none",zorder=1))
 T(gx+1,YP(0.55),"near chance",fontsize=4.6,color=RED,va="center",zorder=2)
 ax.add_line(Line2D([gx,gx],[gy,gy+gh],color="#333333",lw=0.5)); ax.add_line(Line2D([gx,gx+gw],[gy,gy],color="#333333",lw=0.5))
 for v in (0.5,0.75,1.0):

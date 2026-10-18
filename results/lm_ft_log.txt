@@ -1,0 +1,47 @@
+pair-disjoint 0 {'BioBERT-FT_AUROC': 0.983, 'BioBERT-FT_AUPRC': 0.97, 'FT_activation': 0.977, 'FT_inhibition': 0.983, 'FT_phosphorylation': 0.988, 'sec': 201.905}
+pair-disjoint 1 {'BioBERT-FT_AUROC': 0.975, 'BioBERT-FT_AUPRC': 0.953, 'FT_activation': 0.985, 'FT_inhibition': 0.982, 'FT_phosphorylation': 0.957, 'sec': 197.957}
+pair-disjoint 2 {'BioBERT-FT_AUROC': 0.979, 'BioBERT-FT_AUPRC': 0.974, 'FT_activation': 0.982, 'FT_inhibition': 0.982, 'FT_phosphorylation': 0.974, 'sec': 201.743}
+pair-disjoint 3 {'BioBERT-FT_AUROC': 0.985, 'BioBERT-FT_AUPRC': 0.977, 'FT_activation': 0.985, 'FT_inhibition': 0.983, 'FT_phosphorylation': 0.988, 'sec': 210.012}
+pair-disjoint 4 {'BioBERT-FT_AUROC': 0.985, 'BioBERT-FT_AUPRC': 0.978, 'FT_activation': 0.982, 'FT_inhibition': 0.986, 'FT_phosphorylation': 0.986, 'sec': 1022.08}
+gene-disjoint 0 {'BioBERT-FT_AUROC': 0.951, 'BioBERT-FT_AUPRC': 0.926, 'FT_activation': 0.94, 'FT_inhibition': 0.956, 'FT_phosphorylation': 0.956, 'sec': 177.684}
+gene-disjoint 1 {'BioBERT-FT_AUROC': 0.944, 'BioBERT-FT_AUPRC': 0.914, 'FT_activation': 0.944, 'FT_inhibition': 0.928, 'FT_phosphorylation': 0.961, 'sec': 159.188}
+gene-disjoint 2 {'BioBERT-FT_AUROC': 0.911, 'BioBERT-FT_AUPRC': 0.884, 'FT_activation': 0.871, 'FT_inhibition': 0.92, 'FT_phosphorylation': 0.941, 'sec': 142.433}
+gene-disjoint 3 {'BioBERT-FT_AUROC': 0.948, 'BioBERT-FT_AUPRC': 0.933, 'FT_activation': 0.938, 'FT_inhibition': 0.927, 'FT_phosphorylation': 0.978, 'sec': 156.431}
+gene-disjoint 4 {'BioBERT-FT_AUROC': 0.93, 'BioBERT-FT_AUPRC': 0.897, 'FT_activation': 0.923, 'FT_inhibition': 0.93, 'FT_phosphorylation': 0.937, 'sec': 167.858}
+family-disjoint 0 {'BioBERT-FT_AUROC': 0.804, 'BioBERT-FT_AUPRC': 0.762, 'FT_activation': 0.812, 'FT_inhibition': 0.752, 'FT_phosphorylation': 0.846, 'sec': 142.718}
+family-disjoint 1 {'BioBERT-FT_AUROC': 0.868, 'BioBERT-FT_AUPRC': 0.791, 'FT_activation': 0.855, 'FT_inhibition': 0.856, 'FT_phosphorylation': 0.894, 'sec': 173.497}
+family-disjoint 2 {'BioBERT-FT_AUROC': 0.777, 'BioBERT-FT_AUPRC': 0.705, 'FT_activation': 0.689, 'FT_inhibition': 0.693, 'FT_phosphorylation': 0.95, 'sec': 154.91}
+family-disjoint 3 {'BioBERT-FT_AUROC': 0.843, 'BioBERT-FT_AUPRC': 0.691, 'FT_activation': 0.855, 'FT_inhibition': 0.779, 'FT_phosphorylation': 0.894, 'sec': 157.817}
+family-disjoint 4 {'BioBERT-FT_AUROC': 0.861, 'BioBERT-FT_AUPRC': 0.83, 'FT_activation': 0.809, 'FT_inhibition': 0.839, 'FT_phosphorylation': 0.935, 'sec': 163.377}
+pathway-held-out 0 {'BioBERT-FT_AUROC': 0.789, 'BioBERT-FT_AUPRC': 0.648, 'FT_activation': 0.844, 'FT_inhibition': 0.686, 'FT_phosphorylation': 0.837, 'sec': 226.396}
+pathway-held-out 1 {'BioBERT-FT_AUROC': 0.813, 'BioBERT-FT_AUPRC': 0.742, 'FT_activation': 0.869, 'FT_inhibition': 0.856, 'FT_phosphorylation': 0.715, 'sec': 228.539}
+pathway-held-out 2 {'BioBERT-FT_AUROC': 0.874, 'BioBERT-FT_AUPRC': 0.845, 'FT_activation': 0.84, 'FT_inhibition': 0.807, 'FT_phosphorylation': 0.975, 'sec': 209.783}
+pathway-held-out 3 {'BioBERT-FT_AUROC': 0.792, 'BioBERT-FT_AUPRC': 0.776, 'FT_activation': 0.72, 'FT_inhibition': 0.887, 'FT_phosphorylation': 0.77, 'sec': 220.149}
+pathway-held-out 4 {'BioBERT-FT_AUROC': 0.552, 'BioBERT-FT_AUPRC': 0.659, 'FT_activation': 0.314, 'FT_inhibition': 0.342, 'FT_phosphorylation': 1.0, 'sec': 228.453}
+pathway-held-out 5 {'BioBERT-FT_AUROC': 0.657, 'BioBERT-FT_AUPRC': 0.5, 'FT_activation': 0.571, 'FT_inhibition': 0.629, 'FT_phosphorylation': 0.771, 'sec': 221.167}
+pathway-held-out 6 {'BioBERT-FT_AUROC': 0.554, 'BioBERT-FT_AUPRC': 0.542, 'FT_activation': 0.61, 'FT_inhibition': 0.064, 'FT_phosphorylation': 0.988, 'sec': 225.363}
+pathway-held-out 7 {'BioBERT-FT_AUROC': nan, 'BioBERT-FT_AUPRC': nan, 'sec': 230.789}
+pathway-held-out 8 {'BioBERT-FT_AUROC': nan, 'BioBERT-FT_AUPRC': nan, 'sec': 240.3}
+pathway-held-out 9 {'BioBERT-FT_AUROC': 0.686, 'BioBERT-FT_AUPRC': 0.747, 'FT_activation': 0.707, 'FT_inhibition': 0.755, 'FT_phosphorylation': 0.595, 'sec': 242.339}
+pathway-held-out 10 {'BioBERT-FT_AUROC': 0.775, 'BioBERT-FT_AUPRC': 0.799, 'FT_activation': 0.659, 'FT_inhibition': 0.702, 'FT_phosphorylation': 0.963, 'sec': 242.194}
+pathway-held-out 11 {'BioBERT-FT_AUROC': 0.777, 'BioBERT-FT_AUPRC': 0.76, 'FT_activation': 0.681, 'FT_inhibition': 0.679, 'FT_phosphorylation': 0.972, 'sec': 225.657}
+pathway-held-out 12 {'BioBERT-FT_AUROC': 0.736, 'BioBERT-FT_AUPRC': 0.705, 'FT_activation': 0.723, 'FT_inhibition': 0.582, 'FT_phosphorylation': 0.903, 'sec': 231.261}
+pathway-held-out 13 {'BioBERT-FT_AUROC': 0.866, 'BioBERT-FT_AUPRC': 0.85, 'FT_activation': 0.801, 'FT_inhibition': 0.915, 'FT_phosphorylation': 0.882, 'sec': 246.639}
+pathway-held-out 14 {'BioBERT-FT_AUROC': 0.706, 'BioBERT-FT_AUPRC': 0.685, 'FT_activation': 0.538, 'FT_inhibition': 0.59, 'FT_phosphorylation': 0.989, 'sec': 240.245}
+pathway-held-out 15 {'BioBERT-FT_AUROC': 0.743, 'BioBERT-FT_AUPRC': 0.743, 'FT_activation': 0.532, 'FT_inhibition': 0.827, 'FT_phosphorylation': 0.871, 'sec': 238.37}
+pathway-held-out 16 {'BioBERT-FT_AUROC': 0.688, 'BioBERT-FT_AUPRC': 0.744, 'FT_activation': 0.655, 'FT_inhibition': 0.712, 'FT_phosphorylation': 0.698, 'sec': 229.95}
+pathway-held-out 17 {'BioBERT-FT_AUROC': 0.823, 'BioBERT-FT_AUPRC': 0.791, 'FT_activation': 0.677, 'FT_inhibition': 0.807, 'FT_phosphorylation': 0.985, 'sec': 225.309}
+pathway-held-out 18 {'BioBERT-FT_AUROC': 0.519, 'BioBERT-FT_AUPRC': 0.512, 'FT_activation': 0.517, 'FT_inhibition': 0.446, 'FT_phosphorylation': 0.594, 'sec': 233.625}
+pathway-held-out 19 {'BioBERT-FT_AUROC': 0.991, 'BioBERT-FT_AUPRC': 0.98, 'FT_activation': 0.988, 'FT_inhibition': 0.994, 'sec': 255.647}
+pathway-held-out 20 {'BioBERT-FT_AUROC': 0.676, 'BioBERT-FT_AUPRC': 0.841, 'FT_activation': 0.472, 'FT_phosphorylation': 0.879, 'sec': 245.959}
+pathway-held-out 21 {'BioBERT-FT_AUROC': 0.362, 'BioBERT-FT_AUPRC': 0.805, 'FT_activation': 0.633, 'FT_phosphorylation': 0.091, 'sec': 247.643}
+pathway-held-out 22 {'BioBERT-FT_AUROC': 0.875, 'BioBERT-FT_AUPRC': 0.818, 'FT_activation': 0.838, 'FT_inhibition': 0.913, 'FT_phosphorylation': 0.872, 'sec': 235.729}
+split               family-disjoint  gene-disjoint  pair-disjoint  pathway-held-out
+fold                          2.000          2.000          2.000            11.000
+ntest                       782.000        784.400        435.200           109.348
+BioBERT-FT_AUROC              0.831          0.937          0.981             0.726
+BioBERT-FT_AUPRC              0.756          0.911          0.971             0.738
+FT_activation                 0.804          0.923          0.982             0.676
+FT_inhibition                 0.784          0.932          0.983             0.694
+FT_phosphorylation            0.904          0.955          0.978             0.818
+sec                         158.464        160.719        366.739           233.544

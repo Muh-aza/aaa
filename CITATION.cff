@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this benchmark or code, please cite the paper below."
-title: "KEGG-Shortcut-Benchmark"
+title: "Gene Name Shortcuts Inflate AI and Language Model Benchmarks of Pathway Knowledge"
 authors:
   - family-names: Azam
     given-names: Muhammad
@@ -12,12 +12,12 @@ license: MIT
 repository-code: "https://github.com/Muh-aza/aaa"
 preferred-citation:
   type: article
-  title: "AI Models Memorize Gene Names Instead of Learning Pathway Biology"
+  title: "Gene Name Shortcuts Inflate AI and Language Model Benchmarks of Pathway Knowledge"
   authors:
     - family-names: Azam
       given-names: Muhammad
     - family-names: Arowolo
       given-names: Michael Olaolu
-  journal: "IEEE Journal of Biomedical and Health Informatics"
+  journal: "Manuscript under review"
   year: 2026
   notes: "Under review"
